@@ -1,0 +1,58 @@
+# Construit l'APK Android de test à chaque mise à jour de main.
+# L'APK se télécharge dans l'onglet « Releases » du dépôt (version « APK de test »).
+name: APK Android
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: 3.50.0
+          cache: true
+
+      - run: flutter pub get
+      - run: flutter test
+
+      # Clé de test (debug) : l'APK s'installe sur un téléphone, mais il faudra
+      # une clé de publication pour Google Play.
+      - run: flutter build apk --release --build-number=${{ github.run_number }}
+
+      - name: Renommer l'APK
+        run: cp build/app/outputs/flutter-apk/app-release.apk sahti-${{ github.run_number }}.apk
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sahti-apk
+          path: sahti-${{ github.run_number }}.apk
+
+      - name: Publier l'APK de test
+        if: github.event_name != 'pull_request'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: apk-test-${{ github.run_number }}
+          name: APK de test n°${{ github.run_number }}
+          prerelease: true
+          body: |
+            APK de test de Sahti, construit depuis ${{ github.sha }}.
+            Sur le téléphone Android : télécharger le fichier .apk ci-dessous, l'ouvrir,
+            et autoriser l'installation depuis cette source si Android le demande.
+          files: sahti-${{ github.run_number }}.apk
