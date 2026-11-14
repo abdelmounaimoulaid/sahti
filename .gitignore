@@ -9,3 +9,6 @@ ios/Pods/
 ios/.symlinks/
 android/.gradle/
 android/local.properties
+
+# graphify
+graphify-out/cache/
