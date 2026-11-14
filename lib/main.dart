@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'screens/home_screen.dart';
+import 'theme.dart';
 
 void main() => runApp(const SahtiApp());
 
@@ -33,10 +34,8 @@ class _SahtiAppState extends State<SahtiApp> {
         GlobalWidgetsLocalizations.delegate,
         GlobalCupertinoLocalizations.delegate,
       ],
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF0B7A55)),
-        useMaterial3: true,
-      ),
+      theme: sahtiTheme(Brightness.light),
+      darkTheme: sahtiTheme(Brightness.dark),
       home: const HomeScreen(),
     );
   }
