@@ -6,6 +6,7 @@ import '../services/off_api.dart';
 import '../services/scoring.dart';
 import 'add_product_screen.dart';
 import 'widgets.dart';
+import '../theme.dart';
 
 /// Additifs : noms lisibles des plus courants (le reste affiche le code E).
 const _additiveNames = {
@@ -111,7 +112,8 @@ class _ProductView extends StatelessWidget {
             borderRadius: BorderRadius.circular(12),
             child: p.imageUrl == null
                 ? Container(
-                    width: 96, height: 96, color: Colors.grey.shade200,
+                    width: 96, height: 96,
+                    color: Theme.of(context).colorScheme.surfaceContainerHighest,
                     child: const Icon(Icons.image_not_supported))
                 : Image.network(p.imageUrl!,
                     width: 96, height: 96, fit: BoxFit.cover,
@@ -160,7 +162,7 @@ class _ProductView extends StatelessWidget {
             ListTile(
               dense: true,
               contentPadding: EdgeInsets.zero,
-              leading: const Icon(Icons.warning_amber, color: Color(0xFFF29900)),
+              leading: const Icon(Icons.warning_amber, color: SahtiColors.mediocre),
               title: Text(additiveLabel(a)),
             ),
         if (p.nutriments.isNotEmpty) ...[
@@ -200,7 +202,7 @@ class _HalalCard extends StatelessWidget {
     return Card(
       child: ListTile(
         leading: Icon(halal ? Icons.verified : Icons.help_outline,
-            color: halal ? const Color(0xFF1E8E3E) : Colors.grey),
+            color: halal ? SahtiColors.excellent : SahtiColors.inconnu),
         title: Text(s.t(halal ? 'halalYes' : 'halalNo')),
         subtitle: Text(s.t('halalNote')),
       ),

@@ -1,12 +1,7 @@
 import 'package:flutter/material.dart';
+import '../theme.dart';
 
-Color scoreColor(int? score) {
-  if (score == null) return Colors.grey;
-  if (score >= 75) return const Color(0xFF1E8E3E);
-  if (score >= 50) return const Color(0xFF7CB342);
-  if (score >= 25) return const Color(0xFFF29900);
-  return const Color(0xFFD93025);
-}
+export '../theme.dart' show scoreColor, scoreOnColor;
 
 /// Pastille ronde avec la note sur 100.
 class ScoreBadge extends StatelessWidget {
@@ -25,7 +20,7 @@ class ScoreBadge extends StatelessWidget {
       child: Text(
         score?.toString() ?? '?',
         style: TextStyle(
-            color: Colors.white,
+            color: scoreOnColor(score),
             fontWeight: FontWeight.bold,
             fontSize: size * 0.38),
       ),
