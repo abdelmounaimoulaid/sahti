@@ -43,6 +43,59 @@ Color scoreOnColor(int? score) {
   return Colors.white;
 }
 
+/// Couleurs secondaires de l'interface (cartes, textes discrets, traits),
+/// différentes en clair et en sombre. Lire avec `SahtiPalette.of(context)`.
+@immutable
+class SahtiPalette extends ThemeExtension<SahtiPalette> {
+  final Color carte; // fond des cartes et de la barre du bas
+  final Color discret; // texte secondaire
+  final Color trait; // séparateurs, fonds de jauge, vignettes vides
+  final Color mentheClaire; // pastilles d'étapes, icône halal
+  final Color safranClair; // bandeau de la promesse
+  final Color alerte; // bandeau allergènes : fond
+  final Color alerteTexte; // bandeau allergènes : texte
+
+  const SahtiPalette({
+    required this.carte,
+    required this.discret,
+    required this.trait,
+    required this.mentheClaire,
+    required this.safranClair,
+    required this.alerte,
+    required this.alerteTexte,
+  });
+
+  static const clair = SahtiPalette(
+    carte: Colors.white,
+    discret: Color(0xFF3E5248),
+    trait: Color(0xFFE3EDE7),
+    mentheClaire: Color(0xFFDDF1E8),
+    safranClair: Color(0xFFFBEFD2),
+    alerte: Color(0xFFFBE3DF),
+    alerteTexte: Color(0xFF8A1F10),
+  );
+
+  static const sombre = SahtiPalette(
+    carte: Color(0xFF16231D),
+    discret: Color(0xFFB7CABF),
+    trait: Color(0xFF22332B),
+    mentheClaire: Color(0xFF1C3A2E),
+    safranClair: Color(0xFF3A2E12),
+    alerte: Color(0xFF4A1C15),
+    alerteTexte: Color(0xFFFFD6CF),
+  );
+
+  static SahtiPalette of(BuildContext context) =>
+      Theme.of(context).extension<SahtiPalette>() ?? clair;
+
+  @override
+  SahtiPalette copyWith() => this;
+
+  @override
+  SahtiPalette lerp(ThemeExtension<SahtiPalette>? other, double t) =>
+      t < 0.5 || other is! SahtiPalette ? this : other;
+}
+
 const _police = 'ReadexPro';
 
 ThemeData sahtiTheme(Brightness brightness) {
@@ -63,6 +116,7 @@ ThemeData sahtiTheme(Brightness brightness) {
     colorScheme: scheme,
     fontFamily: _police,
     scaffoldBackgroundColor: scheme.surface,
+    extensions: [dark ? SahtiPalette.sombre : SahtiPalette.clair],
     appBarTheme: AppBarTheme(
       backgroundColor: scheme.surface,
       foregroundColor: scheme.primary,

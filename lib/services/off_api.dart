@@ -24,6 +24,7 @@ class OffApi {
         '?lc=fr&fields=code,product_name,product_name_fr,product_name_ar,'
         'product_name_en,brands,image_front_url,image_url,nutriscore_grade,'
         'nutrition_grades,nutriscore_score,categories_tags,nova_group,additives_tags,labels_tags,'
+        'allergens_tags,traces_tags,'
         'ingredients_text,ingredients_text_fr,ingredients_text_ar,nutriments');
     final res = await _client.get(uri, headers: {'User-Agent': _ua});
     if (res.statusCode == 404) return null;
@@ -56,10 +57,8 @@ class OffApi {
       'countries': 'Maroc',
       if (halal) 'add_labels': 'Halal',
     };
-    final res = await _client.post(
-        Uri.parse('$_base/cgi/product_jqm2.pl'),
-        headers: {'User-Agent': _ua},
-        body: fields);
+    final res = await _client.post(Uri.parse('$_base/cgi/product_jqm2.pl'),
+        headers: {'User-Agent': _ua}, body: fields);
     if (res.statusCode != 200) {
       throw HttpException('Envoi produit: ${res.statusCode}');
     }
@@ -77,8 +76,8 @@ class OffApi {
           'user_id': _user,
           'password': _password,
         })
-        ..files.add(await http.MultipartFile.fromPath(
-            'imgupload_$field', file.path));
+        ..files.add(
+            await http.MultipartFile.fromPath('imgupload_$field', file.path));
       final r = await _client.send(req);
       if (r.statusCode != 200) {
         throw HttpException('Envoi photo $field: ${r.statusCode}');
