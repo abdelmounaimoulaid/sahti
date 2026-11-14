@@ -37,8 +37,16 @@ class S {
       'fr': 'Pas assez de données pour noter ce produit.',
       'ar': 'لا توجد بيانات كافية لتقييم هذا المنتج.'
     },
-    'level0': {'fr': 'Mauvais', 'ar': 'سيء'},
-    'level1': {'fr': 'Médiocre', 'ar': 'متوسط'},
+    'level0': {'fr': 'À éviter', 'ar': 'يُستحسن تجنبه'},
+    'level1': {'fr': 'À limiter', 'ar': 'يُستحسن التقليل منه'},
+    'provisional': {
+      'fr': 'Note provisoire : des données manquent, ajoutez une photo.',
+      'ar': 'تقييم مؤقت: بعض البيانات ناقصة، أضف صورة.'
+    },
+    'unrated': {
+      'fr': 'Ce type de produit n\'est pas noté (lait infantile, complément, sucre ou sel pur, alcool).',
+      'ar': 'هذا النوع من المنتجات لا يُقيَّم (حليب الرضع، المكملات، السكر أو الملح الخالص، الكحول).'
+    },
     'level2': {'fr': 'Bon', 'ar': 'جيد'},
     'level3': {'fr': 'Excellent', 'ar': 'ممتاز'},
     'nutrition': {'fr': 'Nutrition', 'ar': 'التغذية'},

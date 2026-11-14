@@ -22,6 +22,9 @@ class SahtiColors {
   static const mediocre = Color(0xFFF0A020); // 25 à 49
   static const mauvais = Color(0xFFE0442E); // 0 à 24
   static const inconnu = Color(0xFF8A9690);
+
+  // Additifs « à surveiller » (risque faible), entre safran et jaune.
+  static const vigilance = Color(0xFFF9CB28);
 }
 
 /// Couleur de la note (0 à 100). Gris si la note est inconnue.

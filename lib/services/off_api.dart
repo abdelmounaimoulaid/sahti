@@ -23,7 +23,7 @@ class OffApi {
     final uri = Uri.parse('$_base/api/v2/product/$barcode.json'
         '?lc=fr&fields=code,product_name,product_name_fr,product_name_ar,'
         'product_name_en,brands,image_front_url,image_url,nutriscore_grade,'
-        'nutrition_grades,nova_group,additives_tags,labels_tags,'
+        'nutrition_grades,nutriscore_score,categories_tags,nova_group,additives_tags,labels_tags,'
         'ingredients_text,ingredients_text_fr,ingredients_text_ar,nutriments');
     final res = await _client.get(uri, headers: {'User-Agent': _ua});
     if (res.statusCode == 404) return null;

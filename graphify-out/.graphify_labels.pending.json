@@ -9,10 +9,9 @@
   "7": "off_api.dart",
   "8": "home_screen.dart",
   "9": "main.dart",
-  "10": "scanner_screen.dart",
-  "11": "theme.dart",
+  "10": "theme.dart",
+  "11": "gen_brand.py",
   "12": "Sahti (صحتي)",
-  "13": "package:flutter/material.dart",
   "14": "analysis_options.yaml",
   "15": "MainActivity.kt",
   "16": "CLAUDE.md",
@@ -20,6 +19,5 @@
   "18": "LaunchImage.imageset/README.md",
   "19": "app/build.gradle.kts",
   "20": "android/build.gradle.kts",
-  "21": "settings.gradle.kts",
-  "22": "flutter"
+  "21": "settings.gradle.kts"
 }
