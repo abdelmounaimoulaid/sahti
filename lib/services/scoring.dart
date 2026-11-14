@@ -40,9 +40,9 @@ const additiveRisks = <String, AdditiveRisk>{
 };
 
 /// Bornes de la conversion linéaire du score Nutri-Score 2023
-/// (meilleur score -> 60 pts, pire -> 0). À calibrer sur 200 à 500 produits.
+/// Aliments : 60 × clip((40 − NS) / 55) ; boissons hors eau : 60 × clip((12 − NS) / 14).
 const foodBest = -15, foodWorst = 40;
-const drinkBest = 0, drinkWorst = 20;
+const drinkBest = -2, drinkWorst = 12;
 
 /// Catégories non notées (fiche d'information seulement).
 const unratedCategories = {
