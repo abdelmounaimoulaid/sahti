@@ -72,9 +72,9 @@
     "semantic_hash": ""
   },
   "lib/l10n/strings.dart": {
-    "mtime": 1794690098.042524,
-    "seen": 1794690824.696968,
-    "ast_hash": "64b8534970fb067baa06adec9e41b902",
+    "mtime": 1794691370.3809786,
+    "seen": 1794691407.3105423,
+    "ast_hash": "ae0d716027c8bea7f30f5111a7e883c1",
     "semantic_hash": ""
   },
   "lib/main.dart": {
@@ -84,9 +84,9 @@
     "semantic_hash": ""
   },
   "lib/models/product.dart": {
-    "mtime": 1794690069.8236868,
-    "seen": 1794690824.69697,
-    "ast_hash": "e288d425dc7fcc1229a38020c28e7750",
+    "mtime": 1794691358.357526,
+    "seen": 1794691407.310545,
+    "ast_hash": "340996d119d9b5672f223887ecbdf940",
     "semantic_hash": ""
   },
   "lib/screens/add_product_screen.dart": {
@@ -102,9 +102,9 @@
     "semantic_hash": ""
   },
   "lib/screens/product_screen.dart": {
-    "mtime": 1794690165.4220402,
-    "seen": 1794690824.6969726,
-    "ast_hash": "7f66c7183addfdda9de75692831f53dc",
+    "mtime": 1794691370.380413,
+    "seen": 1794691407.3105483,
+    "ast_hash": "4f52ce961ae924caadfecfd69cc40f63",
     "semantic_hash": ""
   },
   "lib/screens/scanner_screen.dart": {
@@ -126,9 +126,9 @@
     "semantic_hash": ""
   },
   "lib/services/off_api.dart": {
-    "mtime": 1794690098.0447397,
-    "seen": 1794690824.6969764,
-    "ast_hash": "31ca4ed179b4fb0fa51e25de9e62c8d7",
+    "mtime": 1794691358.3577971,
+    "seen": 1794691407.3105521,
+    "ast_hash": "d9d7679e432b80a7d81695497c40ca12",
     "semantic_hash": ""
   },
   "lib/services/pending.dart": {
@@ -138,9 +138,9 @@
     "semantic_hash": ""
   },
   "lib/services/scoring.dart": {
-    "mtime": 1794690069.8252857,
-    "seen": 1794690824.6969786,
-    "ast_hash": "301d0523e6438fa6e6f7c46c5f30d62a",
+    "mtime": 1794691358.3616645,
+    "seen": 1794691407.3105543,
+    "ast_hash": "e4b1c7c5db40e0f2a0533f590e48fca1",
     "semantic_hash": ""
   },
   "pubspec.yaml": {
@@ -150,9 +150,9 @@
     "semantic_hash": ""
   },
   "test/scoring_test.dart": {
-    "mtime": 1794690165.4315717,
-    "seen": 1794690824.6969805,
-    "ast_hash": "2fde9d1908ba6837025e294d49a5944b",
+    "mtime": 1794691358.363286,
+    "seen": 1794691407.3105567,
+    "ast_hash": "ed4ec091d4f4e178883b2809c41c199a",
     "semantic_hash": ""
   },
   "CLAUDE.md": {
@@ -162,9 +162,9 @@
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1794690183.0740407,
-    "seen": 1794690824.696982,
-    "ast_hash": "f8b09a98ce0afd57059670e89babccc9",
+    "mtime": 1794691370.3849678,
+    "seen": 1794691407.310559,
+    "ast_hash": "3f60cb8ad047a374f13bc3455b6cc098",
     "semantic_hash": ""
   },
   "ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md": {

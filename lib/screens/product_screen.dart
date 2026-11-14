@@ -131,8 +131,9 @@ class _ProductView extends StatelessWidget {
                 Expanded(
                   child: Text(
                     score == null
-                        ? s.t('noScore')
-                        : '${s.t('level${score.level}')} · ${score.score}/100',
+                        ? s.t(isUnrated(p) ? 'unrated' : 'noScore')
+                        : '${s.t('level${score.level}')} · ${score.score}/100'
+                            '${score.provisional ? '\n${s.t('provisional')}' : ''}',
                     style: theme.textTheme.titleMedium,
                   ),
                 ),
@@ -144,9 +145,9 @@ class _ProductView extends StatelessWidget {
         _HalalCard(halal: p.halalOnPackage),
         if (score != null) ...[
           const SizedBox(height: 16),
-          _Part(s.t('nutrition'), score.nutrition, 55,
+          _Part(s.t('nutrition'), score.nutrition, 60,
               p.nutriScore == null ? null : 'Nutri-Score ${p.nutriScore!.toUpperCase()}'),
-          _Part(s.t('additives'), score.additives, 25, null),
+          _Part(s.t('additives'), score.additives, 20, null),
           _Part(s.t('processing'), score.processing, 20,
               p.nova == null ? null : 'NOVA ${p.nova}'),
         ],
@@ -156,12 +157,16 @@ class _ProductView extends StatelessWidget {
         if (score == null || score.riskyFound.isEmpty)
           Text(s.t('noRisky'))
         else
-          for (final a in score.riskyFound)
+          for (final e in score.riskyFound.entries)
             ListTile(
               dense: true,
               contentPadding: EdgeInsets.zero,
-              leading: const Icon(Icons.warning_amber, color: Color(0xFFF29900)),
-              title: Text(additiveLabel(a)),
+              leading: Icon(Icons.circle, size: 14, color: const {
+                AdditiveRisk.red: Color(0xFFD93025),
+                AdditiveRisk.orange: Color(0xFFF29900),
+                AdditiveRisk.yellow: Color(0xFFF9CB28),
+              }[e.value]),
+              title: Text(additiveLabel(e.key)),
             ),
         if (p.nutriments.isNotEmpty) ...[
           const SizedBox(height: 16),

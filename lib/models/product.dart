@@ -5,6 +5,8 @@ class Product {
   final String brand;
   final String? imageUrl;
   final String? nutriScore; // 'a'..'e' ou null
+  final int? nutriScoreValue; // score Nutri-Score 2023 brut (plus bas = meilleur)
+  final List<String> categories; // ex. ['en:beverages', 'en:waters']
   final int? nova; // 1..4 ou null
   final List<String> additives; // ex. ['en:e330', 'en:e250']
   final List<String> labels; // ex. ['en:halal', 'en:organic']
@@ -17,6 +19,8 @@ class Product {
     required this.brand,
     this.imageUrl,
     this.nutriScore,
+    this.nutriScoreValue,
+    this.categories = const [],
     this.nova,
     this.additives = const [],
     this.labels = const [],
@@ -66,6 +70,10 @@ class Product {
       nutriScore: (grade != null && 'abcde'.contains(grade) && grade.length == 1)
           ? grade
           : null,
+      nutriScoreValue: p['nutriscore_score'] is num
+          ? (p['nutriscore_score'] as num).round()
+          : null,
+      categories: List<String>.from(p['categories_tags'] ?? const []),
       nova: novaRaw is num ? novaRaw.toInt() : int.tryParse('$novaRaw'),
       additives: List<String>.from(p['additives_tags'] ?? const []),
       labels: List<String>.from(p['labels_tags'] ?? const []),

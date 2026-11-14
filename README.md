@@ -7,7 +7,7 @@ et voir leur note santé. **Ni publicité, ni marques qui paient pour leur note.
 
 - Scan du code-barres (EAN-13, EAN-8, UPC) avec la caméra.
 - Fiche produit depuis Open Food Facts (gratuit) : photo, note sur 100, détail, nutriments, ingrédients.
-- Note : nutrition 55 pts (Nutri-Score) + additifs 25 pts + transformation 20 pts (NOVA).
+- Note (méthode v2) : nutrition 60 pts (Nutri-Score 2023) + transformation 20 pts (NOVA) + additifs 20 pts, avec plafonds (Nutri-Score D ≤ 49, E ≤ 29, additif rouge ≤ 49, NOVA 4 ≤ 74). Classement des additifs provisoire dans `lib/services/scoring.dart`.
 - Halal : affiche seulement ce qui est déclaré sur l'emballage.
 - Produit introuvable : 3 photos (face, ingrédients, tableau nutritionnel), lecture automatique
   des ingrédients (OCR sur le téléphone), envoi vers Open Food Facts.
