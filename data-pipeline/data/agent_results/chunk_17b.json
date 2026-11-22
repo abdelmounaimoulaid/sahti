@@ -1,0 +1,318 @@
+[
+ {
+  "barcode": "4803339000538",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé, Lait entier, Eau, Sucre naturel, Préparation de fruit d'Ananas & Coco, Amidon, Ferments lactiques",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "6902240040775",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0183846351007",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache pasteurisé, crème pasteurisée, ferments lactiques, présure",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "6941205313073",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6297000361574",
+  "outcome": "found",
+  "ingredients_text": "Dattes",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais/arabe"
+ },
+ {
+  "barcode": "0084910401539",
+  "outcome": "found",
+  "ingredients_text": "Maïs doux en grains (sans OGM), eau, sel. Contient les sucres naturels du maïs",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "5908241723922",
+  "outcome": "not_found",
+  "note": "Photo montre le code-barres/aérosol, liste illisible; probablement non alimentaire"
+ },
+ {
+  "barcode": "8719134163414",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5026083006031",
+  "outcome": "found",
+  "ingredients_text": "Huile de colza, eau, sirop de glucose-fructose, piment en saumure (piment rouge fort, sel et vinaigre de table), vinaigre de table, oignon, sucre, jaune d'oeufs, épaississant : amidon modifié, sel, concentré de tomate, moutarde, épices, concentré de citron, correcteurs d'acidité : (acide lactique, acide citrique), stabilisant : gomme xanthane, conservateurs : (sorbate de potassium, benzoate de sodium), arômes, oléorésine de capsicum, colorant : oléorésine de paprika et antioxydant : calcium disodium EDTA",
+  "additives": "en:e270,en:e330,en:e415,en:e202,en:e211,en:e385",
+  "allergens": "en:eggs,en:mustard",
+  "note": "Fissures sur l'étiquette mais texte confirmé par la version arabe; numéros E déduits des noms"
+ },
+ {
+  "barcode": "6446046002112",
+  "outcome": "found",
+  "ingredients_text": "Viande de dinde, eau, fécule, protéines de soja, sel nitrité (0,6% de nitrite de sodium E250), sucres, épaississant E407, épices, stabilisants (E450-E451), exhausteur de goût E621, antioxydants (E300-E301), colorant alimentaire E120, fumée naturelle",
+  "additives": "en:e250,en:e407,en:e450,en:e451,en:e621,en:e300,en:e301,en:e120",
+  "allergens": "en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "5420069002619",
+  "outcome": "not_found",
+  "note": "Photo du code-barres seulement, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0225437004746",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huile de tournesol (22%), pâte de noisettes (13%), poudre de cacao (8%), lait écrémé en poudre (5%), lactosérum en poudre (lait) (3%), émulsifiant : lécithine soja (E322), arômes, antioxydants (E306) et (E304i)",
+  "additives": "en:e322,en:e306,en:e304",
+  "allergens": "en:nuts,en:milk,en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "6931611300224",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8682780741315",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "01377031",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8411994017035",
+  "outcome": "found",
+  "ingredients_text": "AMANDE (28%), sucre, fraise confit (13%) : [fraise, sirop de glucose-fructose, correcteur d'acidité (acide citrique), conservateur (sorbate de potassium), épaississants (phosphate de diamidon hydroxypropyle, gomme de caroube), arôme], jaune d'OEUF confit : [jaune d'OEUF, sucre, sirop de glucose, conservateur (acide sorbique), acidifiant (acide citrique)], chocolat -cacao 57% minimum- (7%) : [pâte de cacao, sucre, beurre de cacao, émulsifiant (lécithine de SOJA), arôme naturel de vanille], confiture de fraise (3%) : [fraise, pomme, sucre, sirop de glucose fructose, correcteur d'acidité (acide citrique), épaississants (phosphate de diamidon hydroxypropyle, gomme de caroube), colorant (acide carminique), arôme], eau, sirop de glucose, sorbitol, conservateur (acide sorbique), colorants (acide carminique, curcumine)",
+  "additives": "en:e330,en:e202,en:e1442,en:e410,en:e200,en:e322,en:e120,en:e100,en:e420",
+  "allergens": "en:nuts,en:eggs,en:soybeans",
+  "note": "Liste française sur la pack (turron de fraise); numéros E déduits des noms"
+ },
+ {
+  "barcode": "3701242101193",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8681015034529",
+  "outcome": "not_found",
+  "note": "Photo montre le code-barres, liste non lisible"
+ },
+ {
+  "barcode": "5111438005552",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huile végétale non hydrogénée (palme, palmiste, soja), farine de blé, oeuf, humectants (glycérol, sorbitol), sirop de glucose, cacao maigre en poudre, perméat de lactosérum (de lait), amidon de maïs, émulsifiants (de source végétale) (mono- et diglycérides d'acides gras, lécithine de soja), poudres à lever (diphosphate disodique, bicarbonate de sodium), correcteur d'acidité (acide citrique), conservateurs (sorbate de potassium, acide sorbique), sel, arôme artificiel (chocolat), épaississant (gomme xanthane). Contient oeuf, lait, blé (gluten), soja",
+  "additives": "en:e422,en:e420,en:e471,en:e322,en:e450,en:e500,en:e330,en:e202,en:e200,en:e415",
+  "allergens": "en:gluten,en:eggs,en:milk,en:soybeans",
+  "note": "Numéros E déduits des noms"
+ },
+ {
+  "barcode": "0564412030067",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5000159450928",
+  "outcome": "not_found",
+  "note": "Photo floue/sombre, seulement code-barres, liste illisible"
+ },
+ {
+  "barcode": "0068000030076",
+  "outcome": "found",
+  "ingredients_text": "Arachides choisies rôties, huile de soya, sucres (maltodextrine de maïs, sucre), huile végétale hydrogénée (huiles de coton et de colza), sel, mono- et diglycérides",
+  "additives": "",
+  "allergens": "en:peanuts,en:soybeans",
+  "note": "Liste française sur la pack"
+ },
+ {
+  "barcode": "0942199839590",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0490003012979",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8718117613434",
+  "outcome": "found",
+  "ingredients_text": "Huiles végétales (tournesol, coprah, colza), LAIT écrémé, amidon (maïs), LACTOSE (LAIT), lactosérum déminéralisé (LAIT), galacto-oligosaccharides à chaîne courte (LAIT) et fructo-oligosaccharides à chaîne longue (GOS/FOS 9:1) 0,8g/100 ml, concentré de lactosérum (LAIT), protéines de LAIT, huile de POISSON, huile de Mortierella Alpina, chlorure de choline, émulsifiant : lécithine de SOJA, inositol, taurine, L-tryptophane, L-carnitine, nucléotides (uridine, cytidine, adénosine, inosine, guanosine 5'-monophosphate), antioxydant : palmitate d'ascorbyle, minéraux : citrates de potassium et de sodium, carbonate de calcium, chlorures de magnésium, de potassium et de sodium, phosphate de calcium, sulfates de fer, de zinc, de cuivre et de manganèse, iodure de potassium, sélénite de sodium, vitamines : A, D, E, K, C, B1, B2, B3, B6, B9, B12, B8, B5",
+  "additives": "",
+  "allergens": "en:milk,en:fish,en:soybeans",
+  "note": "Lait infantile"
+ },
+ {
+  "barcode": "6624000370525",
+  "outcome": "not_found",
+  "note": "Texte de l'emballage flou, reflets et lignes coupées; liste non lisible en entier"
+ },
+ {
+  "barcode": "0092003007353",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé reconstitué, matière grasse laitière, fromages, huile de palme, sels de fonte (E452, E450, E341), sel, stabilisant : carraghénanes, conservateur : sorbate de potassium, vitamines A, D et E",
+  "additives": "en:e452,en:e450,en:e341",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "0018011112223",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisse végétale, poudre de cacao, lactosérum, émulsifiants (lécithine de soja E322), vanilline identique à la saveur naturelle, arôme noisette",
+  "additives": "en:e322",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Peut contenir des traces de lactose, soja et fruits à coques"
+ },
+ {
+  "barcode": "1555271330053",
+  "outcome": "found",
+  "ingredients_text": "Huiles et graisses végétales (59%) (colza, palme, coco), eau, émulsifiants : E471, sel (0,5%), LAIT écrémé en poudre, conservateur : E202, acidulant : acide citrique, arôme naturel, colorant : carotènes, vitamines (vitamine A, vitamine D)",
+  "additives": "en:e471,en:e202",
+  "allergens": "en:milk",
+  "note": "Traduit de l'espagnol (confirmé par l'arabe)"
+ },
+ {
+  "barcode": "8681873417557",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0542054368755",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5425006400190",
+  "outcome": "not_found",
+  "note": "Photo montre le tableau nutritionnel, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0144599003612",
+  "outcome": "found",
+  "ingredients_text": "Édulcorants (maltitol, sorbitol, aspartame, acésulfame K), gomme base, arômes, épaississant (gomme arabique), humectant (glycérine), colorant E170, chlorure d'ammonium, extrait de réglisse, émulsifiant (lécithine de soja), agents d'enrobage (cire de carnauba, cire microcristalline)",
+  "additives": "en:e170",
+  "allergens": "en:soybeans",
+  "note": "Photo un peu floue mais version française et anglaise concordantes"
+ },
+ {
+  "barcode": "6224007250686",
+  "outcome": "not_found",
+  "note": "Pas de liste d'ingrédients lisible (mention 'sel marin' seulement)"
+ },
+ {
+  "barcode": "8300385936935",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8639088802118",
+  "outcome": "not_found",
+  "note": "Liste d'ingrédients coupée/hors cadre, seul le tableau nutritionnel est visible"
+ },
+ {
+  "barcode": "4004830321157",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, sucre, huiles végétales hydrogénées, poudre de cacao, amidon de maïs, lactosérum, poudre à lever (bicarbonate de sodium E500ii, bicarbonate d'ammonium E503ii, pyrophosphate de sodium E450i), lécithine de soja, sel, arôme vanille",
+  "additives": "en:e500ii,en:e503ii,en:e450i",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Peut contenir : lait"
+ },
+ {
+  "barcode": "8695077013798",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0199580000231",
+  "outcome": "not_found",
+  "note": "Photo montre le tableau nutritionnel, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "6223000553305",
+  "outcome": "not_found",
+  "note": "Photo de l'avant du paquet, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "9300465625147",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5014353219984",
+  "outcome": "found",
+  "ingredients_text": "Riz basmati",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais"
+ },
+ {
+  "barcode": "9976504462129",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé, cheddar 25%, beurre, sels de fonte (E452, E341, E450), protéines de lait, sel, conservateur : sorbate de potassium, calcium, vitamines E, D, A",
+  "additives": "en:e452,en:e341,en:e450",
+  "allergens": "en:milk",
+  "note": "Traduit de l'arabe (seule langue de la liste sur cette photo)"
+ },
+ {
+  "barcode": "5601537332401",
+  "outcome": "found",
+  "ingredients_text": "Riz",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit (ARROZ / RICE / RIZ)"
+ },
+ {
+  "barcode": "6947778280040",
+  "outcome": "found",
+  "ingredients_text": "Riz, amidon de maïs, eau",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais/arabe"
+ },
+ {
+  "barcode": "0667553989000",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6291069705188",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0104048552979",
+  "outcome": "found",
+  "ingredients_text": "Thon, huile d'olive, sel",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Liste française sur la pack"
+ },
+ {
+  "barcode": "5111158011116",
+  "outcome": "not_found",
+  "note": "Liste coupée par le pli de l'étiquette, une partie illisible"
+ },
+ {
+  "barcode": "0769503575049",
+  "outcome": "found",
+  "ingredients_text": "Thon, huile végétale et sel",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": ""
+ }
+]

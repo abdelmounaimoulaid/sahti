@@ -1,0 +1,1081 @@
+[
+ {
+  "barcode": "8411061578742",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3574661181882",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8001480021969",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "7897042013180",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3574661325842",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3600550049220",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8411135005310",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8428390078331",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4005808918065",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3282770100891",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6281006423404",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4066447054613",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8007520012157",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8410751093244",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "50158973",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8904023008673",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4056489236108",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8718951677807",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8414227676856",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4260421987014",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3700763535975",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4005900498144",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8690131110512",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3574669908146",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4066447377125",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8410046661486",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6931978106729",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8720181114472",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8720181292095",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3600550362374",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "00811163",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4002334002671",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel (en allemand), pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "5705250042606",
+  "outcome": "found",
+  "ingredients_text": "Poulet V.S.M. 90%, eau, sel, sirop de glucose, paprika, poivre, stabilisant (diphosphate), ail, antioxydant (acide ascorbique), conservateur (nitrite de sodium).",
+  "additives": "en:e450,en:e300,en:e250",
+  "allergens": "",
+  "note": "Mortadelle de poulet"
+ },
+ {
+  "barcode": "7622210514165",
+  "outcome": "found",
+  "ingredients_text": "Sucre, base gomme, arômes naturels et artificiels (menthe, menthol), sirop de glucose, épaississant (gomme arabique), amidon, colorants (dioxyde de titane, chlorophylline cuivrique), édulcorants (aspartame 0,13 g/100 g, acésulfame K 0,02 g/100 g), agent d'enrobage (cire de carnauba), huile végétale (huile de graines de coton hydrogénée).",
+  "additives": "en:e414,en:e171,en:e141,en:e951,en:e950,en:e903",
+  "allergens": "",
+  "note": "Traduit de l'arabe (étiquette uniquement en arabe); chewing-gum menthe"
+ },
+ {
+  "barcode": "8697446210234",
+  "outcome": "found",
+  "ingredients_text": "Miel de fleurs filtré, sirop de glucose, mélasse de mûres, pollen, épimède (0,79%), caroube, avoine, gingembre, galanga, cannelle, lépidium, ginseng américain, ortie, ginseng de Sibérie, ginkgo biloba, ginseng rouge, courge, tribulus (demirdikeni), noix de kola, arôme naturel identique (vanille), gelée royale.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Traduit du turc; pâte de miel aux plantes Themra"
+ },
+ {
+  "barcode": "8697439304056",
+  "outcome": "not_found",
+  "ingredients_text": "Sucre, huile végétale hydrogénée (huile de palme), poudre de cacao, masse de cacao, lait en poudre, lactosérum en poudre, émulsifiant (lécithine de soja E-322), arôme identique au naturel (fruits à coque), arôme naturel (vanilline), sel.",
+  "additives": "en:e322",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Écarté par prudence (liste reconstruite, ordre incertain ou complément alimentaire). Etiquette multilingue; liste reconstituée des lignes espagnole/portugaise/française (le haut de la bande est coupé)"
+ },
+ {
+  "barcode": "05326745",
+  "outcome": "not_found",
+  "note": "Le nom du produit (chips) seul est visible en arabe, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8002590045623",
+  "outcome": "found",
+  "ingredients_text": "Farine complète de blé 61,5%, sucre, huile de tournesol 15%, œufs, fibre d'avoine, remoulage de blé, lait écrémé en poudre, fibres solubles d'amidon de blé 1,5%, sirop de glucose, poudre à lever (carbonate acide d'ammonium, carbonate acide de sodium, diphosphate disodique), extrait de malt d'orge et de maïs, sel, arômes, agent de traitement de la farine (acide L-ascorbique). Peut contenir du soja et des fruits à coque.",
+  "additives": "en:e503,en:e500,en:e450,en:e300",
+  "allergens": "en:gluten,en:eggs,en:milk",
+  "note": "Liste française de l'étiquette multilingue"
+ },
+ {
+  "barcode": "4011615243009",
+  "outcome": "found",
+  "ingredients_text": "Flocons d'avoine 100%.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Peut contenir des traces de fruits à coque, lait, lupin (non retenus)"
+ },
+ {
+  "barcode": "5111425001710",
+  "outcome": "not_found",
+  "note": "Photo de l'étiquette d'eau minérale (composition minérale), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8410095501375",
+  "outcome": "found",
+  "ingredients_text": "Abricot, eau, édulcorants (sirop de maltitol et sucralose), fibre, épaississant : pectine, acidifiant : acide citrique, conservateur : sorbate de potassium, arôme.",
+  "additives": "en:e965,en:e955,en:e440,en:e330,en:e202",
+  "allergens": "",
+  "note": "Traduit de l'espagnol/anglais (pas de français sur la photo); confiture d'abricot sans sucres ajoutés, 60 g de fruit pour 100 g"
+ },
+ {
+  "barcode": "8710411045034",
+  "outcome": "found",
+  "ingredients_text": "Arachides grillées 90%, huile de tournesol, graisse de palme entièrement durcie, sucre, sel.",
+  "additives": "",
+  "allergens": "en:peanuts",
+  "note": "Beurre de cacahuète"
+ },
+ {
+  "barcode": "09641815",
+  "outcome": "found",
+  "ingredients_text": "Flocons d'avoine.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Liste française de l'étiquette"
+ },
+ {
+  "barcode": "7112107001361",
+  "outcome": "not_found",
+  "note": "La photo montre le mode de préparation du café, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8410255919996",
+  "outcome": "not_found",
+  "note": "Liste d'ingrédients coupée/illisible (photo partielle de l'emballage)"
+ },
+ {
+  "barcode": "8719200039292",
+  "outcome": "not_found",
+  "note": "Liste d'ingrédients coupée/illisible (photo partielle de l'emballage)"
+ },
+ {
+  "barcode": "4010355570413",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "7622210952431",
+  "outcome": "found",
+  "ingredients_text": "Édulcorants (xylitol, isomalt, sorbitol, sirop de maltitol, aspartame, acésulfame K), base gomme, arômes naturels et artificiels (canneberge, agrumes, grenade, baie d'açaï, cerise, framboise, pamplemousse), régulateurs d'acidité (acide malique, acide citrique), épaississant (gomme arabique), émulsifiant (lécithine de tournesol), colorants (E163, E133), humectant (triacétine).",
+  "additives": "en:e967,en:e953,en:e420,en:e965,en:e951,en:e950,en:e296,en:e330,en:e414,en:e322,en:e163,en:e133,en:e1518",
+  "allergens": "",
+  "note": "Traduit de l'arabe (étiquette en arabe); chewing-gum Trident; quantités omises"
+ },
+ {
+  "barcode": "20520915",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel (néerlandais), pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "5900535004007",
+  "outcome": "found",
+  "ingredients_text": "Bière blonde, pasteurisée. Eau, malt d'orge, orge, houblon.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Liste française de l'étiquette multilingue; alc. 5,0% vol."
+ },
+ {
+  "barcode": "8412284501197",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, sucre, œufs, huile de tournesol, eau, huile d'olive (2%), humectant (sorbitol), lactosérum, agents levants (E450, E500, E503), dextrose, amidon de blé, régulateur d'acidité (E341, E330), conservateurs (E200, E202, E281), arôme. Peut contenir des traces de fruits à coque, graines de sésame et soja.",
+  "additives": "en:e450,en:e500,en:e503,en:e341,en:e330,en:e200,en:e202,en:e281",
+  "allergens": "en:gluten,en:eggs,en:milk",
+  "note": "Traduit de l'espagnol (magdalenas)"
+ },
+ {
+  "barcode": "22103673",
+  "outcome": "not_found",
+  "note": "Liste d'ingrédients coupée sur la gauche (photo partielle), texte incomplet"
+ },
+ {
+  "barcode": "84115980",
+  "outcome": "not_found",
+  "ingredients_text": "Eau, sucre, sirop de glucose-fructose, acidifiant (E330), épaississant (E466), édulcorants (E952, E951, E954), conservateurs (E202, E211), arômes, vitamine C (L-ascorbate de sodium), colorants : rouge (goût fraise : E122), jaune (goût citron : E102, E129), marron (goût cola : E150d), orange (goût orange : E129, E102), bleu (goût framboise : E133), vert (goût citron vert : E102, E133), violet (goût mûre : E133, E129).",
+  "additives": "en:e330,en:e466,en:e952,en:e951,en:e954,en:e202,en:e211,en:e301,en:e122,en:e102,en:e129,en:e150d,en:e133",
+  "allergens": "",
+  "note": "Produit non alimentaire. Traduit de l'espagnol; boisson aromatisée, plusieurs parfums sur la même étiquette"
+ },
+ {
+  "barcode": "6221007029533",
+  "outcome": "found",
+  "ingredients_text": "Céréales complètes (farine de blé complète, farine d'avoine complète, farine de riz complète, farine de maïs complète), son de blé, amidon de maïs, huile de tournesol non hydrogénée, arôme naturel de miel et moutarde, fibres végétales, sucre, sel iodé (1%), antioxydant (E307b). Contient du gluten et de la moutarde. Peut contenir du céleri et du lait.",
+  "additives": "en:e307b",
+  "allergens": "en:gluten,en:mustard",
+  "note": "Traduit de l'anglais (pas de français); snack Nestlé miel-moutarde"
+ },
+ {
+  "barcode": "25622829",
+  "outcome": "not_found",
+  "ingredients_text": "Sucre, huiles végétales, noisettes, carbonate de calcium, émulsifiant (lécithine), arôme (vanille), dextrose, poudre de cacao maigre, poudre de lait entier. Produit fabriqué dans une usine utilisant aussi d'autres fruits à coque, du gluten, du soja et des œufs.",
+  "additives": "en:e170,en:e322",
+  "allergens": "en:milk,en:nuts",
+  "note": "Écarté par prudence (liste reconstruite, ordre incertain ou complément alimentaire). Traduit de l'arabe; l'ordre exact des ingrédients est incertain (texte arabe sur surface courbe), français absent; pâte à tartiner Penotti noisette-vanille"
+ },
+ {
+  "barcode": "0762210327338",
+  "outcome": "not_found",
+  "note": "Liste d'ingrédients en arabe coupée (déchirure de l'emballage), partiellement illisible"
+ },
+ {
+  "barcode": "8622882834713",
+  "outcome": "not_found",
+  "note": "La photo montre l'adresse/importateur, pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "8693495051149",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5060328890733",
+  "outcome": "not_found",
+  "note": "La photo ne montre pas l'emballage (écran de verrouillage de téléphone)"
+ },
+ {
+  "barcode": "3258171940626",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (cigarettes)"
+ },
+ {
+  "barcode": "3288131500164",
+  "outcome": "found",
+  "ingredients_text": "Farine de riz* 44%, farine de blé* 30%, farine d'avoine complète* 10%, farine de blé complète* 5%, farine de seigle complète* 5%, farine de quinoa* 5%, extrait de camomille*, extrait de verveine*, extrait de fleur d'oranger*, fer, vitamine B1. *Ingrédients issus de l'agriculture biologique.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Peut contenir lait, lupin, soja, moutarde (non retenus)"
+ },
+ {
+  "barcode": "8692806325207",
+  "outcome": "not_found",
+  "note": "Liste d'ingrédients retournée et en grande partie coupée/illisible"
+ },
+ {
+  "barcode": "8413209317077",
+  "outcome": "found",
+  "ingredients_text": "Sucre, sirop de glucose, crème fraîche (2%), graisse totalement hydrogénée (de coco), acidifiant : E-270 (régulateur de l'acidité : E-325), arômes fruits et crème, colorants : E-100, E-141, E-153, E-160c, E-163, E-171, sel, émulsifiant : lécithine de soja.",
+  "additives": "en:e270,en:e325,en:e100,en:e141,en:e153,en:e160c,en:e163,en:e171",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Liste française de l'étiquette multilingue; sucette Space Chupi crème"
+ },
+ {
+  "barcode": "8410679234026",
+  "outcome": "not_found",
+  "note": "La photo montre le devant de l'emballage (chocolat Trapa 74%), pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "6932511218206",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5400265038339",
+  "outcome": "not_found",
+  "note": "Texte multilingue minuscule et illisible (assortiment de chocolats), liste non lisible en entier"
+ },
+ {
+  "barcode": "5012008592505",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3582910080008",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8002039968636",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3700180085011",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4058172453663",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4028491407081",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, margarine (huile végétale solidifiée [huile de palme, huile de colza], eau, émulsifiant : mono et diglycérides d'acides gras [E471], sel, correcteur d'acidité : acide citrique [E330] ; conservateur : sorbate de potassium [E202] ; arôme naturel, colorant naturel : annatto [E160b]), noix de coco 8,4%, sucre, sirop de glucose-fructose, poudres à lever : E450i, E500ii ; sel, arôme, colorant : bêta-carotène.",
+  "additives": "en:e471,en:e330,en:e202,en:e160b,en:e450i,en:e500ii,en:e160a",
+  "allergens": "en:gluten",
+  "note": "Liste française de l'étiquette multilingue; peut contenir cacahuètes, fruits à coque, soja, œufs, lait, sésame (non retenus)"
+ },
+ {
+  "barcode": "3073781154689",
+  "outcome": "not_found",
+  "note": "Photo retournée, sombre et texte illisible"
+ },
+ {
+  "barcode": "6291003206160",
+  "outcome": "not_found",
+  "note": "La photo montre le devant de l'emballage (Tiffany Team Up), pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "3700216200597",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0811213023799",
+  "outcome": "not_found",
+  "note": "La photo ne montre pas un produit (image de fond d'écran)"
+ },
+ {
+  "barcode": "18007139",
+  "outcome": "found",
+  "ingredients_text": "Fraises, sucre, acide citrique.",
+  "additives": "en:e330",
+  "allergens": "",
+  "note": "Confiture de fraises; étiquette bilingue français/arabe"
+ },
+ {
+  "barcode": "2009601018900",
+  "outcome": "found",
+  "ingredients_text": "Viande de bœuf, eau, sel nitrité (sel + 0,6% E250 nitrite de sodium), sucre, stabilisants (E450-E451), mélange d'épices, exhausteur de goût (E621), antioxydants (E316).",
+  "additives": "en:e250,en:e450,en:e451,en:e621,en:e316",
+  "allergens": "",
+  "note": "Carpaccio; étiquette photographiée à l'envers, bord gauche légèrement coupé"
+ },
+ {
+  "barcode": "8690131110482",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8410090000415",
+  "outcome": "found",
+  "ingredients_text": "Thon (poisson) (Katsuwonus pelamis), eau, sel et arôme naturel.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Photo pivotée; liste française de l'étiquette multilingue; thon au naturel Calvo"
+ },
+ {
+  "barcode": "6904017210534",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le code-barres et l'origine, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "6957382192721",
+  "outcome": "not_found",
+  "note": "La photo montre le devant de l'emballage (Panda bottle candy), pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "8888299758183",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (colle)"
+ },
+ {
+  "barcode": "4005800147388",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le code-barres, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "210004939022024",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "7622201432058",
+  "outcome": "not_found",
+  "note": "La photo montre le devant de l'emballage (chewing-gum Clorets), pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "0710363585327",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5901177155089",
+  "outcome": "not_found",
+  "note": "Liste d'ingrédients coupée en haut de la photo, seulement le code-barres lisible"
+ },
+ {
+  "barcode": "6253501309187",
+  "outcome": "found",
+  "ingredients_text": "Cacahuètes, sel, huile végétale, acide citrique (régulateur d'acidité).",
+  "additives": "en:e330",
+  "allergens": "en:peanuts",
+  "note": "Traduit de l'anglais; l'étiquette indique aussi Contient céréales (gluten), cacahuètes, fruits à coque (non retenus hors cacahuètes)"
+ },
+ {
+  "barcode": "6932511216929",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5999570282105",
+  "outcome": "not_found",
+  "ingredients_text": "Monohydrate de créatine 100%.",
+  "additives": "",
+  "allergens": "",
+  "note": "Écarté par prudence (liste reconstruite, ordre incertain ou complément alimentaire). Traduit de l'anglais; complément alimentaire en poudre (créatine); fabriqué dans une usine utilisant gluten, soja, œuf, fruits à coque (traces, non retenues)"
+ },
+ {
+  "barcode": "3073781140514",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé reconstitué, huile de palme, fromages, sels émulsifiants (E452, E341, E330), protéines de lait, épaississants (E407, E1422), sel, conservateur (sorbate de potassium), vitamines A et D.",
+  "additives": "en:e452,en:e341,en:e330,en:e407,en:e1422,en:e202",
+  "allergens": "en:milk",
+  "note": "Traduit de l'arabe (étiquette en arabe uniquement); fromage fondu"
+ },
+ {
+  "barcode": "0189600220046",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8445290014245",
+  "outcome": "found",
+  "ingredients_text": "Pâte de cacao, édulcorant (maltitol), beurre de cacao, arôme naturel de vanille. Cacao : 70% minimum. Peut contenir des fruits à coque, du lait et du gluten.",
+  "additives": "en:e965",
+  "allergens": "",
+  "note": "Traduit de l'espagnol (chocolat noir avec édulcorant)"
+ },
+ {
+  "barcode": "90125676",
+  "outcome": "not_found",
+  "note": "Complément alimentaire en poudre (vitamines/minéraux), liste en polonais coupée par la déchirure de l'étiquette"
+ },
+ {
+  "barcode": "5064627429601",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel et le code-barres (thon entier au naturel), pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "8994834005213",
+  "outcome": "not_found",
+  "note": "Liste en chinois, partiellement masquée par reflets et pli de l'emballage, structure des parenthèses incertaine"
+ },
+ {
+  "barcode": "6928001834650",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8690530001336",
+  "outcome": "not_found",
+  "note": "Photo noire, aucun texte lisible"
+ },
+ {
+  "barcode": "6221048064012",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6772504390102",
+  "outcome": "found",
+  "ingredients_text": "Eau, pulpe de mangue 25%, sucre, régulateur d'acidité : acide citrique (E330), acide ascorbique (E300), pectine (E440), benzoate de sodium (E211), sorbate de potassium (E202) 50 ppm, bêta-carotène (E160A), arôme similaire à la mangue.",
+  "additives": "en:e330,en:e300,en:e440,en:e211,en:e202,en:e160a",
+  "allergens": "",
+  "note": "Liste française de l'étiquette bilingue; nectar de mangue Balady"
+ },
+ {
+  "barcode": "8470001724137",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0643439490266",
+  "outcome": "found",
+  "ingredients_text": "Sucre, cacao naturel dégraissé en poudre (23%), émulsifiant (lécithine de soja), sel, vitamines (C, D), arôme naturel, cannelle.",
+  "additives": "en:e322",
+  "allergens": "en:soybeans",
+  "note": "Traduit de l'espagnol (étiquette en espagnol uniquement); poudre cacaotée Nestlé"
+ },
+ {
+  "barcode": "5900396031495",
+  "outcome": "found",
+  "ingredients_text": "Thé noir.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais (étiquette multilingue sans français); thé noir en sachets"
+ },
+ {
+  "barcode": "4305615630694",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le code-barres, pas de liste d'ingrédients lisible"
+ },
+ {
+  "barcode": "40988368",
+  "outcome": "found",
+  "ingredients_text": "Menthe, ananas, concombre, jus d'orange.",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste française lisible; quantités non indiquées"
+ },
+ {
+  "barcode": "4058172623974",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8001090559494",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6939114100518",
+  "outcome": "found",
+  "ingredients_text": "Champignons, eau, sel, acide citrique.",
+  "additives": "en:e330",
+  "allergens": "",
+  "note": "Traduit de l'arabe (étiquette arabe uniquement); champignons émincés en conserve"
+ },
+ {
+  "barcode": "5285001952274",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le code-barres/volume, produit probablement cosmétique, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "5430002002347",
+  "outcome": "found",
+  "ingredients_text": "Huile de colza, eau, moutarde (vinaigre, graines de moutarde, sel, épices), sucre, concentré de tomates, vinaigre, poudre de jaune d'œuf, amidon de blé, sel, amidon de maïs modifié, correcteurs d'acidité : E270, E330, épices, colorants : E160c, E160a, stabilisateur : E412, sauce soja (eau, soja, blé, sel), épices (contient moutarde), herbes, conservateurs : E202, E211, sirop de caramel, extrait d'épices, antioxydant : E385.",
+  "additives": "en:e270,en:e330,en:e160c,en:e160a,en:e412,en:e202,en:e211,en:e385",
+  "allergens": "en:mustard,en:eggs,en:gluten,en:soybeans",
+  "note": "Sauce andalouse; liste française de l'étiquette"
+ },
+ {
+  "barcode": "8422504100550",
+  "outcome": "not_found",
+  "note": "Texte arabe flou et incomplet (liste partielle), non fiable"
+ },
+ {
+  "barcode": "8681644068148",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le code-barres, texte illisible"
+ },
+ {
+  "barcode": "4820008126399",
+  "outcome": "not_found",
+  "note": "Texte de la liste flou et illisible (anglais/chinois), liste non lisible en entier"
+ },
+ {
+  "barcode": "3760309700007",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4013718022369",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0745110139010",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisse végétale, huile, cacao maigre en poudre, lactosérum en poudre, noisettes, émulsifiant lécithine de soja, lait.",
+  "additives": "en:e322",
+  "allergens": "en:milk,en:nuts,en:soybeans",
+  "note": "Pâte à tartiner; liste française lue, bas de la liste arabe coupé"
+ },
+ {
+  "barcode": "8437023939048",
+  "outcome": "not_found",
+  "note": "La photo ne montre pas la liste d'ingrédients (conseils d'utilisation et recette)"
+ },
+ {
+  "barcode": "5420058034911",
+  "outcome": "found",
+  "ingredients_text": "Huiles végétales 50% (colza, soja, en proportion variable), eau, cornichons (12%), sucre, jaune d'œufs, vinaigre, moutarde (eau, graines de moutarde, vinaigre, sel, épices), concentré de tomates, extraits (contient poisson), arôme, colorant (bêta-carotène), sel, poudre d'oignon, acidifiant (acide citrique), stabilisant (gomme xanthane), antioxydant (calcium disodium EDTA).",
+  "additives": "en:e160a,en:e330,en:e415,en:e385",
+  "allergens": "en:soybeans,en:eggs,en:mustard,en:fish",
+  "note": "Liste française de l'étiquette multilingue; sauce émulsionnée froide"
+ },
+ {
+  "barcode": "17182188",
+  "outcome": "found",
+  "ingredients_text": "Maquereaux, huile végétale, sel.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Liste française de l'étiquette bilingue; maquereaux en boîte Sibia"
+ },
+ {
+  "barcode": "0125480005342",
+  "outcome": "not_found",
+  "note": "La photo montre le devant de l'emballage (crème pâtissière Idéal), pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "6190000006400",
+  "outcome": "found",
+  "ingredients_text": "Flocons d'avoine, huile de palme hydrogénée, poudre de cacao, poudre de lactosérum, lécithine de soja, sirop de glucose, sel, arôme vanille.",
+  "additives": "en:e322",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Liste française de l'étiquette bilingue; barre céréalière"
+ },
+ {
+  "barcode": "6211126007086",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé, poudre de lait écrémé, amidon, édulcorant naturel stévia, préparation de fruits, ferments lactiques.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Yaourt Chergui"
+ },
+ {
+  "barcode": "6933495884487",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (maquillage)"
+ },
+ {
+  "barcode": "8711700927437",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0200000597320",
+  "outcome": "found",
+  "ingredients_text": "Sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithines (tournesol), extrait de vanille. Chocolat noir : cacao 50% minimum. Traces éventuelles de fruits à coque, soja, arachides, lait et céréales contenant du gluten.",
+  "additives": "",
+  "allergens": "",
+  "note": "Chocolat noir Fin Carré; liste française"
+ },
+ {
+  "barcode": "8695077014795",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (savon liquide)"
+ },
+ {
+  "barcode": "0144568000185",
+  "outcome": "not_found",
+  "note": "La photo montre le devant de la boîte (litchis au sirop léger), liste d'ingrédients non visible"
+ },
+ {
+  "barcode": "6936829062728",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6223005120786",
+  "outcome": "found",
+  "ingredients_text": "Tomates, sel, extrait sec 28/30%.",
+  "additives": "",
+  "allergens": "",
+  "note": "Double concentré de tomates; liste française de l'étiquette"
+ },
+ {
+  "barcode": "0970160006900",
+  "outcome": "found",
+  "ingredients_text": "Sucre, cacao fortement dégraissé en poudre 20%, émulsifiant : lécithines de tournesol, carbonate de magnésium, sel, vitamines : C, E, PP (niacine), B6, B5 (acide pantothénique), B1 (thiamine), B9 (acide folique), cannelle. Peut contenir des traces de lait.",
+  "additives": "en:e322,en:e504",
+  "allergens": "",
+  "note": "Liste française de l'étiquette multilingue; Carrefour Kids"
+ },
+ {
+  "barcode": "6925117102109",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le code-barres de la boîte de concentré de tomates, pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "01619221",
+  "outcome": "found",
+  "ingredients_text": "Lait frais entier, crème, stabilisants : amidon et carraghénane, sel, ferments lactiques.",
+  "additives": "en:e407",
+  "allergens": "en:milk",
+  "note": "Fromage frais fouetté Jaouda; liste française"
+ },
+ {
+  "barcode": "4066447110135",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0125480004024",
+  "outcome": "found",
+  "ingredients_text": "Sucre, gélifiant : carraghénane (E407), amidon de maïs, arôme vanille, colorants (tartrazine, jaune soleil FCF) : (E102, E110). Sirop caramel : sucre, sirop de glucose, eau.",
+  "additives": "en:e407,en:e102,en:e110",
+  "allergens": "",
+  "note": "Flan en poudre saveur crème caramel Idéal; liste française"
+ },
+ {
+  "barcode": "8901030686061",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (savon liquide)"
+ },
+ {
+  "barcode": "8714599515242",
+  "outcome": "found",
+  "ingredients_text": "100% café pur instantané séché.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'arabe (étiquette arabe uniquement); café instantané en stick"
+ },
+ {
+  "barcode": "6928001834629",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0145280003843",
+  "outcome": "found",
+  "ingredients_text": "Poudre de cacao, agent gélifiant : carraghénane (E407), sucre, arôme chocolat, amidon de maïs, colorants : (E110, E132, E129), sel.",
+  "additives": "en:e407,en:e110,en:e132,en:e129",
+  "allergens": "",
+  "note": "Flan chocolat en poudre; liste française de l'étiquette bilingue"
+ },
+ {
+  "barcode": "9174576168097",
+  "outcome": "found",
+  "ingredients_text": "Mélasse verte*, farine de blé*, eau, extrait de réglisse* 2,2%, huile de tournesol*, sel marin, huile d'anis*. *Issus de l'agriculture biologique.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Réglisse sucrée bio; liste française"
+ },
+ {
+  "barcode": "4009932411881",
+  "outcome": "not_found",
+  "note": "La photo montre l'argumentaire et le tableau de composition d'un complément alimentaire en comprimés (zinc), pas de liste d'ingrédients; produit non alimentaire"
+ },
+ {
+  "barcode": "0115580003829",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le code-barres, liste non visible"
+ },
+ {
+  "barcode": "0929220034469",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, acidifiant (acide citrique), dioxyde de carbone (min 0,3%), taurine (0,38%), régulateur d'acidité (citrate de sodium), caféine (0,03%), arôme, colorants (caramel ammoniacal), vitamines [niacine (B3), acide pantothénique (B5), pyridoxine (B6), riboflavine (B2), cobalamine (B12)].",
+  "additives": "en:e330,en:e331,en:e150c",
+  "allergens": "",
+  "note": "Traduit du roumain (étiquette roumaine uniquement); boisson énergisante Hell tutti-frutti"
+ },
+ {
+  "barcode": "4770190156233",
+  "outcome": "found",
+  "ingredients_text": "Eau, surimi 19% (chair de poisson, stabilisants : sorbitol E420, diphosphate E450, triphosphate E451, polyphosphate E452, sucre), amidon (contient du blé), chapelure (farine de blé, sel, épice : paprika, levure), vraie pince, mélange à pâte (farine de blé, amidon de blé modifié, amidon de blé, fécule de pomme de terre, sel), protéine de soja, sucre, sel, blanc d'œuf, humectant : sorbitol, arômes, colorant : extrait de paprika. Contient des traces de mollusques, lait, céleri et moutarde.",
+  "additives": "en:e420,en:e450,en:e451,en:e452",
+  "allergens": "en:fish,en:gluten,en:soybeans,en:eggs",
+  "note": "Bâtonnets de surimi surgelés; liste française"
+ },
+ {
+  "barcode": "5901583403781",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le code-barres (café instantané), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0155046301281",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache pasteurisé, crème fraîche pasteurisée, ferments lactiques, présure, sel.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Fromage frais; liste française de l'étiquette bilingue"
+ },
+ {
+  "barcode": "6928001834520",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6970202103059",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8693298070583",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel (turc/anglais), pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "8691095368414",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0470446026962",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel multilingue, pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "5059018141149",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le code-barres (produit cosmétique), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0121749961466",
+  "outcome": "not_found",
+  "note": "Liste d'ingrédients de biscuits pivotée, en partie coupée et illisible en entier"
+ },
+ {
+  "barcode": "0225200191017",
+  "outcome": "found",
+  "ingredients_text": "Dattes en vrac non dénoyautées.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit/lu depuis l'étiquette multilingue (liste française présente); dattes Reziz"
+ },
+ {
+  "barcode": "8420663001558",
+  "outcome": "found",
+  "ingredients_text": "Graines de tournesol grillées, eau, sel.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'arabe/italien (liste partiellement coupée en haut); peut contenir traces de fruits à coque et arachides (non retenus); le tableau nutritionnel semble décalé"
+ },
+ {
+  "barcode": "5099864014563",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé, huiles végétales (huile de tournesol à haute teneur en acide oléique, huile de soja, huile de noix de coco), lactose (lait), saccharose, fructo-oligosaccharides (FOS), minéraux (citrate de potassium, carbonate de calcium, chlorure de sodium, hydroxyde de potassium, sulfate de fer, sulfate de zinc, chlorure de calcium, chlorure de magnésium, phosphate de potassium, sulfate de cuivre, sulfate de manganèse, sélénate de sodium), acide arachidonique, vitamines (acide ascorbique, acétate de d-alpha-tocophérol, niacinamide, d-pantothénate de calcium, palmitate de rétinyle, hydrochlorure de thiamine, hydrochlorure de pyridoxine, riboflavine, acide folique, phylloquinone, d-biotine, cholécalciférol, cyanocobalamine), 2'-fucosyllactose (2'-FL) (oligosaccharide) (lait), lécithine de soja, acide docosahexaénoïque, taurine, Bifidobacterium lactis, bitartrate de choline, palmitate d'ascorbyle, nucléotides (cytidine 5'-monophosphate, uridine 5'-monophosphate disodique, adénosine 5'-monophosphate, guanosine 5'-monophosphate disodique), tocophérols mélangés, caroténoïdes (lutéine, bêta-carotène). Contient : lait et soja.",
+  "additives": "en:e322,en:e304,en:e306,en:e160a",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Lait infantile; liste française de l'étiquette"
+ },
+ {
+  "barcode": "04384336",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8000070038875",
+  "outcome": "not_found",
+  "note": "La photo montre le dos de l'emballage (texte de présentation), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "6939639500398",
+  "outcome": "found",
+  "ingredients_text": "Eau, poudre de gelée, cyclamate, aspartame, acésulfame, acide citrique, acide malique, citrate de sodium, sorbate de potassium, essence alimentaire et colorants alimentaires (E129, E110, E133, E102).",
+  "additives": "en:e952,en:e951,en:e950,en:e330,en:e296,en:e331,en:e202,en:e129,en:e110,en:e133,en:e102",
+  "allergens": "",
+  "note": "Traduit de l'anglais/roumain (pas de français); gelée en coupelles"
+ },
+ {
+  "barcode": "3760049895285",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (complément alimentaire en comprimés)"
+ },
+ {
+  "barcode": "0038866519350",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8436587805592",
+  "outcome": "not_found",
+  "note": "La photo montre le devant du pot (Protein Coffee), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "3760095250342",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0940946232038",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le tableau nutritionnel de la canette (boisson énergisante), pas la liste d'ingrédients"
+ },
+ {
+  "barcode": "8937104022817",
+  "outcome": "found",
+  "ingredients_text": "Eau minérale naturelle Aïn Saïss (95%), sucre (4,9%), exhausteur de goût : acide citrique, arômes naturels, conservateurs : benzoate de sodium, E242.",
+  "additives": "en:e330,en:e211,en:e242",
+  "allergens": "",
+  "note": "Liste française de l'étiquette bilingue; eau aromatisée"
+ },
+ {
+  "barcode": "3612622341583",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0769503577111",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5017402025482",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6251977003639",
+  "outcome": "not_found",
+  "note": "La photo montre seulement des pistaches dans une boîte, pas d'étiquette"
+ },
+ {
+  "barcode": "0409000046313",
+  "outcome": "not_found",
+  "note": "Texte de la liste d'ingrédients trop flou et déformé (canette courbe) pour être lu en entier"
+ },
+ {
+  "barcode": "6281014303842",
+  "outcome": "found",
+  "ingredients_text": "Huile de colza, eau, vinaigre, œuf, jaune d'œuf, sucre, piment, sel, moutarde (eau, graines de moutarde, vinaigre, épices (curcuma)), jus de citron, amidon de maïs modifié, poudre d'ail, gomme de guar (épaississant), épices (poivre de Cayenne), extrait de paprika (E160c) (colorant), arôme artificiel de paprika, sorbate de potassium (E202) (conservateur), EDTA calcium disodique (E385) (antioxydant). Contient : œuf, moutarde. Matières sèches : 72%.",
+  "additives": "en:e412,en:e160c,en:e202,en:e385",
+  "allergens": "en:eggs,en:mustard",
+  "note": "Traduit de l'anglais (étiquette anglais/arabe); sauce Goody"
+ },
+ {
+  "barcode": "8414135624802",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (parfum)"
+ },
+ {
+  "barcode": "9111489968963",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel et les dates, liste d'ingrédients illisible"
+ },
+ {
+  "barcode": "6989530361130",
+  "outcome": "not_found",
+  "note": "La photo montre seulement les dates et conseils de conservation, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "6970403740145",
+  "outcome": "not_found",
+  "note": "Liste d'ingrédients non lisible (flou), seulement mode d'emploi lisible"
+ },
+ {
+  "barcode": "0816170021468",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (complément alimentaire en capsules)"
+ },
+ {
+  "barcode": "8112589753658",
+  "outcome": "not_found",
+  "note": "Étiquette de sel iodé partiellement visible et coupée, liste complète non lisible"
+ },
+ {
+  "barcode": "80848233",
+  "outcome": "not_found",
+  "note": "Liste en polonais partiellement cachée/coupée, illisible en entier"
+ },
+ {
+  "barcode": "8410836001072",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (insecticide)"
+ },
+ {
+  "barcode": "0440440957036",
+  "outcome": "not_found",
+  "note": "La photo montre le devant de l'emballage (pipas de girasol), flou, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "3760095250564",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "7756719004299",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8410385002711",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4066447105834",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ }
+]

@@ -1,0 +1,1225 @@
+[
+ {
+  "barcode": "8421464020014",
+  "outcome": "found",
+  "ingredients_text": "Graines de tournesol, AMANDES, sel, exhausteur de goÃ»t E-621, maltodextrine et fÃ©cule de pomme de terre. Peut contenir des traces d'ARACHIDES, GLUTEN, SOJA, SULFITES, LACTOSE, MOUTARDE, CÃ‰LERI et/ou dÃ©rivÃ©s.",
+  "additives": "en:e621",
+  "allergens": "en:nuts",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8935001706724",
+  "outcome": "not_found",
+  "note": "Liste en arabe illisible/incomplÃ¨te sur la photo"
+ },
+ {
+  "barcode": "8436007952004",
+  "outcome": "found",
+  "ingredients_text": "PurÃ©e de tomates (99%), sel et acidifiant : E-330.",
+  "additives": "en:e330",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8480000047410",
+  "outcome": "not_found",
+  "note": "La photo montre des caractÃ©ristiques de l'huile (aciditÃ©, peroxyde), pas de liste d'ingrÃ©dients"
+ },
+ {
+  "barcode": "0062107090858",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8003130186417",
+  "outcome": "found",
+  "ingredients_text": "Pommes de terre, huiles vÃ©gÃ©tales (palme et tournesol), sel iodÃ© (sel, iodate de potassium). Peut contenir des traces de lait, moutarde, cÃ©leri et soja.",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8714599311349",
+  "outcome": "found",
+  "ingredients_text": "100% cafÃ© en grains",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste partielle mais complÃ¨te : un seul ingrÃ©dient"
+ },
+ {
+  "barcode": "8410376000726",
+  "outcome": "not_found",
+  "note": "Texte de la liste illisible (photo inclinÃ©e et floue)"
+ },
+ {
+  "barcode": "8430803034094",
+  "outcome": "found",
+  "ingredients_text": "Amandes (64%) (fruits Ã  coque), sucre, miel (12%), sirop de glucose-fructose, blanc d'Å“uf et Ã©mulsifiant (E-471).",
+  "additives": "en:e471",
+  "allergens": "en:nuts,en:eggs",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "8908010900032",
+  "outcome": "found",
+  "ingredients_text": "CacahuÃ¨tes grillÃ©es, sucre, huiles vÃ©gÃ©tales hydrogÃ©nÃ©es (colza et palme), sel iodÃ©.",
+  "additives": "",
+  "allergens": "en:peanuts",
+  "note": "Traduit de l'anglais"
+ },
+ {
+  "barcode": "8023637000153",
+  "outcome": "found",
+  "ingredients_text": "Farine de maÃ¯s (27%), sucre, farine de riz (18%), farine de blÃ© (18%), cacao maigre en poudre (5,3%), cacao en poudre (2,9%), sel, arÃ´me vanille. Peut contenir des traces de lait et soja.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'italien"
+ },
+ {
+  "barcode": "4400087063909",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache pasteurisÃ©, ferments lactiques, sel, chlorure de calcium, colorant bÃªta-carotÃ¨ne E160, prÃ©sure microbiologique. MatiÃ¨re grasse dans l'extrait sec 48%.",
+  "additives": "en:e160",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "8697420102234",
+  "outcome": "found",
+  "ingredients_text": "Graines de courges, sel.",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8430721658709",
+  "outcome": "found",
+  "ingredients_text": "CacahuÃ¨tes, sucre, huile vÃ©gÃ©tale hydrogÃ©nÃ©e (fÃ¨ves de soja), sel et Ã©mulsifiant (E471).",
+  "additives": "en:e471",
+  "allergens": "en:peanuts,en:soybeans",
+  "note": "Liste franÃ§aise sur l'emballage (90% cacahuÃ¨tes indiquÃ© en anglais)"
+ },
+ {
+  "barcode": "8436011295968",
+  "outcome": "not_found",
+  "note": "La photo montre la composition chimique de l'eau, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8690632242422",
+  "outcome": "found",
+  "ingredients_text": "Sucre, cacao en poudre Ã  teneur rÃ©duite en matiÃ¨re grasse 26%, Ã©mulsifiant d'origine vÃ©gÃ©tale (lÃ©cithine), vitamines (D, C), sel, cannelle en poudre, arÃ´me naturel de vanille. Peut contenir du lait.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais/arabe"
+ },
+ {
+  "barcode": "0022644070003",
+  "outcome": "found",
+  "ingredients_text": "CacahuÃ¨tes Ã©mondÃ©es, sel, huile vÃ©gÃ©tale (huile de palme). Peut contenir des traces de noix, de gluten, de soja, de lait et de leurs produits dÃ©rivÃ©s. Contient des cacahuÃ¨tes.",
+  "additives": "",
+  "allergens": "en:peanuts",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "4770190107426",
+  "outcome": "found",
+  "ingredients_text": "Eau, chair de poisson 38% (colin d'Alaska et/ou merlu du Pacifique et/ou hoki d'Argentine), amidon (contient gluten), sucre, huile de colza, sel, arÃ´me, amidon modifiÃ©, protÃ©ine de soja, arÃ´me (contient crustacÃ©s), colorant : extrait de paprika.",
+  "additives": "",
+  "allergens": "en:fish,en:gluten,en:soybeans,en:crustaceans",
+  "note": "Photo floue, texte franÃ§ais lisible mais partiellement coupÃ© Ã  gauche"
+ },
+ {
+  "barcode": "5907731601238",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ© complet 80%, sucre, riz 5%, sel, poudre Ã  lever (carbonates de sodium, farine de blÃ©, rÃ©gulateur d'aciditÃ© : diphosphates), gluten de blÃ©, extrait de malt d'orge, arÃ´me. Peut contenir des arachides et autres fruits Ã  coque.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Liste franÃ§aise, dÃ©but des lignes coupÃ© sur la photo (complÃ©tÃ© par les versions hongroise/roumaine voisines)"
+ },
+ {
+  "barcode": "8410376011210",
+  "outcome": "not_found",
+  "note": "Photo corrompue/illisible"
+ },
+ {
+  "barcode": "8697418261011",
+  "outcome": "not_found",
+  "note": "La photo montre la composition minÃ©rale de l'eau, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8410085253109",
+  "outcome": "found",
+  "ingredients_text": "PÃ¢te de cacao, Ã©dulcorant (maltitol), beurre de cacao, poudre de cacao dÃ©graissÃ©, Ã©dulcorant (lactitol), Ã©mulsifiant (lÃ©cithine de soja), Ã©dulcorant (acÃ©sulfame de potassium) et arÃ´me. Peut contenir des traces de lait et fruits Ã  coque. Cacao 70% minimum.",
+  "additives": "",
+  "allergens": "en:soybeans",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8691707140117",
+  "outcome": "found",
+  "ingredients_text": "Chocolat au lait (50%) (sucre, beurre de cacao, lait entier en poudre, masse de cacao, lactosÃ©rum en poudre (produit laitier), Ã©mulsifiant (lÃ©cithine de tournesol), arÃ´me), biscuit (50%) (farine de blÃ© (contient du gluten), huile vÃ©gÃ©tale (palme), sirop de glucose-fructose, sucre, lactosÃ©rum en poudre (produit laitier), sel, agents levants (bicarbonate d'ammonium, pyrophosphate acide de sodium, bicarbonate de sodium), Ã©mulsifiant (lÃ©cithine de tournesol)).",
+  "additives": "",
+  "allergens": "en:milk,en:gluten",
+  "note": "Traduit de l'anglais/turc ; produit Hoxi Poki"
+ },
+ {
+  "barcode": "5413676688604",
+  "outcome": "found",
+  "ingredients_text": "Sucre, lait entier en poudre, pÃ¢te de cacao, beurre de cacao, sirop de glucose-fructose, lait concentrÃ© sucrÃ©, huile de tournesol, graisse de coco, biscuit (1,49%) (farine de blÃ©, sucre, farine de malt de froment, Ã©mulsifiant : lÃ©cithines de tournesol, amidon de blÃ©, poudre Ã  lever : carbonates de sodium, sel, arÃ´me), eau, lait Ã©crÃ©mÃ© en poudre, sucre caramÃ©lisÃ© (0,61%), stabilisant : glycÃ©rol de colza, Ã©mulsifiant : lÃ©cithines de soja, arÃ´mes, sel, Ã©pices. Peut contenir des traces d'Å“ufs, de sÃ©same, d'arachides et de noix.",
+  "additives": "",
+  "allergens": "en:milk,en:gluten,en:soybeans",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8410280210051",
+  "outcome": "found",
+  "ingredients_text": "PurÃ©e de pÃªche (50%), eau, sucre, acidulant : acide citrique, antioxydant : acide ascorbique.",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage (nectar de pÃªche)"
+ },
+ {
+  "barcode": "8410525208966",
+  "outcome": "found",
+  "ingredients_text": "Ã‰dulcorants (sorbitol, isomalt, maltitol, mannitol, sirop de maltitol, aspartame, acÃ©sulfame K, sucralose), gomme base (lÃ©cithine de soja), arÃ´mes, colorant (dioxyde de titane), stabilisant (gomme arabique), agents d'enrobage (cire d'abeille, cire de carnauba). Contient une source de phÃ©nylalanine.",
+  "additives": "",
+  "allergens": "en:soybeans",
+  "note": "Traduit de l'espagnol (photo petite, lisible mais peu nette)"
+ },
+ {
+  "barcode": "8480012010198",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ© (88%), levure, huile vÃ©gÃ©tale (tournesol), sirop de glucose et fructose, sucre, sel, farine d'orge maltÃ©e, gluten de blÃ© et agent de traitement de la farine (acide ascorbique). Peut contenir des traces de fruits Ã  coque, lait, Å“ufs et graines de sÃ©same.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "8690637829420",
+  "outcome": "not_found",
+  "note": "Texte trop flou pour Ãªtre lu"
+ },
+ {
+  "barcode": "8410090661289",
+  "outcome": "found",
+  "ingredients_text": "Thon (35%), huile de tournesol, purÃ©e de pommes de terre, tomate, albumine d'Å“uf, jus de citron, sucre, protÃ©ine de lait, fÃ©cule de pomme de terre, sel et arÃ´mes (contient soja et crustacÃ©s). Peut contenir du gluten.",
+  "additives": "",
+  "allergens": "en:fish,en:eggs,en:milk,en:soybeans,en:crustaceans",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "8410712000236",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisse vÃ©gÃ©tale totalement hydrogÃ©nÃ©e (coco), farine de blÃ©, amidon de blÃ©, lait Ã©crÃ©mÃ© en poudre (4,6%), farine de soja, dextrose, sel, agent levant : bicarbonate de sodium, Ã©mulsifiant : lÃ©cithine et arÃ´me. Contient gluten, lait et soja. Peut contenir des traces d'Å“uf et de fruits Ã  coque.",
+  "additives": "",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Traduit de l'espagnol/anglais"
+ },
+ {
+  "barcode": "6194036800506",
+  "outcome": "not_found",
+  "note": "Texte partiellement coupÃ©/illisible sur la photo"
+ },
+ {
+  "barcode": "8410376002225",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ© 56,5%, sucre, huile vÃ©gÃ©tale (tournesol haut olÃ©ique) 10%, farine de seigle, sirop de glucose et fructose, son de blÃ© 4%, fibre de pois 1,5%, agents levants (carbonate acide de sodium et carbonate acide d'ammonium), dextrose, sel, protÃ©ine de soja, Ã©mulsifiant (lÃ©cithine de soja), arÃ´me, antioxydants (mÃ©tabisulfite de sodium et extrait riche en tocophÃ©rols). Peut contenir des traces de lait.",
+  "additives": "",
+  "allergens": "en:gluten,en:soybeans,en:sulphur-dioxide-and-sulphites",
+  "note": "Traduit de l'espagnol/anglais"
+ },
+ {
+  "barcode": "8411700005004",
+  "outcome": "found",
+  "ingredients_text": "Lait entier et vitamine D.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "0703980772447",
+  "outcome": "found",
+  "ingredients_text": "Eau gazÃ©ifiÃ©e, jus de pommes extrait des concentrÃ©, sirop de glucose et de fructose, acidifiant : E-330, Ã©dulcorants : E-952, E-954, E-950 et E-951, arÃ´me, conservateur : E-211 et couleur : E-150d. Contient de la phÃ©nylalanine.",
+  "additives": "en:e330,en:e952,en:e954,en:e950,en:e951,en:e211,en:e150d",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage (photo pivotÃ©e)"
+ },
+ {
+  "barcode": "8429359001520",
+  "outcome": "found",
+  "ingredients_text": "Eau minÃ©rale naturelle (79%), jus de pommes Ã  partir de concentrÃ© (16%), sucre, acidifiants : acide malique et acide citrique, extraits de pommes (0,03%), antioxydant : acide ascorbique, Ã©dulcorant : sucralose et arÃ´me.",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8411859550424",
+  "outcome": "found",
+  "ingredients_text": "Semoule de maÃ¯s, huile de tournesol (20,9%), arÃ´me de sauce barbecue [sucre, sel, maltodextrine, amidon de maÃ¯s, dextrose, extraits de levure, arÃ´mes, oignon en poudre, ail en poudre, arÃ´mes de fumÃ©e et colorant (extrait de paprika)]. Peut contenir des protÃ©ines de lait.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "8411414010240",
+  "outcome": "not_found",
+  "note": "Liste coupÃ©e sur le bord gauche de la photo, incomplÃ¨te"
+ },
+ {
+  "barcode": "6130430005208",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8410087414881",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ©, eau, sucre, huile de tournesol (3%), levure, sel, farine de fÃ¨ve, Ã©mulsifiants : E-481 et E-471, gluten de blÃ©, conservateurs : E-282 et E-200, stabilisant : E-412 et arÃ´me. Peut contenir des traces d'amandes, noisettes, graines de sÃ©same, Å“ufs, lait, soja et/ou produits dÃ©rivÃ©s.",
+  "additives": "en:e481,en:e471,en:e282,en:e200,en:e412",
+  "allergens": "en:gluten",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8411192052258",
+  "outcome": "found",
+  "ingredients_text": "Graisse vÃ©gÃ©tale de palme, farine de blÃ© et de seigle, sucre, dextrose, agents levants (E-500ii, E-503ii, E-504i), Ã©mulsifiant (lÃ©cithine de soja), amidon de maÃ¯s, sel, arÃ´me (fraise, crÃ¨me), vanilline, colorant : E-120.",
+  "additives": "en:e500ii,en:e503ii,en:e504i,en:e120",
+  "allergens": "en:gluten,en:soybeans",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "8436548620745",
+  "outcome": "found",
+  "ingredients_text": "Huile d'olive vierge extra.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'espagnol (un seul ingrÃ©dient)"
+ },
+ {
+  "barcode": "5400141194227",
+  "outcome": "found",
+  "ingredients_text": "CafÃ© soluble - 100 % robusta.",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8437006958820",
+  "outcome": "found",
+  "ingredients_text": "Pomme 85% et banane 15%. Sans sucre ajoutÃ©. Contient des sucres naturellement prÃ©sents dans le fruit.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "8410379914945",
+  "outcome": "not_found",
+  "note": "Liste coupÃ©e sur les bords de la photo, incomplÃ¨te"
+ },
+ {
+  "barcode": "3166291527606",
+  "outcome": "found",
+  "ingredients_text": "Sel, ail, chapelure (blÃ©), oignon, coriandre, Ã©corce de citron (6,4%), carotte, sucre, poivre noir, aneth (2,9%), anis, poivron rouge, poivre blanc, fenouil, huile de tournesol, colorant : extrait de paprika.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Liste franÃ§aise sur l'emballage (assaisonnement)"
+ },
+ {
+  "barcode": "8413585022541",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huile de tournesol, lait Ã©crÃ©mÃ© en poudre (6%), cacao dÃ©graissÃ© en poudre (4%), pÃ¢te de noisette (4%), lactosÃ©rum en poudre, Ã©mulsifiants (E-471, lÃ©cithine de soja), arÃ´mes et antioxydant (extrait riche en tocophÃ©rols). Peut contenir des traces d'autres fruits Ã  coque.",
+  "additives": "en:e471",
+  "allergens": "en:milk,en:nuts,en:soybeans",
+  "note": "Traduit de l'espagnol (photo un peu floue)"
+ },
+ {
+  "barcode": "8683323937172",
+  "outcome": "found",
+  "ingredients_text": "Sirop de glucose, sucre, gÃ©latine de bÅ“uf (Halal), acide citrique, huile de palme, cire de carnauba, cire d'abeille, jus de fruits (pomme 1%), arÃ´mes, colorants (E102*, E110*, E129*, E133, E150d).",
+  "additives": "en:e102,en:e110,en:e129,en:e133,en:e150d",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "5906441350443",
+  "outcome": "found",
+  "ingredients_text": "Eau, glucose, maltodextrine, acide : acide citrique ; rÃ©gulateurs d'aciditÃ© : citrates de sodium, citrates de potassium ; arÃ´me, stabilisants : gomme arabique, esters de glycÃ©rol de colophane ; L-carnitine (0,02%) ; Ã©dulcorants : aspartame, acÃ©sulfame K ; substances enrichissantes : vitamines : niacine (B3), acide pantothÃ©nique (B5), vitamine B6, acide folique (B9), biotine (B7), vitamine B12, colorant : E133.",
+  "additives": "en:e133",
+  "allergens": "",
+  "note": "Photo petite ; texte franÃ§ais lu avec l'anglais"
+ },
+ {
+  "barcode": "8436537525563",
+  "outcome": "not_found",
+  "note": "La photo montre le devant de la canette, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "5060337505802",
+  "outcome": "not_found",
+  "note": "Texte trop flou et incomplet pour une transcription fiable"
+ },
+ {
+  "barcode": "8410707005499",
+  "outcome": "found",
+  "ingredients_text": "Jus d'orange pressÃ©.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'espagnol (un seul ingrÃ©dient)"
+ },
+ {
+  "barcode": "3760137113369",
+  "outcome": "found",
+  "ingredients_text": "Olives* entiÃ¨res vertes, huile de colza*, vinaigre de cidre*, sel. *IngrÃ©dients issus de l'agriculture biologique.",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "3073781116908",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel en arabe, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "4002720006504",
+  "outcome": "not_found",
+  "note": "La photo montre le mode d'emploi, pas la liste d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8410085886710",
+  "outcome": "not_found",
+  "note": "La photo montre le devant du paquet, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8413700494321",
+  "outcome": "found",
+  "ingredients_text": "Gingembre (95%), arÃ´me artificiel de miel (5%) (contient de l'aspartame). Contient une source de phÃ©nylalanine. Peut contenir des traces de gluten.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'espagnol (infusion gingembre et miel)"
+ },
+ {
+  "barcode": "8410707005482",
+  "outcome": "not_found",
+  "note": "Photo trop petite et floue, texte illisible"
+ },
+ {
+  "barcode": "5920190007397",
+  "outcome": "found",
+  "ingredients_text": "Arachides grillÃ©es (90%), huile vÃ©gÃ©tale hydrogÃ©nÃ©e, sucre et sel.",
+  "additives": "",
+  "allergens": "en:peanuts",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "6223003803834",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8480012003619",
+  "outcome": "found",
+  "ingredients_text": "Sucre, cacao dÃ©graissÃ© en poudre, farine de riz, amidon de maÃ¯s, extrait de malt sans gluten (orge), Ã©mulsifiant (lÃ©cithine de soja) et arÃ´mes. Cacao : 23% minimum. Peut contenir des traces de lait.",
+  "additives": "",
+  "allergens": "en:soybeans,en:gluten",
+  "note": "Traduit de l'espagnol ; orge (cÃ©rÃ©ale Ã  gluten) indiquÃ©e en gras comme allergÃ¨ne"
+ },
+ {
+  "barcode": "3505631400016",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3041091282866",
+  "outcome": "found",
+  "ingredients_text": "LactosÃ©rum dÃ©minÃ©ralisÃ© (LAIT) - Huiles vÃ©gÃ©tales (palme, colza, coprah, tournesol) - LAIT Ã©crÃ©mÃ© - Maltodextrines - Amidons (maÃ¯s, pomme de terre) - ConcentrÃ© de lactosÃ©rum (LAIT) - Ã‰mulsifiant : lÃ©cithine de SOJA - Huile de POISSON - Citrate de choline - Huile de Mortierella Alpina - Inositol - Taurine - NuclÃ©otides (uridine, cytidine, adÃ©nosine, inosine, guanosine 5'-monophosphate) - MinÃ©raux : hydroxydes de calcium et de sodium, chlorures de potassium et de magnÃ©sium, citrate de potassium, sulfates de fer, de zinc, de cuivre et de manganÃ¨se, iodure de potassium, sÃ©lÃ©nite de sodium - Vitamines : A, D, E, K, C, B1, B2, B3, B6, acide folique, B12, biotine, acide pantothÃ©nique.",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans,en:fish",
+  "note": "Liste franÃ§aise sur l'emballage (photo pivotÃ©e)"
+ },
+ {
+  "barcode": "8436586780012",
+  "outcome": "found",
+  "ingredients_text": "Eau, AVOINE (13%).",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'anglais (boisson Ã  l'avoine)"
+ },
+ {
+  "barcode": "3048431002658",
+  "outcome": "not_found",
+  "note": "La photo montre la composition minÃ©rale de l'eau, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8411206005478",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "0667888291502",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, jus de citron fait de concentrÃ©, extrait de gingembre, jus de gingembre fait de concentrÃ©, jus d'orange fait de concentrÃ©, pectine, acide citrique, acide ascorbique (vitamine C), arÃ´me de citron, arÃ´me de lime, arÃ´me de gingembre. Peut contenir du lait.",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8420947604796",
+  "outcome": "found",
+  "ingredients_text": "Huile vÃ©gÃ©tale (tournesol) (42%), eau, graisse vÃ©gÃ©tale (palme, palmiste), lait Ã©crÃ©mÃ© reconstituÃ© (10%), sel (1,30%), Ã©mulsifiants (mono- et diglycÃ©rides d'acides gras et esters citriques de mono- et diglycÃ©rides d'acides gras), arÃ´mes, conservateur (sorbate de potassium), correcteur d'aciditÃ© (acide citrique), colorant (carotÃ¨nes) et vitamines E, A et D. MatiÃ¨re grasse totale : 60% min.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "6923744358135",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel, la liste d'ingrÃ©dients est coupÃ©e"
+ },
+ {
+  "barcode": "8713734018747",
+  "outcome": "found",
+  "ingredients_text": "Lait de chÃ¨vre pasteurisÃ©, sel (1%), ferments lactiques, prÃ©sure microbienne.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Traduit de l'anglais ; photo trÃ¨s petite"
+ },
+ {
+  "barcode": "7613037067132",
+  "outcome": "found",
+  "ingredients_text": "100% cafÃ© soluble.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'arabe (un seul ingrÃ©dient)"
+ },
+ {
+  "barcode": "6294003568269",
+  "outcome": "found",
+  "ingredients_text": "Sucre, fourrage caramel, sirop de glucose, lait Ã©crÃ©mÃ© de vache en poudre, masse de cacao, beurre de cacao, matiÃ¨re grasse vÃ©gÃ©tale (palme/karitÃ©/illipÃ©/noyau de mangue/kokum gurgi/sal), lactose et protÃ©ines de lactosÃ©rum, lactosÃ©rum en poudre, noisettes, matiÃ¨re grasse de lait, lait entier en poudre, beurre (de lait), cacao en poudre Ã  teneur rÃ©duite en matiÃ¨re grasse, Ã©mulsifiant d'origine vÃ©gÃ©tale (lÃ©cithine de soja/tournesol), arÃ´mes naturels (fraise, vanille, orange), sel, acide lactique. Contient : lait, soja, fruits Ã  coque. Peut contenir : gluten et arachide.",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans,en:nuts",
+  "note": "Traduit de l'anglais"
+ },
+ {
+  "barcode": "5053827194488",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel, la liste d'ingrÃ©dients est coupÃ©e"
+ },
+ {
+  "barcode": "8410679030062",
+  "outcome": "found",
+  "ingredients_text": "Ã‰dulcorants (maltitol et glycosides de stÃ©viol (0,02%)), beurre de cacao, lait entier en poudre, amande (12%), pÃ¢te de cacao, beurre, Ã©mulsifiant (lÃ©cithine de soja) et arÃ´me. Cacao : 30% minimum. Peut contenir d'autres fruits Ã  coque. Sans gluten.",
+  "additives": "",
+  "allergens": "en:milk,en:nuts,en:soybeans",
+  "note": "Traduit de l'anglais"
+ },
+ {
+  "barcode": "8422114172961",
+  "outcome": "found",
+  "ingredients_text": "Pommes de terre, huile vÃ©gÃ©tale*, arÃ´mes (sucre, sel, maltodextrine, exhausteur de goÃ»t (E621, E635), substances aromatisantes, persil, colorant (E160c), arÃ´me de fumÃ©e, Ã©dulcorant (E955) et antioxydant (E392). Peut contenir des traces de dÃ©rivÃ©s lactiques. Sans gluten.",
+  "additives": "en:e621,en:e635,en:e160c,en:e955,en:e392",
+  "allergens": "",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "7622210326157",
+  "outcome": "not_found",
+  "note": "Texte des ingrÃ©dients trop flou pour Ãªtre lu"
+ },
+ {
+  "barcode": "8691066122052",
+  "outcome": "found",
+  "ingredients_text": "CrÃ¨me 65% [sucre, huile vÃ©gÃ©tale (palme), amidon de maÃ¯s, lactosÃ©rum en poudre (produit laitier), pÃ¢te de noisette (4,11%), cacao en poudre (3,38%), lait en poudre, Ã©mulsifiant (lÃ©cithine de soja E322), arÃ´me (noix de coco)]. Gaufrette 35% [farine de blÃ© (contient du gluten), sucre, glucose, huile vÃ©gÃ©tale (palme), lait en poudre, colorant (caramel E150d), sel, Ã©mulsifiant (lÃ©cithine de soja E322)].",
+  "additives": "en:e322,en:e150d",
+  "allergens": "en:milk,en:nuts,en:gluten,en:soybeans",
+  "note": "Traduit de l'anglais/turc ; reflets sur la photo"
+ },
+ {
+  "barcode": "8410525173578",
+  "outcome": "not_found",
+  "note": "Photo floue, liste partiellement visible et illisible"
+ },
+ {
+  "barcode": "8410679400650",
+  "outcome": "not_found",
+  "note": "Photo floue, texte trop petit pour Ãªtre lu de faÃ§on fiable"
+ },
+ {
+  "barcode": "8690632040615",
+  "outcome": "found",
+  "ingredients_text": "CÃ©rÃ©ales (68%) (blÃ© complet (51%), semoule de maÃ¯s (17%)), sucre, poudre de chocolat (12%) (sucre, cacao en poudre), sirop de glucose, cacao en poudre Ã  teneur rÃ©duite en matiÃ¨re grasse, sel, arÃ´mes naturels (vanille et caramel), antioxydant : tocophÃ©rols. Vitamines et minÃ©raux : calcium, niacine, acide pantothÃ©nique, fer, vitamine D, vitamine B6, thiamine, riboflavine, acide folique.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'anglais/arabe ; peut contenir lait, fruits Ã  coque et soja"
+ },
+ {
+  "barcode": "18780031",
+  "outcome": "found",
+  "ingredients_text": "Fraise (70%), Ã©dulcorant : sirop de sorbitol, gÃ©lifiant : pectine de fruits, correcteur d'aciditÃ© : acide citrique, conservateurs (sorbate de potassium et benzoate de sodium) et Ã©dulcorants (aspartame et acÃ©sulfame de potassium).",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage ; pot de confiture de fraise sans sucre ajoutÃ©"
+ },
+ {
+  "barcode": "8410379914983",
+  "outcome": "not_found",
+  "note": "Liste coupÃ©e sur les bords de la photo, incomplÃ¨te"
+ },
+ {
+  "barcode": "0863433000302",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "80879602",
+  "outcome": "found",
+  "ingredients_text": "Sucre, sirop de glucose, jus de citron Ã  base de concentrÃ© (2%), amidon, huile de coco, maltodextrine, acide (acide citrique), arÃ´mes, humectant (glycÃ©rol), beurre de cacao, Ã©paississants (gomme de cellulose, gomme arabique), agents d'enrobage (cire de carnauba, cire d'abeille, gomme laque), dextrine, colorant (curcumine).",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais/espagnol"
+ },
+ {
+  "barcode": "8411741103004",
+  "outcome": "found",
+  "ingredients_text": "Sel fin et sec enrichi en iode (35 mg par kg), antiagglomÃ©rant E536.",
+  "additives": "en:e536",
+  "allergens": "",
+  "note": "Traduit de l'arabe (autre langues coupÃ©es sur la photo)"
+ },
+ {
+  "barcode": "8410095001844",
+  "outcome": "not_found",
+  "note": "Photo trop petite et illisible"
+ },
+ {
+  "barcode": "90167966",
+  "outcome": "found",
+  "ingredients_text": "Eau, jus de plusieurs fruits Ã  base de concentrÃ©* (orange*, pomme*, citron*, mÃ»re*, myrtille*, griotte*), sucre*, jus de betterave rouge Ã  base de concentrÃ©*, arÃ´me naturel de citron, arÃ´me naturel d'orange, arÃ´me naturel de cassis, arÃ´me naturel de framboise. *issus de l'agriculture biologique.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'allemand/italien (pas de franÃ§ais sur la photo)"
+ },
+ {
+  "barcode": "8434165466388",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ©, sucre, huile de palme, sirop de glucose et fructose, extrait de malt d'orge, agents levants (carbonates d'ammonium et de sodium), sel, rÃ©gulateur d'aciditÃ© (phosphates de calcium), levure, agent de traitement de la farine (mÃ©tabisulfite de sodium). Contient des Å“ufs. Peut contenir du sÃ©same, du lait, du soja et des Å“ufs.",
+  "additives": "",
+  "allergens": "en:gluten,en:eggs,en:sulphur-dioxide-and-sulphites",
+  "note": "Traduit de l'arabe"
+ },
+ {
+  "barcode": "3073781132410",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel en arabe ; liste d'ingrÃ©dients coupÃ©e"
+ },
+ {
+  "barcode": "5000396044645",
+  "outcome": "found",
+  "ingredients_text": "Sucre, farine (blÃ©, blÃ© complet, avoine, son), huile vÃ©gÃ©tale non hydrogÃ©nÃ©e (palme), cacao en poudre, lactose, lait Ã©crÃ©mÃ© (lait de vache), sirop de sucre partiellement inverti, lactosÃ©rum en poudre (lait de vache), agents levants (bicarbonates d'ammonium, bicarbonates de sodium et mÃ©tabisulfite de sodium), sel, Ã©mulsifiant (lÃ©cithine de soja), arÃ´me naturel (chocolat).",
+  "additives": "",
+  "allergens": "en:gluten,en:milk,en:soybeans,en:sulphur-dioxide-and-sulphites",
+  "note": "Traduit de l'anglais"
+ },
+ {
+  "barcode": "8410376054040",
+  "outcome": "not_found",
+  "note": "Photo trop petite et illisible"
+ },
+ {
+  "barcode": "6221007029496",
+  "outcome": "found",
+  "ingredients_text": "CÃ©rÃ©ales complÃ¨tes (farine de blÃ© complet, farine d'avoine complÃ¨te, farine de riz complet, farine de maÃ¯s complÃ¨te), son de blÃ© (gluten), amidon de maÃ¯s, huile vÃ©gÃ©tale (tournesol), assaisonnement naturel aux herbes mÃ©langÃ©es (lait, cÃ©leri), fibres vÃ©gÃ©tales, sucre, sel iodÃ© (1%), antioxydants (E320, E310). Peut contenir des traces de moutarde.",
+  "additives": "en:e320,en:e310",
+  "allergens": "en:gluten,en:milk,en:celery",
+  "note": "Traduit de l'anglais ; la photo montre un autre produit (snack Fitness Toasties Ã©picÃ© de NestlÃ© Ã‰gypte), pas Frosties"
+ },
+ {
+  "barcode": "0733739003690",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3288131580531",
+  "outcome": "found",
+  "ingredients_text": "Poudre de lait entier de chÃ¨vre des Pays-Bas* (36,9%) ; maltodextrines de maÃ¯s* ; lactose de chÃ¨vre* ; huiles vÃ©gÃ©tales* (colza*, tournesol*, tournesol olÃ©ique*) ; huile de poisson ; minÃ©raux (carbonate de calcium, phosphate dipotassique, chlorure de magnÃ©sium, chlorure de sodium, hydroxyde de calcium, sulfate ferreux, sulfate de zinc, hydroxyde de potassium, sÃ©lÃ©nite de sodium, sulfate de cuivre, sulfate de manganÃ¨se, iodure de potassium) ; huile de Mortierella alpina ; vitamines (C, E, D3, B3, B5, A, B8, B12, B2, K, B1, B6, B9) ; L-cystine ; L-tyrosine ; L-tryptophane ; L-isoleucine ; antioxydant : extrait riche en tocophÃ©rols. *IngrÃ©dients issus de l'agriculture biologique. Peut contenir des protÃ©ines de lait de vache.",
+  "additives": "",
+  "allergens": "en:milk,en:fish",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "4006424022693",
+  "outcome": "found",
+  "ingredients_text": "Ã‰dulcorant (sorbitol), oranges, rÃ©gulateurs d'aciditÃ© (acide citrique, citrates de sodium), gÃ©lifiant (pectines). PrÃ©parÃ© avec 30 g de fruits pour 100 g. Contient des sucres naturellement prÃ©sents.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais ; une partie du texte masquÃ©e par un reflet (le mot aprÃ¨s 'Oranges' est cachÃ©)"
+ },
+ {
+  "barcode": "8410022113282",
+  "outcome": "found",
+  "ingredients_text": "Farines (50%) (blÃ©, riz, seigle, avoine, orge), pÃ©pites de chocolat au lait (14%) (sucre, lait entier en poudre, beurre de cacao, pÃ¢te de cacao, lactose, Ã©mulsifiant (lÃ©cithine de tournesol), arÃ´me), eau, Å“ufs liquides, huile vÃ©gÃ©tale (soja), sirop de glucose et fructose, sucre, lait Ã©crÃ©mÃ© en poudre (2,4%), levure, Ã©mulsifiants (mono- et diglycÃ©rides d'acides gras), sel, gluten de blÃ©, agent de traitement de la farine (acide ascorbique).",
+  "additives": "",
+  "allergens": "en:gluten,en:milk,en:eggs,en:soybeans",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8423453905630",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le code-barres, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "5601066401036",
+  "outcome": "found",
+  "ingredients_text": "Flocons d'avoine entiers (gluten) (29 %), farine de blÃ©, matiÃ¨re grasse vÃ©gÃ©tale de palme (antioxydants : palmitate d'ascorbyle et extraits riches en tocophÃ©rols), sucre, son de blÃ©, sirop de glucose-fructose, amidon de maÃ¯s, poudre de lait entier, graines de chia (1,3 %), miel (0,5 %), poudres Ã  lever (carbonate acide d'ammonium et carbonate acide de sodium) et sel. Peut contenir des traces d'Å“uf et des graines de sÃ©same.",
+  "additives": "",
+  "allergens": "en:gluten,en:milk",
+  "note": "Liste franÃ§aise sur l'emballage ; biscuit avoine/chia/miel"
+ },
+ {
+  "barcode": "8425197800080",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ©, graisse vÃ©gÃ©tale de palme (avec antioxydants : E306 et E304), sucre, dextrose, farine de riz, fibre de pois, agents levants (bicarbonate de sodium, carbonate de calcium et carbonate de magnÃ©sium), arÃ´me et colorant (E160a). Peut contenir des traces de lait et de fruits Ã  coque.",
+  "additives": "en:e306,en:e304,en:e160a",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "0070177025953",
+  "outcome": "found",
+  "ingredients_text": "ThÃ© noir (88%), arÃ´mes de fruits rouges (12%).",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'italien (thÃ© noir aux fruits rouges)"
+ },
+ {
+  "barcode": "8414493990106",
+  "outcome": "not_found",
+  "note": "La photo montre l'analyse minÃ©rale de l'eau, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8420947604628",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ©, sucre, graisse vÃ©gÃ©tale de palme, huiles vÃ©gÃ©tales (tournesol, soja) en proportion variable, sirop de glucose et fructose, sel, arÃ´me et colorant (carotÃ¨ne).",
+  "additives": "",
+  "allergens": "en:gluten,en:soybeans",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "8437018406005",
+  "outcome": "found",
+  "ingredients_text": "Thon 65%, huile de tournesol, tomate 10%, eau, sel, arÃ´mes naturels.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "7622210940728",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le devant du paquet en arabe, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "3067140011003",
+  "outcome": "not_found",
+  "note": "La photo montre le dos de l'emballage sans liste d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8695077074942",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "3041091313195",
+  "outcome": "found",
+  "ingredients_text": "Huiles vÃ©gÃ©tales (palme, colza, coprah, tournesol) - Lactose (lait) - Lait Ã©crÃ©mÃ© - LactosÃ©rum dÃ©minÃ©ralisÃ© (lait) - scGOS (lait)/lcFOS (9:1) 0,4 g/100 ml (galacto-oligosaccharides/fructo-oligosaccharides) - Ã‰paississant : farine de graine de caroube - Ã‰mulsifiant : lÃ©cithine de soja - Huile de poisson - Chlorure de choline - L-cystÃ©ine - Huile de Mortierella alpina - Taurine - L-tryptophane - Inositol - NuclÃ©otides (uridine, cytidine, adÃ©nosine, inosine, guanosine 5'-monophosphate) - L-carnitine - MinÃ©raux : citrates de sodium et de potassium, phosphate de calcium, carbonate de calcium, chlorures de potassium et de magnÃ©sium, sulfates de fer, de zinc, de cuivre et de manganÃ¨se, iodure de potassium, sÃ©lÃ©nite de sodium - Vitamines : A, D, E, K, C, B1, B2, B3, B6, B9, B12, B8, B5.",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans,en:fish",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8422114791209",
+  "outcome": "found",
+  "ingredients_text": "Farine de maÃ¯s (68%), huile de tournesol (20,6%), amidon de maÃ¯s, fÃ©cule de pomme de terre, arÃ´me de fromage [aromatisants, lactosÃ©rum, lactose, sel, exhausteur de goÃ»t (E621, E635), stabilisant (E414)], gazÃ©ifiant (E500ii) et acidulant (E330).",
+  "additives": "en:e621,en:e635,en:e414,en:e500ii,en:e330",
+  "allergens": "en:milk",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "3664887000149",
+  "outcome": "not_found",
+  "note": "La photo montre le dos de l'emballage sans liste d'ingrÃ©dients (thÃ© vert de Chine, poids, dates seulement)"
+ },
+ {
+  "barcode": "6926064102280",
+  "outcome": "not_found",
+  "note": "La photo montre le devant de la bouteille, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "6281004202636",
+  "outcome": "not_found",
+  "note": "La photo montre seulement le logo du produit, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8410510053939",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huile de tournesol, lactosÃ©rum en poudre, farine de caroube, pÃ¢te de noisettes (3%), graisse vÃ©gÃ©tale de palme entiÃ¨rement hydrogÃ©nÃ©e, Ã©mulsifiant : lÃ©cithine de soja, arÃ´mes et antioxydants (E-306 et E-304i). Peut contenir des traces d'autres fruits Ã  coque.",
+  "additives": "en:e306,en:e304i",
+  "allergens": "en:milk,en:nuts,en:soybeans",
+  "note": "Liste franÃ§aise sur l'emballage (partiellement masquÃ©e, complÃ©tÃ©e par la version espagnole voisine)"
+ },
+ {
+  "barcode": "8424842050030",
+  "outcome": "found",
+  "ingredients_text": "Pommes de terre, huile d'olive (42%) et sel rose de l'Himalaya (1,9%).",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8004172000297",
+  "outcome": "found",
+  "ingredients_text": "Eau, huiles vÃ©gÃ©tales de palmiste, tournesol et soja (en proportions variables) totalement hydrogÃ©nÃ©es, sucre (11%), stabilisant (E420ii), protÃ©ines de lait, Ã©paississant (E463), Ã©mulsifiants (E472e, E472b, lÃ©cithine de soja), sel, arÃ´me, colorant (carotÃ¨nes).",
+  "additives": "en:e420ii,en:e463,en:e472e,en:e472b",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Traduit de l'italien (crÃ¨me Ã  fouetter UHT)"
+ },
+ {
+  "barcode": "8718969480765",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "6911657410033",
+  "outcome": "not_found",
+  "note": "Liste en thaÃ¯, trop petite pour une transcription fiable"
+ },
+ {
+  "barcode": "8713734031258",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8691066262031",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ© (contient du gluten), sucre, huile vÃ©gÃ©tale (palme), lait en poudre, poudre de cacao (2,8%), lactosÃ©rum en poudre (produit laitier), glucose, agents levants (bicarbonate de sodium E500, bicarbonate d'ammonium E503, pyrophosphate acide de sodium E450), Ã©mulsifiants (lÃ©cithine de soja E322, polyricinolÃ©ate de polyglycÃ©rol E476), mÃ©lasse, sel, arÃ´mes (caramel, sucre brun, lait caramÃ©lisÃ©, Ã©thylvanilline), colorant (caramel E150d). Peut contenir des traces de noisettes.",
+  "additives": "en:e500,en:e503,en:e450,en:e322,en:e476,en:e150d",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Traduit de l'anglais/franÃ§ais partiel ; biscuit enrobÃ© de cacao et crÃ¨me caramel"
+ },
+ {
+  "barcode": "7894904573516",
+  "outcome": "not_found",
+  "note": "Liste anglaise coupÃ©e sur le bord gauche et arabe partielle, incomplÃ¨te"
+ },
+ {
+  "barcode": "3460340300586",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8695077035882",
+  "outcome": "not_found",
+  "note": "Photo floue, liste non lisible (tableau nutritionnel seulement)"
+ },
+ {
+  "barcode": "8411414014057",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ©, sucre, huile de tournesol olÃ©ique (16%), miel (3%), sirop de sucre-caramel, Ã©mulsifiant : lÃ©cithine de soja, poudre Ã  lever : bicarbonate d'ammonium et bicarbonate de sodium, sel, cannelle en poudre et arÃ´me. Peut contenir des traces de sÃ©same, de lait et de fruits Ã  coque.",
+  "additives": "",
+  "allergens": "en:gluten,en:soybeans",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8410087363325",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ©, eau, levure, huile de tournesol, sucre, graines de sÃ©same, sel, gluten de blÃ©, Ã©mulsifiants : E-471 et E-481, conservateurs : E-282, E-200 et E-202, stabilisant : E-412, arÃ´mes et correcteur d'aciditÃ© : E-262. Peut contenir des traces d'Å“ufs, soja, lait, fruits Ã  coque et/ou produits dÃ©rivÃ©s.",
+  "additives": "en:e471,en:e481,en:e282,en:e200,en:e202,en:e412,en:e262",
+  "allergens": "en:gluten,en:sesame-seeds",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "7613037067446",
+  "outcome": "found",
+  "ingredients_text": "CafÃ© soluble 100% arabica. Sans gluten.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'italien/arabe"
+ },
+ {
+  "barcode": "5608394431094",
+  "outcome": "found",
+  "ingredients_text": "Cacao cru en poudre. Issu de l'agriculture biologique. Peut contenir des traces de cacahuÃ¨tes, soja, fruits Ã  coque, graines de sÃ©same et sulfites.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "8415001092008",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8901047040023",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel en anglais, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "90169496",
+  "outcome": "not_found",
+  "note": "La photo montre le devant de la canette, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8015997000256",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ© complet (22%), flocons d'avoine (20%), chocolat 20% (sucre, pÃ¢te de cacao, beurre de cacao, graisse de lait, Ã©mulsifiant : lÃ©cithine de soja ; arÃ´me vanille), sucre, graisse vÃ©gÃ©tale (palme), farine de blÃ©, sirop de glucose-fructose, sirop de glucose, poudres Ã  lever : E500ii, E503ii, E450i, sel, arÃ´mes. Le chocolat contient au moins 45% de cacao. Peut contenir des traces de noix (noisettes).",
+  "additives": "en:e500ii,en:e503ii,en:e450i",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Liste franÃ§aise sur l'emballage ; la photo montre des biscuits de blÃ© complet au chocolat noir"
+ },
+ {
+  "barcode": "5903111335533",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, jus de citron vert Ã  base de concentrÃ© 1,5%, dioxyde de carbone, acidifiant : acide citrique, arÃ´me naturel de citron vert, arÃ´mes naturels, conservateur : sorbate de potassium ; Ã©dulcorants : acÃ©sulfame K, sucralose.",
+  "additives": "en:e330,en:e202,en:e950,en:e955",
+  "allergens": "",
+  "note": "Traduit du polonais (seule langue sur la photo)"
+ },
+ {
+  "barcode": "8480012030592",
+  "outcome": "not_found",
+  "note": "La photo montre le devant du sachet, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8425197712093",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisse vÃ©gÃ©tale de palmiste hydrogÃ©nÃ©e, lait entier en poudre (13,5%), cacao dÃ©graissÃ© en poudre, lactosÃ©rum en poudre, Ã©mulsifiant : lÃ©cithine de soja, arÃ´mes (vanilline). Cacao 14% minimum. Peut contenir des traces de fruits Ã  coque, cacahuÃ¨te et lait.",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Liste franÃ§aise sur l'emballage ; fin de ligne lÃ©gÃ¨rement coupÃ©e"
+ },
+ {
+  "barcode": "8410156401682",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ©, sucre, graisses et huiles vÃ©gÃ©tales, sirop de glucose, lactosÃ©rum en poudre, sel, agents levants : bicarbonate de sodium et d'ammonium, Ã©mulsifiant : lÃ©cithine de tournesol, antioxydant : mÃ©tabisulfite de sodium, arÃ´mes. Contient : blÃ©, lait, sulfites. FabriquÃ© dans une usine qui utilise : Å“uf, soja, fruits Ã  coque, sÃ©same.",
+  "additives": "",
+  "allergens": "en:gluten,en:milk,en:sulphur-dioxide-and-sulphites",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "0122110000029",
+  "outcome": "not_found",
+  "note": "Photo floue du devant de la bouteille, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "0033674142806",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8007770111198",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ© tendre (58%), sucre, sirop de glucose-fructose, huile de tournesol, flocons d'avoine (4%), farine d'orge (4%), farine d'Ã©peautre (3%), son de blÃ© tendre (3%), levure, gluten de blÃ©, sel. Peut contenir des traces de soja, moutarde, lupin, lait et dÃ©rivÃ©s.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Liste franÃ§aise sur l'emballage ; biscottes complÃ¨tes aux cÃ©rÃ©ales 71%"
+ },
+ {
+  "barcode": "19113180",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "1601310000019",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8697439300195",
+  "outcome": "not_found",
+  "note": "Photo pivotÃ©e, liste multilingue trop petite et incomplÃ¨te"
+ },
+ {
+  "barcode": "8437011503091",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ© (59%), eau, graisse de palme, stabilisant (E-422), sel, Ã©pinards (1%), Ã©mulsifiant d'origine vÃ©gÃ©tale (E-471, Ã  base d'huile de palme et/ou d'huile de colza), correcteurs d'aciditÃ© (E-296, E-330), conservateurs (E-282, E-202), poudre Ã  lever (E-500ii), Ã©paississant (E-415), agent de traitement de la farine (E-920).",
+  "additives": "en:e422,en:e471,en:e296,en:e330,en:e282,en:e202,en:e500ii,en:e415,en:e920",
+  "allergens": "en:gluten",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8718836395802",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8410014476494",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huile de tournesol olÃ©ique, cacao dÃ©graissÃ© en poudre (8,5%), beurre de cacao, lait Ã©crÃ©mÃ© en poudre (4,5%), noisettes (4%), solides lactÃ©s, Ã©mulsifiant (lÃ©cithine de soja), arÃ´me. Peut contenir d'autres fruits Ã  coque.",
+  "additives": "",
+  "allergens": "en:milk,en:nuts,en:soybeans",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "8410014476500",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huile de tournesol olÃ©ique, lait Ã©crÃ©mÃ© en poudre (6,9%), beurre de cacao, solides lactÃ©s, cacao dÃ©graissÃ© en poudre (4,3%), noisettes (3,9%), Ã©mulsifiant (lÃ©cithine de soja), arÃ´mes. Peut contenir d'autres fruits Ã  coque.",
+  "additives": "",
+  "allergens": "en:milk,en:nuts,en:soybeans",
+  "note": "Traduit de l'espagnol ; la photo montre la version double crÃ¨me cacao et lait aux noisettes"
+ },
+ {
+  "barcode": "0039442030115",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5701397325138",
+  "outcome": "found",
+  "ingredients_text": "Farine de tapioca 40%, huile de tournesol 27%, crevettes 23%, sucre, sel, chili, poivre de Cayenne, Ã©pices, oignon, maltodextrine, dextrose, extrait de levure, extrait d'Ã©pices (poivre de Cayenne, gingembre, paprika), arÃ´me naturel (vinaigre de cidre de pomme), acidifiant (E270, E330).",
+  "additives": "en:e270,en:e330",
+  "allergens": "en:crustaceans",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8410376053418",
+  "outcome": "found",
+  "ingredients_text": "Flocons d'avoine 27,5%, farine de blÃ© complet 25%, huile vÃ©gÃ©tale (huile de tournesol olÃ©ique) 17%, sucre, prÃ©paration de fruits 10,5% [fruits (purÃ©e de pomme, jus de kiwi, jus d'orange), sirop de fructose et de glucose, sirop de glucose, humectant (glycÃ©rol), sucre, fibre de blÃ©, gÃ©lifiant (pectine), rÃ©gulateur d'aciditÃ© (acide citrique), huile vÃ©gÃ©tale (tournesol), arÃ´mes, colorant (curcumine, E141)], sirop de glucose et de fructose, raisins secs 2%, agents levants (carbonate acide d'ammonium, carbonate acide de sodium et phosphate monocalcique), sel, arÃ´me. Peut contenir des traces de soja, lait et fruits Ã  coque.",
+  "additives": "en:e141",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'italien/espagnol/anglais ; barre aux fruits (E141 imprimÃ© tel quel)"
+ },
+ {
+  "barcode": "42380634",
+  "outcome": "not_found",
+  "note": "Photo trÃ¨s petite et floue, liste illisible"
+ },
+ {
+  "barcode": "3700790020598",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4770149213901",
+  "outcome": "not_found",
+  "note": "Photo trop petite et floue pour une transcription fiable"
+ },
+ {
+  "barcode": "3073781132373",
+  "outcome": "not_found",
+  "note": "La photo montre le cÃ´tÃ© de la boÃ®te en arabe, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "5601228212012",
+  "outcome": "not_found",
+  "note": "La photo montre le devant du sachet de riz, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "8411191108321",
+  "outcome": "found",
+  "ingredients_text": "Sucre, beurre de cacao, lait entier en poudre, pÃ¢te de cacao, lactosÃ©rum en poudre, Ã©mulsifiant (lÃ©cithine de soja), arÃ´me. Cacao : 29% minimum. Peut contenir des fruits Ã  coque. Sans gluten.",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Liste franÃ§aise partiellement coupÃ©e, complÃ©tÃ©e par les versions espagnole/anglaise de la mÃªme Ã©tiquette"
+ },
+ {
+  "barcode": "3505630000552",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (comprimÃ©s de complÃ©ment alimentaire)"
+ },
+ {
+  "barcode": "8411090110005",
+  "outcome": "not_found",
+  "note": "Liste partiellement cachÃ©e sur le bord de l'Ã©tiquette, incomplÃ¨te"
+ },
+ {
+  "barcode": "8412833410055",
+  "outcome": "not_found",
+  "note": "Photo floue, liste trop petite pour Ãªtre lue de faÃ§on fiable"
+ },
+ {
+  "barcode": "8429359003289",
+  "outcome": "found",
+  "ingredients_text": "Eau minÃ©rale naturelle, jus de citron Ã  base de concentrÃ© 12%, sucre, arÃ´mes, vitamine C, Ã©dulcorant : sucralose.",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage ; limonade"
+ },
+ {
+  "barcode": "6254000067646",
+  "outcome": "found",
+  "ingredients_text": "Eau gazÃ©ifiÃ©e, sucre, acidifiant : acide citrique E330, rÃ©gulateur d'aciditÃ© E331 (citrate trisodique), arÃ´me naturel identique tutti frutti avec teneur en jus 5%, colorant caramel E150c, conservateurs (benzoate de sodium E211, sorbate de potassium E202).",
+  "additives": "en:e330,en:e331,en:e150c,en:e211,en:e202",
+  "allergens": "",
+  "note": "Traduit de l'anglais/arabe"
+ },
+ {
+  "barcode": "9260005877385",
+  "outcome": "not_found",
+  "note": "Photo trop petite et floue, liste illisible"
+ },
+ {
+  "barcode": "8681270419727",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ© froment, huile vÃ©gÃ©tale (palme), sirop de glucose, sel (2,6%), poudres Ã  lever (bicarbonate de sodium, bicarbonate d'ammonium), arÃ´me, agent de traitement de la farine (mÃ©tabisulfite de sodium). Peut contenir des traces d'Å“uf, de noisettes, de produit laitier et de produit de soja. Ne contient pas de graisse de porc ni ses additifs.",
+  "additives": "",
+  "allergens": "en:gluten,en:sulphur-dioxide-and-sulphites",
+  "note": "Liste franÃ§aise sur l'emballage (partiellement masquÃ©e par un reflet, complÃ©tÃ©e par les versions anglaise/turque)"
+ },
+ {
+  "barcode": "3701228901472",
+  "outcome": "found",
+  "ingredients_text": "Chocolat noir 70% aux Ã©corces d'oranges confites 5%. PÃ¢te de cacao, sucre, beurre de cacao, graisse laitiÃ¨re anhydre, Ã©corces d'oranges confites [Ã©corces d'orange, sirop de glucose-fructose, sucre, dextrose, correcteur d'aciditÃ© : acide citrique (E330), conservateur : anhydride sulfureux (E220)], cacao en poudre dÃ©graissÃ©, dextrose, pÃ¢te de noisettes, Ã©mulsifiants (polyricinolÃ©ate de polyglycÃ©rol, phosphatide d'ammonium), Ã©mulsifiants : lÃ©cithines (soja, tournesol), arÃ´me naturel de vanille, vanilline, arÃ´me naturel d'orange. Cacao : 70% minimum dans le chocolat. Peut contenir du gluten et autres fruits Ã  coque.",
+  "additives": "en:e330,en:e220",
+  "allergens": "en:milk,en:nuts,en:soybeans,en:sulphur-dioxide-and-sulphites",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "6221031492075",
+  "outcome": "found",
+  "ingredients_text": "MaÃ¯s, huile vÃ©gÃ©tale (olÃ©ine de palme), arÃ´me fromage nacho (substances aromatisantes naturelles - substances aromatisantes artificielles), sel alimentaire, lactosÃ©rum en poudre, sucre, exhausteur de goÃ»t (maltodextrine ; INS 621, INS 627, INS 631), dextrose, substitut de sel (INS 508), anti-agglomÃ©rant (INS 551, INS 339ii), rÃ©gulateur d'aciditÃ© (INS 330, INS 327), matiÃ¨re grasse de palmiste, protÃ©ine de soja hydrolysÃ©e, colorant (INS 160c, INS 160b), amidon modifiÃ© de tapioca (INS 1450), gomme d'acacia (INS 414), arÃ´me thermique, antioxydant (INS 306). Contient environ 2% de sel. Contient : lait et dÃ©rivÃ©s (lactose), soja et dÃ©rivÃ©s.",
+  "additives": "en:e621,en:e627,en:e631,en:e508,en:e551,en:e339ii,en:e330,en:e327,en:e160c,en:e160b,en:e1450,en:e414,en:e306",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Traduit de l'anglais/arabe ; quelques mots masquÃ©s par des reflets, complÃ©tÃ© par la version arabe ; chips nacho"
+ },
+ {
+  "barcode": "8010121021275",
+  "outcome": "not_found",
+  "note": "La photo montre le tableau nutritionnel, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "4770149213888",
+  "outcome": "found",
+  "ingredients_text": "Farine de lentilles rouges (42%), farine de maÃ¯s, huile de colza, farine de riz, mÃ©lange d'assaisonnement (maltodextrine, oignon (1,5%), sucre, sel, sirop d'amidon, Ã©pices, extrait de levure, rÃ©gulateur d'aciditÃ© (acide lactique, acide citrique), arÃ´mes), poireaux sÃ©chÃ©s, oignon vert, sel. Peut contenir du gluten et du lait.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais ; la photo montre la saveur crÃ¨me aigre et oignon (autre variante que 'Lentil chips' nature)"
+ },
+ {
+  "barcode": "3700216242177",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8411414014385",
+  "outcome": "not_found",
+  "note": "Photo floue et partiellement cachÃ©e, liste illisible"
+ },
+ {
+  "barcode": "7613034275127",
+  "outcome": "not_found",
+  "note": "Photo floue montrant le code-barres, pas de liste lisible"
+ },
+ {
+  "barcode": "0728633102549",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (comprimÃ©s de complÃ©ment alimentaire)"
+ },
+ {
+  "barcode": "8410261611341",
+  "outcome": "found",
+  "ingredients_text": "Jus d'ananas.",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage (jus d'ananas pressÃ©, un seul ingrÃ©dient)"
+ },
+ {
+  "barcode": "8024046203012",
+  "outcome": "found",
+  "ingredients_text": "Pomme* (70%), cassis* (30%). *Biologique.",
+  "additives": "",
+  "allergens": "",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "8010121040801",
+  "outcome": "found",
+  "ingredients_text": "Flocons de cÃ©rÃ©ales 51% (riz 50,5%, blÃ© complet 23%, sucre, farine de riz, gluten de blÃ©, germe de blÃ©, lait Ã©crÃ©mÃ© en poudre, amidon de blÃ©, extrait de malt d'orge, sel, agent levant : bicarbonate de sodium, Ã©mulsifiants : mono- et diglycÃ©rides d'acides gras), sirop de glucose, sucre, sucre inverti, huile de tournesol, cubes de canneberges sucrÃ©s, dÃ©shydratÃ©s et aromatisÃ©s 6% (canneberges, sucre, jus concentrÃ© de grenade, arÃ´mes naturels, correcteur d'aciditÃ© : acide malique, huile de tournesol, jus concentrÃ© de sureau), humectants : sorbitol et glycÃ©rine vÃ©gÃ©tale, jus concentrÃ© de grenade 5%, fibre vÃ©gÃ©tale, extrait de malt d'orge, protÃ©ines de soja, Ã©mulsifiant : lÃ©cithine de soja, vitamines (thiamine, riboflavine, niacine, acide pantothÃ©nique, B6, acide folique, B12), minÃ©raux (fer), arÃ´mes. Peut contenir des fruits Ã  coque.",
+  "additives": "",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Traduit de l'italien/anglais"
+ },
+ {
+  "barcode": "8410707006397",
+  "outcome": "found",
+  "ingredients_text": "Jus de fruits partiellement Ã  base de concentrÃ© (99,99%) (pomme, ananas, orange, mandarine, banane, mangue, fruit de la passion, kiwi, goyave et papaye), eau et arÃ´me naturel. Sans sucres ajoutÃ©s.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "8000380202256",
+  "outcome": "found",
+  "ingredients_text": "Farine de blÃ©, graisses vÃ©gÃ©tales (coco, cacao), sirop de glucose, fibre de chicorÃ©e (inuline) 12% dans la crÃ¨me, noisettes 11% dans la crÃ¨me, farine de soja, sucre, lait Ã©crÃ©mÃ© en poudre, amidon de blÃ©, lactosÃ©rum en poudre, cacao maigre, extrait de malt d'orge, farine complÃ¨te d'Ã©peautre, agents levants (carbonate acide de sodium, diphosphate disodique), sel, Ã©mulsifiant lÃ©cithine de soja, farine complÃ¨te d'avoine, lait entier en poudre, pÃ¢te de cacao, Ã©pices, baies de vanille Bourbon. Peut contenir des arachides et des amandes.",
+  "additives": "",
+  "allergens": "en:gluten,en:milk,en:nuts,en:soybeans",
+  "note": "Traduit de l'italien (gaufrettes crÃ¨me noisette)"
+ },
+ {
+  "barcode": "2090004001101",
+  "outcome": "found",
+  "ingredients_text": "Lait pasteurisÃ©, calcium, prÃ©sure, colorant E160, ferments lactiques, sel.",
+  "additives": "en:e160",
+  "allergens": "en:milk",
+  "note": "Traduit de l'arabe (fromage Edam ; 'calcium' tel qu'imprimÃ©)"
+ },
+ {
+  "barcode": "8003294021876",
+  "outcome": "not_found",
+  "note": "La photo montre le devant de la boÃ®te, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "6291103982346",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4809013300017",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6926548647290",
+  "outcome": "not_found",
+  "note": "La photo montre le devant de la bouteille, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "0902979700168",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6904017212200",
+  "outcome": "not_found",
+  "note": "Photo floue, liste illisible"
+ },
+ {
+  "barcode": "9111445001635",
+  "outcome": "not_found",
+  "note": "La photo montre la composition minÃ©rale de l'eau, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "5999076238255",
+  "outcome": "not_found",
+  "note": "Texte multilingue trop dense et illisible sur la photo"
+ },
+ {
+  "barcode": "6960154401068",
+  "outcome": "not_found",
+  "note": "La photo montre des fleurs, pas un produit alimentaire"
+ },
+ {
+  "barcode": "8412604985553",
+  "outcome": "found",
+  "ingredients_text": "Thon, eau, huile de tournesol, concentrÃ© de tomate (6,3%), Ã©pices et sel.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Liste franÃ§aise sur l'emballage"
+ },
+ {
+  "barcode": "2000000983004",
+  "outcome": "not_found",
+  "note": "La photo montre l'illustration de l'emballage, pas d'ingrÃ©dients"
+ },
+ {
+  "barcode": "6936829062742",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ }
+]

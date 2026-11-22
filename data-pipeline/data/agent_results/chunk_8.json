@@ -1,0 +1,1087 @@
+[
+ {
+  "barcode": "6111017048528",
+  "outcome": "found",
+  "ingredients_text": "Sucre, masse de cacao, matière grasse végétale, dextrose, émulsifiant : lécithine de soja, arôme artificiel : vanilline. Contient des matières grasses végétales en plus du beurre de cacao, peut contenir des traces de lait et fruits à coque.",
+  "additives": "",
+  "allergens": "en:soybeans",
+  "note": "Aiguebelle Ma Pâtisserie chocolate (pâtissier)"
+ },
+ {
+  "barcode": "6111259940017",
+  "outcome": "found",
+  "ingredients_text": "Sucre, eau, glucose 15%, acide citrique et arôme de miel.",
+  "additives": "",
+  "allergens": "",
+  "note": "Ramiflor sugar-glucose syrup for pastry; photo of bottle, label French+Arabic"
+ },
+ {
+  "barcode": "6111162012566",
+  "outcome": "found",
+  "ingredients_text": "Sardine, huile, piment, sel.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Joly sardines à l'huile pimentée; French list on box"
+ },
+ {
+  "barcode": "6111242642485",
+  "outcome": "found",
+  "ingredients_text": "Eau gazéifiée, sucre, acide citrique, stabilisants (E414-E445), conservateurs (E202, E211), édulcorants (E955, E950), arôme ananas, colorants (E102, E110). Ces colorants peuvent avoir des effets indésirables sur l'activité et l'attention chez les enfants.",
+  "additives": "en:e414,en:e445,en:e202,en:e211,en:e955,en:e950,en:e102,en:e110",
+  "allergens": "",
+  "note": "Bon Ananas soda"
+ },
+ {
+  "barcode": "6111248338641",
+  "outcome": "found",
+  "ingredients_text": "Poudre de lait entier de vache, perméat de lait, fibre de maïs, vitamines (A, D, C, B9), minéraux (fer, zinc), émulsifiant d'origine végétale (lécithine de soja). Peut contenir des traces de gluten.",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Milk powder tin; French list"
+ },
+ {
+  "barcode": "6111255770236",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, régulateur d'acidité : acide citrique (E330), stabilisant : carboxyméthylcellulose (E466), sorbate de potassium (E202), arôme, colorants artificiels autorisés (E110, E104 et E122).",
+  "additives": "en:e330,en:e466,en:e202,en:e110,en:e104,en:e122",
+  "allergens": "",
+  "note": "Translated from Arabic (label only in Arabic, photo rotated); frozen ice-pop drink"
+ },
+ {
+  "barcode": "6111269820415",
+  "outcome": "found",
+  "ingredients_text": "Sucre de canne, eau, acide citrique, sorbate de potassium.",
+  "additives": "en:e330,en:e202",
+  "allergens": "",
+  "note": "French list; additives named without E-numbers on label"
+ },
+ {
+  "barcode": "6117712002445",
+  "outcome": "not_found",
+  "note": "Photo shows front of Titan ice cream only, no ingredient list"
+ },
+ {
+  "barcode": "6111250478311",
+  "outcome": "found",
+  "ingredients_text": "100% café instantané.",
+  "additives": "",
+  "allergens": "",
+  "note": "VIP Crema Gold instant coffee"
+ },
+ {
+  "barcode": "6111273590083",
+  "outcome": "not_found",
+  "note": "Acyl water bottle: only mineral composition shown, no ingredient list"
+ },
+ {
+  "barcode": "6111250479677",
+  "outcome": "found",
+  "ingredients_text": "Chicorée soluble (60%), café soluble (40%).",
+  "additives": "",
+  "allergens": "",
+  "note": "Chicory/coffee instant mix"
+ },
+ {
+  "barcode": "6111250479882",
+  "outcome": "found",
+  "ingredients_text": "Figues noires (50%), sucre, sirop de glucose-fructose, gélifiant : pectine, acidifiant : acide citrique.",
+  "additives": "en:e440,en:e330",
+  "allergens": "",
+  "note": "Black fig jam; additives named without E-numbers on label"
+ },
+ {
+  "barcode": "6111255091379",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, poudre de lait écrémé, matière grasse végétale, sirop de glucose, poudre de cacao, stabilisants, coulis de chocolat. Contient du lait.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Zahiglaces chocolate ice cream cup"
+ },
+ {
+  "barcode": "6111242666313",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache pasteurisé, sel, ferment lactique, présure, colorant : bêta-carotène.",
+  "additives": "en:e160a",
+  "allergens": "en:milk",
+  "note": "Edam cheese sold by weight; label slightly blurry but legible"
+ },
+ {
+  "barcode": "6111252670058",
+  "outcome": "found",
+  "ingredients_text": "Amande, sucre, huile d'argan, huile végétale, sel, graines de fenouil.",
+  "additives": "",
+  "allergens": "en:nuts",
+  "note": "Almond amlou; list under 'Les composants'"
+ },
+ {
+  "barcode": "6111252660264",
+  "outcome": "not_found",
+  "note": "Photo shows only nutrition table and 'contient du gluten naturel' (semolina/flour); no ingredient list"
+ },
+ {
+  "barcode": "6111275810004",
+  "outcome": "found",
+  "ingredients_text": "Eau, farine, grains de sésame, grains d'anis, sucre, levure chimique, huile, miel, vanille.",
+  "additives": "",
+  "allergens": "en:gluten,en:sesame-seeds",
+  "note": "Kaak biscuits; first word of French list partly hidden, confirmed by English/Arabic lines; flour assumed wheat (gluten)"
+ },
+ {
+  "barcode": "6111250479578",
+  "outcome": "found",
+  "ingredients_text": "Thon 65%, huile végétale 34%, sel 1%. Peut contenir du soja.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Tuna in vegetable oil"
+ },
+ {
+  "barcode": "6111246722244",
+  "outcome": "found",
+  "ingredients_text": "Protéines de lait de vache, fromage cheddar, beurre 82%, graisse végétale de soja, émulsifiant, épaississant, sel, sorbate de potassium, régulateur d'acidité, arôme edam.",
+  "additives": "en:e202",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Milky Food edam-flavoured cheese spread; sorbate named without E-number"
+ },
+ {
+  "barcode": "6111046002119",
+  "outcome": "found",
+  "ingredients_text": "Lait frais entier, poudre de lait écrémé, ferments lactiques sélectionnés.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Plain yogurt; French text partly peeled, completed from the Arabic line which matches"
+ },
+ {
+  "barcode": "6111261412151",
+  "outcome": "not_found",
+  "note": "Henry's biscuit: only nutrition table visible, ingredient line cut off/unreadable"
+ },
+ {
+  "barcode": "6111251754490",
+  "outcome": "found",
+  "ingredients_text": "Purée de tomate (160 g pour produire 100 g de produit), sucre, amidon de maïs modifié, sel, huile d'olive, huile de tournesol, oignon, persil, origan et romarin. 12% d'extrait sec.",
+  "additives": "",
+  "allergens": "",
+  "note": "Tomato sauce/concentrate tube"
+ },
+ {
+  "barcode": "6111259085602",
+  "outcome": "not_found",
+  "note": "Shella sausage: photo rotated and blurry, list only partly legible"
+ },
+ {
+  "barcode": "6111269551807",
+  "outcome": "not_found",
+  "note": "Cheese preparation tub: Arabic-only list with one ambiguous term; not transcribed to avoid guessing"
+ },
+ {
+  "barcode": "6111269980591",
+  "outcome": "not_found",
+  "note": "Kizen biscuit: only nutrition table visible, no ingredient list"
+ },
+ {
+  "barcode": "6111246761205",
+  "outcome": "not_found",
+  "note": "Biscuit (Nature): ingredient text too small, rotated and glare-covered, start of list unreadable"
+ },
+ {
+  "barcode": "6111246955338",
+  "outcome": "found",
+  "ingredients_text": "Purée de pomme 100%, vitamine C.",
+  "additives": "",
+  "allergens": "",
+  "note": "Apple compote pouch"
+ },
+ {
+  "barcode": "6111273460201",
+  "outcome": "found",
+  "ingredients_text": "Sel rose de l'Himalaya, iode.",
+  "additives": "",
+  "allergens": "",
+  "note": "Translated from Arabic/English (label has no French); salt"
+ },
+ {
+  "barcode": "6111266965928",
+  "outcome": "found",
+  "ingredients_text": "Lait frais partiellement écrémé, sucre, poudre de lait écrémé, perméat de lait, texturant : amidon, arôme, correcteur d'acidité : acide citrique, ferments lactiques sélectionnés, vitamines A et D3.",
+  "additives": "en:e330",
+  "allergens": "en:milk",
+  "note": "Drinking yogurt with fruit flavours"
+ },
+ {
+  "barcode": "6111242041196",
+  "outcome": "not_found",
+  "note": "Corn snack: photo blurry, rotated and partly covered by finger; list only partly legible"
+ },
+ {
+  "barcode": "6111266752375",
+  "outcome": "not_found",
+  "note": "Nut/seed product: only nutrition table visible, no ingredient list"
+ },
+ {
+  "barcode": "6111260233016",
+  "outcome": "found",
+  "ingredients_text": "Fromage (lait frais pasteurisé, ferment lactique, présure halal), beurre, protéines de lait, matière grasse végétale, amidon de pomme de terre, sels de fonte (E340, E331, E452), sorbate de potassium (E202), sel, colorant naturel (E160), arôme alimentaire.",
+  "additives": "en:e340,en:e331,en:e452,en:e202,en:e160",
+  "allergens": "en:milk",
+  "note": "Processed cheese slices; translated from Arabic (label only legible in Arabic); 'E160' as printed"
+ },
+ {
+  "barcode": "6111255092246",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisse végétale, poudre de cacao, poudre de lactosérum, émulsifiants (lécithine de soja E322), vanilline identique à la saveur vanille naturelle, arôme noisettes. Peut contenir des traces de lactose, lécithine de soja, fruits à coques.",
+  "additives": "en:e322",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Zahiglaces cocoa cream (hazelnut flavour) tub; ice cream-style product by name 'crème de cacao'"
+ },
+ {
+  "barcode": "6111128000781",
+  "outcome": "found",
+  "ingredients_text": "Eau minérale naturelle Aïn Saïss (95%), sucre (4,9%), exhausteur de goût : acide citrique, arômes naturels, conservateurs : benzoate de sodium, E242.",
+  "additives": "en:e330,en:e211,en:e242",
+  "allergens": "",
+  "note": "Flavoured water drink (lemon-ginger look); acid and benzoate named without E-number except E242"
+ },
+ {
+  "barcode": "6111233557378",
+  "outcome": "found",
+  "ingredients_text": "100% plantes naturelles.",
+  "additives": "",
+  "allergens": "",
+  "note": "Herbal product (TH Nature); label only says 100% natural plants, plant species not named"
+ },
+ {
+  "barcode": "6111265641410",
+  "outcome": "not_found",
+  "note": "Sea salt bag: only nutrition table and name, no ingredient list; photo dark"
+ },
+ {
+  "barcode": "6111114001488",
+  "outcome": "found",
+  "ingredients_text": "100% café.",
+  "additives": "",
+  "allergens": "",
+  "note": "Cafés Carrion instant coffee granules"
+ },
+ {
+  "barcode": "6111269970400",
+  "outcome": "found",
+  "ingredients_text": "Nouilles (92,1%) : farine de blé tendre, huile végétale non hydrogénée, sel. Régulateurs d'acidité : carbonate de potassium (E501i), carbonate de sodium (E500i), polyphosphate de sodium (E452i). Épaississant : gomme de guar (E412). Colorant : riboflavine/vitamine B2 (E101). Poudre d'assaisonnement goût fort et épicé (7,1%) : sel, exhausteurs de goût (E621, E631), sucre, arômes, oignon, piment de cayenne, épices, huile de tournesol, ail, anti-agglomérant (E551), caramel d'ammoniaque (E150c), légumes, acide citrique (E330), extrait de paprika (E160c), gomme xanthane (E415). Poudre de piment fort (0,8%). Contient : gluten. Peut contenir des traces de céleri.",
+  "additives": "en:e501i,en:e500i,en:e452i,en:e412,en:e101,en:e621,en:e631,en:e551,en:e150c,en:e330,en:e160c,en:e415",
+  "allergens": "en:gluten",
+  "note": "Instant noodles, hot & spicy flavour"
+ },
+ {
+  "barcode": "6111162003120",
+  "outcome": "found",
+  "ingredients_text": "Fraise, framboises, sucre.",
+  "additives": "",
+  "allergens": "",
+  "note": "Dolma-type red fruit jam; label also says 'aucun additif ni conservateur'"
+ },
+ {
+  "barcode": "6111242190870",
+  "outcome": "not_found",
+  "note": "Socrech dairy bottle: only producer info and nutrition table, no ingredient list"
+ },
+ {
+  "barcode": "6111277280089",
+  "outcome": "found",
+  "ingredients_text": "Purée de tomate à partir de concentré (91,36%), sucre, huile de soja, amidon de maïs modifié, sel, épaississant : gomme xanthane, basilic, conservateur : sorbate de potassium, thym, origan, correcteur d'acidité : acide citrique.",
+  "additives": "en:e415,en:e202,en:e330",
+  "allergens": "en:soybeans",
+  "note": "Pizza tomato sauce; additives named without E-numbers except as inferred"
+ },
+ {
+  "barcode": "6111250476997",
+  "outcome": "not_found",
+  "note": "Luncheon meat packaging torn: ingredient list cut off"
+ },
+ {
+  "barcode": "6111045007245",
+  "outcome": "found",
+  "ingredients_text": "Eau gazéifiée, sucre, acidifiants (acide citrique, citrate de sodium), arômes naturels de citron, édulcorant (glycosides de stéviol), conservateurs (benzoate de sodium, sorbate de potassium).",
+  "additives": "en:e330,en:e331,en:e960,en:e211,en:e202",
+  "allergens": "",
+  "note": "Cigogne lemonade (sugar + stevia); E-numbers inferred from named additives"
+ },
+ {
+  "barcode": "6111271524875",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, concentré de tomate, vinaigre de table, épaississant : amidon modifié, sel, conservateurs (sorbate de potassium et benzoate de sodium) et épices.",
+  "additives": "en:e202,en:e211",
+  "allergens": "",
+  "note": "Fayz ketchup"
+ },
+ {
+  "barcode": "6111275360158",
+  "outcome": "not_found",
+  "note": "Photo shows only the barcode on a blue box, no ingredient list"
+ },
+ {
+  "barcode": "6111025160939",
+  "outcome": "found",
+  "ingredients_text": "Pâte de cacao, beurre de cacao, poudre de cacao, sucre, lécithine de soja (E322), arôme vanille.",
+  "additives": "en:e322",
+  "allergens": "en:soybeans",
+  "note": "ChocoPasty dark chocolate drops (Pastor/Macao); French line partly glared, completed with matching English/Spanish lines"
+ },
+ {
+  "barcode": "6111255616756",
+  "outcome": "not_found",
+  "note": "Not a food: shower gel/cosmetic (INCI list: Aqua, Sodium Laureth Sulfate...), caramel scent"
+ },
+ {
+  "barcode": "6111250479868",
+  "outcome": "found",
+  "ingredients_text": "Fraises (50%), sucre, sirop de glucose-fructose, gélifiant : pectine, acidifiant : acide citrique.",
+  "additives": "en:e440,en:e330",
+  "allergens": "",
+  "note": "Strawberry jam; start of French line partly worn"
+ },
+ {
+  "barcode": "6111266753280",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huile végétale, cacahuètes (22%), sel, sucre caramélisé, émulsifiant (lécithine de soja). Contient cacahuètes et soja. Peut contenir des noisettes, des amandes et d'autres fruits à coque.",
+  "additives": "",
+  "allergens": "en:peanuts,en:soybeans",
+  "note": "Peanut spread"
+ },
+ {
+  "barcode": "6111250477383",
+  "outcome": "found",
+  "ingredients_text": "Maïs doux en grains sans OGM (82%), eau, sel.",
+  "additives": "",
+  "allergens": "",
+  "note": "Canned sweet corn"
+ },
+ {
+  "barcode": "6111056013075",
+  "outcome": "not_found",
+  "note": "Not a food: Cadum shampoo (front of bottle only)"
+ },
+ {
+  "barcode": "6111264153709",
+  "outcome": "not_found",
+  "note": "Not a food: Fluffy wipes/hygiene product, front only"
+ },
+ {
+  "barcode": "6111271180828",
+  "outcome": "not_found",
+  "note": "Not a food: hygiene/diaper product (composition: cellulose, polyethylene...)"
+ },
+ {
+  "barcode": "6116896543249",
+  "outcome": "not_found",
+  "note": "Not a food: sunscreen face cream (INCI list)"
+ },
+ {
+  "barcode": "6111024008898",
+  "outcome": "not_found",
+  "note": "Not a food: Taous antibacterial liquid soap, front only"
+ },
+ {
+  "barcode": "6111271076442",
+  "outcome": "not_found",
+  "note": "Not a food: body milk cosmetic (INCI list)"
+ },
+ {
+  "barcode": "6111056012955",
+  "outcome": "not_found",
+  "note": "Not a food: shampoo bottle, text unreadable"
+ },
+ {
+  "barcode": "6111276250007",
+  "outcome": "not_found",
+  "note": "Not a food: transparent soap bar (cosmetic)"
+ },
+ {
+  "barcode": "6111033005109",
+  "outcome": "not_found",
+  "note": "Not a food: Hyderma body lotion (INCI list)"
+ },
+ {
+  "barcode": "6111255614868",
+  "outcome": "not_found",
+  "note": "Not a food: sunscreen tube, blurry"
+ },
+ {
+  "barcode": "6111259374683",
+  "outcome": "not_found",
+  "note": "Not a food: glycerin cream (cosmetic), no INCI list"
+ },
+ {
+  "barcode": "6111260732502",
+  "outcome": "not_found",
+  "note": "Not a food: wet wipes, barcode only"
+ },
+ {
+  "barcode": "6111024009642",
+  "outcome": "not_found",
+  "note": "Not a food: Taous almond milk soap, front only"
+ },
+ {
+  "barcode": "6111242926400",
+  "outcome": "not_found",
+  "note": "Not a food: shampoo (INCI list)"
+ },
+ {
+  "barcode": "6111250472029",
+  "outcome": "not_found",
+  "note": "Not a food: shower gel/liquid soap (INCI list)"
+ },
+ {
+  "barcode": "6119083377337",
+  "outcome": "not_found",
+  "note": "Not a food: anti-dandruff shampoo (INCI list)"
+ },
+ {
+  "barcode": "6111277400012",
+  "outcome": "not_found",
+  "note": "Not a food: camel-hump-fat massage cream (cosmetic), not edible"
+ },
+ {
+  "barcode": "6111271522055",
+  "outcome": "not_found",
+  "note": "Not a food: sunscreen (INCI list)"
+ },
+ {
+  "barcode": "6111024009024",
+  "outcome": "not_found",
+  "note": "Not a food: laundry/multi-use soap paste (detergent)"
+ },
+ {
+  "barcode": "6111255617319",
+  "outcome": "not_found",
+  "note": "Not a food: body cream (INCI list)"
+ },
+ {
+  "barcode": "6111252324906",
+  "outcome": "not_found",
+  "note": "Not a food: rose water perfume spray, no ingredient list"
+ },
+ {
+  "barcode": "6111271610820",
+  "outcome": "not_found",
+  "note": "Not a food: hair protein treatment, front only"
+ },
+ {
+  "barcode": "6111033006106",
+  "outcome": "not_found",
+  "note": "Not a food: hand cream (INCI list)"
+ },
+ {
+  "barcode": "6111262388660",
+  "outcome": "found",
+  "ingredients_text": "Farine de maïs, sucre, semoule de blé, riz, sirop de glucose, sirop de sucre inverti, colorant alimentaire naturel, sel, bicarbonate de sodium, émulsifiant végétal (polyglycérol polyricinoléate), vitamines (A, B1, B2, B3, B6, B9, B12, E).",
+  "additives": "en:e500,en:e476",
+  "allergens": "en:gluten",
+  "note": "Caramel breakfast cereal; translated from Italian/Dutch lines (no French line); left edge of list slightly cut but repeated in Dutch"
+ },
+ {
+  "barcode": "6111248372652",
+  "outcome": "not_found",
+  "note": "Photo shows only the barcode"
+ },
+ {
+  "barcode": "6111250477666",
+  "outcome": "not_found",
+  "note": "Not a food: shampoo (INCI list)"
+ },
+ {
+  "barcode": "6118000091578",
+  "outcome": "not_found",
+  "note": "Not a food: Skinosalic lotion (pharma/cosmetic), barcode only"
+ },
+ {
+  "barcode": "6111250477284",
+  "outcome": "not_found",
+  "note": "Not a food: condoms"
+ },
+ {
+  "barcode": "6118000370024",
+  "outcome": "not_found",
+  "note": "Not a food: Otipax ear drops (medicine)"
+ },
+ {
+  "barcode": "6111263000295",
+  "outcome": "found",
+  "ingredients_text": "Thon, huile de soja, citron, sel.",
+  "additives": "",
+  "allergens": "en:fish,en:soybeans",
+  "note": "Tuna in oil with lemon, 3-pack"
+ },
+ {
+  "barcode": "6111243860109",
+  "outcome": "found",
+  "ingredients_text": "Eau gazéifiée, sucre, arôme naturel de citron-lime avec autres arômes naturels, acidifiant : E330, correcteur d'acidité : E331, antioxydant : E300, conservateur : E211, édulcorants : E950, E955.",
+  "additives": "en:e330,en:e331,en:e300,en:e211,en:e950,en:e955",
+  "allergens": "",
+  "note": "Lemon-lime soda; photo rotated and partly cut, list confirmed by Arabic line; E950-E955 read as E950 and E955"
+ },
+ {
+  "barcode": "6111040006823",
+  "outcome": "not_found",
+  "note": "Not a food: body lotion (INCI list)"
+ },
+ {
+  "barcode": "6111255611591",
+  "outcome": "not_found",
+  "note": "Not a food: shampoo (INCI list)"
+ },
+ {
+  "barcode": "6111033004508",
+  "outcome": "not_found",
+  "note": "Not a food: Hyderma body lotion (INCI list)"
+ },
+ {
+  "barcode": "6111251841282",
+  "outcome": "not_found",
+  "note": "Not a food: Tiger deodorant spray"
+ },
+ {
+  "barcode": "6111260730904",
+  "outcome": "not_found",
+  "note": "Not a food: Damla shampoo (INCI list)"
+ },
+ {
+  "barcode": "6118000020349",
+  "outcome": "not_found",
+  "note": "Not a food: Coquelusedal paracetamol suppositories (medicine)"
+ },
+ {
+  "barcode": "6111260731659",
+  "outcome": "not_found",
+  "note": "Not a food: baby wet wipes"
+ },
+ {
+  "barcode": "6118000180906",
+  "outcome": "not_found",
+  "note": "Not a food: ibuprofen medicine"
+ },
+ {
+  "barcode": "6111056013150",
+  "outcome": "not_found",
+  "note": "Not a food: Cadum shampoo (INCI list)"
+ },
+ {
+  "barcode": "6111255615940",
+  "outcome": "not_found",
+  "note": "Not a food: soap, barcode side only"
+ },
+ {
+  "barcode": "6111263796808",
+  "outcome": "not_found",
+  "note": "Not a food: Chapo shampoo"
+ },
+ {
+  "barcode": "6111271140167",
+  "outcome": "not_found",
+  "note": "Not a food: Vaseline petroleum jelly, front only"
+ },
+ {
+  "barcode": "6111267990516",
+  "outcome": "not_found",
+  "note": "Not a food: Kaliss shampoo, photo tiny/unreadable"
+ },
+ {
+  "barcode": "6111263791421",
+  "outcome": "not_found",
+  "note": "Not a food: liquid hand soap (generic surfactant list)"
+ },
+ {
+  "barcode": "6111271140310",
+  "outcome": "not_found",
+  "note": "Not a food: cosmetic jar, photo tiny/unreadable"
+ },
+ {
+  "barcode": "6111250430012",
+  "outcome": "found",
+  "ingredients_text": "Oxyde de magnésium léger, acide citrique, bicarbonate de sodium, sorbitol, arôme, saccharine sodique, talc, silice colloïdale, riboflavine phosphate sodique.",
+  "additives": "en:e420,en:e954,en:e553b,en:e551,en:e101a",
+  "allergens": "",
+  "note": "Oxymag effervescent magnesium food supplement (not a regular food); low-res photo; E-numbers inferred from named substances"
+ },
+ {
+  "barcode": "6118001070596",
+  "outcome": "not_found",
+  "note": "Not a food: Tobradex eye drops (medicine)"
+ },
+ {
+  "barcode": "6111269050010",
+  "outcome": "found",
+  "ingredients_text": "Extrait de fenugrec 100 mg, fenugrec (équivalent graine) 400 mg, vitamines B8, B6, B2, B1, B3, A, B5, B9, E, B12, C, fer. Excipients : cellulose microcristalline, dioxyde de silicium, stéarate de magnésium.",
+  "additives": "",
+  "allergens": "",
+  "note": "Fenugreek + vitamins food supplement (capsules); composition table, not a classic ingredient list; E-numbers not printed"
+ },
+ {
+  "barcode": "6111259374799",
+  "outcome": "not_found",
+  "note": "Not a food: Finny glycerin soap, ingredient text too small"
+ },
+ {
+  "barcode": "6118000042259",
+  "outcome": "not_found",
+  "note": "Not a food: shower gel, tiny photo"
+ },
+ {
+  "barcode": "6111024010099",
+  "outcome": "not_found",
+  "note": "Not a food: shower gel/shampoo, tiny photo"
+ },
+ {
+  "barcode": "6111075000032",
+  "outcome": "not_found",
+  "note": "Not a food: coco shower gel (INCI list)"
+ },
+ {
+  "barcode": "6111260733011",
+  "outcome": "not_found",
+  "note": "Not a food: Activa avocado shampoo (INCI list)"
+ },
+ {
+  "barcode": "6111232001148",
+  "outcome": "not_found",
+  "note": "Asta Dynamic instant coffee: front of pack only, no ingredient list"
+ },
+ {
+  "barcode": "6111267400107",
+  "outcome": "not_found",
+  "note": "Not a food: Bepanthen ointment, no ingredient list shown"
+ },
+ {
+  "barcode": "6111259374447",
+  "outcome": "not_found",
+  "note": "Not a food: coconut oil for hair/skin (cosmetic, INCI: Cocos Nucifera Oil, Tocopheryl Acetate)"
+ },
+ {
+  "barcode": "6111265280053",
+  "outcome": "not_found",
+  "note": "Not a food: Ace Maison floor cleaner"
+ },
+ {
+  "barcode": "6111242926158",
+  "outcome": "not_found",
+  "note": "Not a food: Vitaia shampoo sachet"
+ },
+ {
+  "barcode": "6111259374010",
+  "outcome": "not_found",
+  "note": "Not a food: baby cleansing milk (INCI)"
+ },
+ {
+  "barcode": "6111259716438",
+  "outcome": "not_found",
+  "note": "Not a food: rice face scrub, front only"
+ },
+ {
+  "barcode": "6111263794989",
+  "outcome": "not_found",
+  "note": "Not a food: Magnum shower gel/shampoo"
+ },
+ {
+  "barcode": "6111271290084",
+  "outcome": "not_found",
+  "note": "Not a food: hand soap (INCI)"
+ },
+ {
+  "barcode": "6111270530303",
+  "outcome": "not_found",
+  "note": "Pet food (Micho cat food with salmon, list: meat and animal by-products 50%, cereals, plant by-products, minerals) - not for human consumption"
+ },
+ {
+  "barcode": "6111250477338",
+  "outcome": "not_found",
+  "note": "Not a food: Dushy jasmine shower gel, front only"
+ },
+ {
+  "barcode": "6111249987282",
+  "outcome": "not_found",
+  "note": "Nutrition table only (chocolate-type product), no ingredient list"
+ },
+ {
+  "barcode": "6111251490305",
+  "outcome": "not_found",
+  "note": "Not a food: moisturizing cream (INCI list)"
+ },
+ {
+  "barcode": "6111242926462",
+  "outcome": "not_found",
+  "note": "Not a food: Vitaia shampoo, tiny photo"
+ },
+ {
+  "barcode": "6111271610219",
+  "outcome": "not_found",
+  "note": "Not a food: body milk, tiny photo"
+ },
+ {
+  "barcode": "6118000082668",
+  "outcome": "not_found",
+  "note": "Not a food: Dexeryl cream (medicine)"
+ },
+ {
+  "barcode": "6111242911246",
+  "outcome": "not_found",
+  "note": "Not a food: Exet bleach (javel)"
+ },
+ {
+  "barcode": "6111024010419",
+  "outcome": "not_found",
+  "note": "Not a food: shower gel (INCI list)"
+ },
+ {
+  "barcode": "6111271523427",
+  "outcome": "not_found",
+  "note": "Not a food: Fayz shower gel, front only"
+ },
+ {
+  "barcode": "6118000061878",
+  "outcome": "not_found",
+  "note": "Not a food: No-Dol ibuprofen tablets (medicine), front only"
+ },
+ {
+  "barcode": "6111255617340",
+  "outcome": "not_found",
+  "note": "Not a food: SPF50 sunscreen, no ingredient list visible"
+ },
+ {
+  "barcode": "6111270260149",
+  "outcome": "not_found",
+  "note": "Not a food: Sango bleach/cleaner (front only)"
+ },
+ {
+  "barcode": "6118000161295",
+  "outcome": "not_found",
+  "note": "Not a food: Diprosone ointment (medicine)"
+ },
+ {
+  "barcode": "6111242072121",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, sucre, huile végétale non hydrogénée (palme), perméat de lactosérum (de lait), cacao maigre en poudre, émulsifiant : lécithine de soja (E322), poudre à lever (E500ii), arôme artificiel (vanilline), sel. Contient : lait, blé (gluten), soja.",
+  "additives": "en:e322,en:e500ii",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Cocoa wafer bar (gaufrette fourrée au cacao); photo rotated, list order partly interleaved with Arabic"
+ },
+ {
+  "barcode": "6111246202364",
+  "outcome": "not_found",
+  "note": "Not a food: Finny rose petroleum jelly (INCI: petrolatum, parfum...)"
+ },
+ {
+  "barcode": "6111246207796",
+  "outcome": "not_found",
+  "note": "Not a food: Naturesoin argan vaseline, front only"
+ },
+ {
+  "barcode": "6111033003044",
+  "outcome": "not_found",
+  "note": "Not a food: nail polish remover (acetone)"
+ },
+ {
+  "barcode": "6111254911531",
+  "outcome": "not_found",
+  "note": "Not a food: Plumies tissues"
+ },
+ {
+  "barcode": "6111267990257",
+  "outcome": "not_found",
+  "note": "Not a food: Tropy shower gel"
+ },
+ {
+  "barcode": "6111255615704",
+  "outcome": "not_found",
+  "note": "Not a food: Medipaco shower gel"
+ },
+ {
+  "barcode": "6110201979914",
+  "outcome": "not_found",
+  "note": "Not a food: cosmetic cream (INCI list)"
+ },
+ {
+  "barcode": "6111276140797",
+  "outcome": "not_found",
+  "note": "Supplement capsules (ashwagandha/ginseng): ingredient text too blurry to read reliably"
+ },
+ {
+  "barcode": "6111271110542",
+  "outcome": "not_found",
+  "note": "Not a food: sunscreen"
+ },
+ {
+  "barcode": "6111254021124",
+  "outcome": "not_found",
+  "note": "Not a food: sunscreen, no ingredient list"
+ },
+ {
+  "barcode": "6111270710903",
+  "outcome": "not_found",
+  "note": "Not a food: sunscreen (INCI list)"
+ },
+ {
+  "barcode": "6111025375241",
+  "outcome": "found",
+  "ingredients_text": "Collagène marin 250 mg, vitamine C 40 mg. Excipients : cellulose microcristalline, amidon de maïs, stéarate de magnésium.",
+  "additives": "en:e470b",
+  "allergens": "",
+  "note": "Food supplement capsules; marine collagen is likely fish-derived but label does not say fish, so no allergen listed"
+ },
+ {
+  "barcode": "6111271072697",
+  "outcome": "not_found",
+  "note": "Not a food: tanning oil (INCI list)"
+ },
+ {
+  "barcode": "6111222000021",
+  "outcome": "not_found",
+  "note": "Not a food: Dermagleam facial cleansing gel"
+ },
+ {
+  "barcode": "6111271523540",
+  "outcome": "not_found",
+  "note": "Not a food: So Fresh shower gel"
+ },
+ {
+  "barcode": "6111275840735",
+  "outcome": "not_found",
+  "note": "Not a food: Apia Derm deodorant"
+ },
+ {
+  "barcode": "6111230000136",
+  "outcome": "not_found",
+  "note": "Star iodised table salt: photo shows front of bottle only, no ingredient list"
+ },
+ {
+  "barcode": "6111271523304",
+  "outcome": "not_found",
+  "note": "Not a food: shower gel (INCI list)"
+ },
+ {
+  "barcode": "6111245312187",
+  "outcome": "not_found",
+  "note": "Piments moulus (ground chili): photo shows only barcode/front, no ingredient list"
+ },
+ {
+  "barcode": "6111252780146",
+  "outcome": "not_found",
+  "note": "Not a food: Nice kitchen paper towel"
+ },
+ {
+  "barcode": "6111263796105",
+  "outcome": "not_found",
+  "note": "Not a food: Magnum pineapple shower gel, front only"
+ },
+ {
+  "barcode": "6111270230944",
+  "outcome": "not_found",
+  "note": "Not a food: sterile gauze compresses"
+ },
+ {
+  "barcode": "6111243011662",
+  "outcome": "not_found",
+  "note": "Not a food: baby diapers"
+ },
+ {
+  "barcode": "6111255614875",
+  "outcome": "not_found",
+  "note": "Not a food: Medipaco tocopherol cream (INCI)"
+ },
+ {
+  "barcode": "6111251490343",
+  "outcome": "not_found",
+  "note": "Not a food: aloe sunscreen"
+ },
+ {
+  "barcode": "6111246207529",
+  "outcome": "not_found",
+  "note": "Not a food: shampoo (barcode only)"
+ },
+ {
+  "barcode": "6113231014457",
+  "outcome": "not_found",
+  "note": "Food supplement syrup (150 ml): photo shows only usage/limits side, no ingredient list"
+ },
+ {
+  "barcode": "6111263780043",
+  "outcome": "not_found",
+  "note": "Not a food: whitening face cream (INCI list)"
+ },
+ {
+  "barcode": "6111271610752",
+  "outcome": "not_found",
+  "note": "Not a food: Kojic body lotion, front only"
+ },
+ {
+  "barcode": "6111258840639",
+  "outcome": "not_found",
+  "note": "Not a food: Nutriskin cream, no ingredient list visible"
+ },
+ {
+  "barcode": "6111242750692",
+  "outcome": "not_found",
+  "note": "Not a food: fabric softener/detergent (no ingredient list)"
+ },
+ {
+  "barcode": "6111255617753",
+  "outcome": "not_found",
+  "note": "Not a food: Medipaco shower gel, list cut off"
+ },
+ {
+  "barcode": "6111448411036",
+  "outcome": "not_found",
+  "note": "Not a food: whitening cream (INCI list)"
+ },
+ {
+  "barcode": "6111040002375",
+  "outcome": "not_found",
+  "note": "Not a food: baby milk lotion (INCI list)"
+ },
+ {
+  "barcode": "6111255617494",
+  "outcome": "not_found",
+  "note": "Not a food: Medipaco body milk (INCI list)"
+ },
+ {
+  "barcode": "6118000012078",
+  "outcome": "not_found",
+  "note": "Not a food: Pansoral oral gel (medicine)"
+ },
+ {
+  "barcode": "6111246207192",
+  "outcome": "not_found",
+  "note": "Not a food: nail polish remover (acetone)"
+ },
+ {
+  "barcode": "6111242910041",
+  "outcome": "not_found",
+  "note": "Not a food: Exet lemon household cleaner, front only"
+ },
+ {
+  "barcode": "6111246209004",
+  "outcome": "not_found",
+  "note": "Not a food: sulfur soap (INCI list)"
+ },
+ {
+  "barcode": "6118000050995",
+  "outcome": "not_found",
+  "note": "Not a food: No-Dep sertraline (medicine)"
+ },
+ {
+  "barcode": "6111246207901",
+  "outcome": "not_found",
+  "note": "Not a food: coconut body milk (INCI list)"
+ },
+ {
+  "barcode": "6111652080723",
+  "outcome": "not_found",
+  "note": "Not a food: anti-redness SPF50 cream (INCI list)"
+ },
+ {
+  "barcode": "6111262583614",
+  "outcome": "not_found",
+  "note": "Not a food: shower gel (INCI list)"
+ },
+ {
+  "barcode": "6111263795771",
+  "outcome": "not_found",
+  "note": "Not a food: Magnum shampoo/shower gel (INCI list)"
+ },
+ {
+  "barcode": "6111259375383",
+  "outcome": "not_found",
+  "note": "Not a food: Finny body cream, list partly cut off"
+ },
+ {
+  "barcode": "6111103022425",
+  "outcome": "not_found",
+  "note": "Not a food: Voss keratin shampoo (INCI list)"
+ },
+ {
+  "barcode": "6111255773862",
+  "outcome": "not_found",
+  "note": "Noodle pack: only nutrition table visible, no ingredient list"
+ },
+ {
+  "barcode": "6111259349964",
+  "outcome": "not_found",
+  "note": "Genovo Grande Intenso cake: multilingual list photographed blurry with glare, not reliably readable"
+ },
+ {
+  "barcode": "6111269562469",
+  "outcome": "found",
+  "ingredients_text": "Farine à biscuits, EXTRA pépites de chocolat, graisse de palme, sucre glace, sucre cristallisé, eau, amidon, poudre de cacao, fructose, bicarbonate d'ammonium (E503), lactosérum, glucose, arôme identique au naturel (cookies), bicarbonate de sodium (E500), sel, pyrophosphate (E450 IX), lécithine de soja (E322), acide citrique (E330), vanilline. Contient du gluten, du soja et du lait.",
+  "additives": "en:e503,en:e500,en:e450ix,en:e322,en:e330",
+  "allergens": "en:gluten,en:soybeans,en:milk",
+  "note": "Chocolate chip cookies; label only in English, translated"
+ },
+ {
+  "barcode": "6111032010814",
+  "outcome": "not_found",
+  "note": "Dost Bubbles lemon yogurt drink: Arabic list too blurry to read reliably"
+ },
+ {
+  "barcode": "6111250478397",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé reconstitué, fromages, matière grasse laitière, protéines de lait, sels de fonte : (polyphosphates, phosphate de sodium, phosphate tricalcique), sel, sels minéraux : (pyrophosphate de fer, iodure de potassium), vitamines : (A et D3), conservateur : acide sorbique.",
+  "additives": "en:e452,en:e200",
+  "allergens": "en:milk",
+  "note": "Dost processed cheese; E-numbers inferred from named additives (not printed)"
+ },
+ {
+  "barcode": "6111032010821",
+  "outcome": "found",
+  "ingredients_text": "Eau, lait écrémé, préparation de bulles (sucre, glucose, amidon, concentré de jus de carotte noire, concentré de jus de pomme, concentré de jus de myrtille, arômes, matière grasse végétale, lactate de calcium, acide citrique, alginate de sodium, chlorure de calcium), poudre de lait écrémé, fructose, lactosérum, beurre, ferments lactiques du yaourt, sels minéraux (calcium, fer), gomme xanthane, carraghénane, vitamines (D3, B6).",
+  "additives": "en:e327,en:e330,en:e401,en:e509,en:e415,en:e407",
+  "allergens": "en:milk",
+  "note": "Dost Bubbles blueberry (photo is blueberry variant); translated from Arabic, text slightly blurry; E-numbers inferred from named additives"
+ },
+ {
+  "barcode": "6111270963712",
+  "outcome": "found",
+  "ingredients_text": "Biscuit : farine de blé, huile de palme, sucre, eau, sucre inverti, lait écrémé en poudre, lécithine de soja, bicarbonate d'ammonium, bicarbonate de sodium, pyrophosphate acide de sodium, sel. Garniture (crème) : sucre, matière grasse végétale, cacao en poudre naturel, lait écrémé en poudre, lactosérum en poudre, lécithine de soja, vanilline. Contient : blé (gluten), lécithine, soja, sulfites, lait et dérivés. Peut contenir des traces d'arachides et de fruits à coque (noisettes).",
+  "additives": "en:e322,en:e503,en:e500,en:e450",
+  "allergens": "en:gluten,en:milk,en:soybeans,en:sulphur-dioxide-and-sulphites",
+  "note": "NSI tartlet biscuits; translated from Arabic (French line partly cut off); E-numbers inferred from named additives"
+ },
+ {
+  "barcode": "6111277210000",
+  "outcome": "found",
+  "ingredients_text": "Cacahuètes grillées, huile végétale, lait écrémé en poudre, sucre, sel.",
+  "additives": "",
+  "allergens": "en:peanuts,en:milk",
+  "note": "Tarti Mix creamy peanut butter"
+ },
+ {
+  "barcode": "6111248891412",
+  "outcome": "found",
+  "ingredients_text": "Champignons, eau, sel, acidifiant : E330.",
+  "additives": "en:e330",
+  "allergens": "",
+  "note": "Canned mushrooms; photo blurry but line legible"
+ },
+ {
+  "barcode": "6111262388936",
+  "outcome": "found",
+  "ingredients_text": "Snack de maïs au goût fromage cheddar. Ingrédients : semoule de maïs, farine de blé végétale, sel, huile, arôme fromage cheddar (préparation aromatique naturelle, maltodextrine, glutamate monosodique (E621), guanylate disodique (E627), inosinate disodique (E631)), régulateurs d'acidité : acide citrique (E330), acide malique (E296), amidon (E1450), colorant alimentaire (E110), antiagglomérant : dioxyde de silicium (E551), phosphate tricalcique (E341iii). Contient du lait et des produits laitiers (lactose).",
+  "additives": "en:e621,en:e627,en:e631,en:e330,en:e296,en:e1450,en:e110,en:e551,en:e341iii",
+  "allergens": "en:milk,en:gluten",
+  "note": "Cheddar corn snack; photo rotated, translated from German list (no French line readable); order of some items partly cut off"
+ },
+ {
+  "barcode": "6111245470740",
+  "outcome": "not_found",
+  "note": "Margarine tub: ingredient text too small and blurry to read"
+ },
+ {
+  "barcode": "6111250478748",
+  "outcome": "found",
+  "ingredients_text": "Huile de tournesol, basilic 36 %, noix de cajou, fromage Grana Padano AOP 6 % (lait, sel, présure, conservateur : lysozyme d'œuf), fromage Pecorino Romano AOP 2 % (lait de brebis, sel, présure d'agneau, ferments lactiques), sucre, pignons de pin, sel, huile d'olive vierge extra, flocons de pomme de terre (pommes de terre, émulsifiant : mono- et diglycérides d'acides gras), correcteur d'acidité : acide lactique, arôme naturel de basilic. Peut contenir des traces d'autres fruits à coque et de cacahuètes.",
+  "additives": "en:e1105,en:e471,en:e270",
+  "allergens": "en:nuts,en:milk,en:eggs",
+  "note": "Pesto basil sauce; list slightly glared but readable"
+ },
+ {
+  "barcode": "6111273961241",
+  "outcome": "not_found",
+  "note": "Vice chocolate bar: photo shows only manufacturer/distributor info"
+ }
+]

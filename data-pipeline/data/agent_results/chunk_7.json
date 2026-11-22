@@ -1,0 +1,1243 @@
+[
+ {
+  "barcode": "6111242927322",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, jus de fruits à base de concentrés 10% min (orange, pomme), acidifiant : acide citrique, épaississant : carboxyméthylcellulose, arôme de pomme, arôme caramel bonbon, colorant : rouge framboise, édulcorants : cyclamate de sodium, acésulfame K, saccharine de sodium et aspartame, antiagglomérant : dioxyde de silicium. Contient une source de phénylalanine.",
+  "additives": "en:e330,en:e466,en:e952,en:e950,en:e954,en:e951,en:e551",
+  "allergens": "",
+  "note": "Boisson au jus de fruits pasteurisé (Jus Marrakech); additive codes inferred from names (no E-numbers printed)"
+ },
+ {
+  "barcode": "6118000031871",
+  "outcome": "not_found",
+  "note": "Photo is a screenshot of a barcode-scanner app, not packaging"
+ },
+ {
+  "barcode": "6111046002744",
+  "outcome": "not_found",
+  "note": "Photo shows only the barcode area of a nut-mix bag, no ingredient list"
+ },
+ {
+  "barcode": "6111250477512",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé (86%), huile de tournesol riche en acide oléique, lait de lactosérum, dextrose, extrait de malt (orge), levure, gluten de blé, sel, farine de soja, émulsifiants : Esters monoacétyltartriques et diacétyltartriques des mono- et diglycérides d'acides gras (E472e), et Lécithine (E322) (soja), antioxydant : acide ascorbique.",
+  "additives": "en:e472e,en:e322",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Biscottes; French list read from label"
+ },
+ {
+  "barcode": "6111394833564",
+  "outcome": "found",
+  "ingredients_text": "Champignons, eau, sel, acide citrique, acide ascorbique (antioxydant).",
+  "additives": "en:e330,en:e300",
+  "allergens": "",
+  "note": "Label in Spanish/Arabic only; translated to French; E-codes inferred from names"
+ },
+ {
+  "barcode": "6111270660192",
+  "outcome": "not_found",
+  "note": "Photo shows a baby teething ring (non-food) from a Google search"
+ },
+ {
+  "barcode": "6111259347922",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisses végétales (palmiste), poudre de lait de vache entier, amandes (6%), poudre de cacao, poudre de perméat de lait de vache, émulsifiant d'origine végétale (lécithine de soja E322), sel et arôme (vanilline). Contient : fruits à coque (amandes), lait et soja. Peut contenir des traces de gluten, de noisettes et d'arachides.",
+  "additives": "en:e322",
+  "allergens": "en:nuts,en:milk,en:soybeans",
+  "note": "Fond'or: succedane de chocolat au lait et aux amandes (chocolate compound, not real chocolate)"
+ },
+ {
+  "barcode": "6111252860091",
+  "outcome": "found",
+  "ingredients_text": "Maïs, huiles végétales, sel, arôme Ketchup : (sucre, sel, maltodextrine, arôme ketchup, graisse végétale, acidifiant : acide citrique, régulateur d'acidité : acétate de sodium, antiagglomérant : dioxyde de silicium, colorant : rouge allura AC, édulcorant : aspartame, exhausteurs de goût : glutamate de sodium, ribonucléotides disodiques, épaississant : octényle succinate d'amidon sodique, triacétate de glycéryle. Contient gluten).",
+  "additives": "en:e330,en:e262,en:e551,en:e129,en:e951,en:e621,en:e635,en:e1450,en:e1518",
+  "allergens": "en:gluten",
+  "note": "Corn snack with ketchup flavour; E-codes inferred from names"
+ },
+ {
+  "barcode": "6111242927346",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, jus de pomme à base de concentré 10% min, acidifiant : acide citrique, épaississant : carboxyméthylcellulose, colorant : orange, groseille rouge, arôme naturel de cerise, édulcorants : cyclamate de sodium, acésulfame K, saccharine de sodium et aspartame, antiagglomérant : dioxyde de silicium. Contient une source de phénylalanine.",
+  "additives": "en:e330,en:e466,en:e952,en:e950,en:e954,en:e951,en:e551",
+  "allergens": "",
+  "note": "Only Arabic part visible; translated literally to French; colorant wording uncertain; E-codes inferred"
+ },
+ {
+  "barcode": "6111265801296",
+  "outcome": "not_found",
+  "note": "Albane UHT semi-skimmed milk: photo shows nutrition info and claims but no ingredient list"
+ },
+ {
+  "barcode": "6111096003128",
+  "outcome": "found",
+  "ingredients_text": "Thon, huile de tournesol et sel.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Suzana tuna in sunflower oil, 1700 g catering can"
+ },
+ {
+  "barcode": "6111271530289",
+  "outcome": "found",
+  "ingredients_text": "Eau, figues, sucre, pectine de fruit, épaississants alimentaires, caramel, acide citrique, acide ascorbique, sorbate de potassium.",
+  "additives": "en:e330,en:e300,en:e202",
+  "allergens": "",
+  "note": "Confiture de figues allégée en sucre; E-codes inferred from names"
+ },
+ {
+  "barcode": "6111254985105",
+  "outcome": "not_found",
+  "note": "Photo shows nutrition table of dates; ingredients cut off (only 'Unpitted...' visible)"
+ },
+ {
+  "barcode": "6111264550966",
+  "outcome": "not_found",
+  "note": "Photo shows front of La Campina mortadella luncheon, no ingredient list"
+ },
+ {
+  "barcode": "6111275620016",
+  "outcome": "found",
+  "ingredients_text": "80% huile de grignon d'olive raffinée, 20% huile d'olive vierge.",
+  "additives": "",
+  "allergens": "",
+  "note": "Sold as olive oil but is a blend: 80% refined olive-pomace oil + 20% virgin olive oil"
+ },
+ {
+  "barcode": "6111110005572",
+  "outcome": "not_found",
+  "note": "Arabic list (yogurt-type dairy with banana flavour, sucralose) has an acidifier word cut off at the edge of the photo; not fully readable"
+ },
+ {
+  "barcode": "6111252360133",
+  "outcome": "not_found",
+  "note": "Photo shows only nutrition table of extra virgin olive oil, no ingredient list"
+ },
+ {
+  "barcode": "6111242070196",
+  "outcome": "not_found",
+  "note": "Photo shows front of Yogo banana pack, no ingredient list"
+ },
+ {
+  "barcode": "6111250477437",
+  "outcome": "found",
+  "ingredients_text": "Pois doux (61,9%), eau, sucre, sel.",
+  "additives": "",
+  "allergens": "",
+  "note": "Petits pois doux en conserve; label says no allergens"
+ },
+ {
+  "barcode": "6111242210707",
+  "outcome": "found",
+  "ingredients_text": "Haut de cuisse de dinde, viande de bœuf, gras de bœuf, viande de dinde séparée mécaniquement, protéine de soja, eau, fécule, épices, huile végétale, lactose, fibre végétale, arôme de fumé, sucre, sel nitrité (sel + 0,6% nitrite de sodium E250), lactate de sodium (E325), colorant alimentaire (E120), stabilisants (E451, E450), antioxydants (E316, E331), exhausteur de goût (E621).",
+  "additives": "en:e250,en:e325,en:e120,en:e451,en:e450,en:e316,en:e331,en:e621",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Jayda roulade de dinde 600g; barcode printed on photo reads 6111242107076, which differs from the chunk barcode 6111242210707 (possibly different variant)"
+ },
+ {
+  "barcode": "6111032010500",
+  "outcome": "not_found",
+  "note": "Assiri fermented dairy product: Arabic list is blurry and the start/lines are cut off by the carton edge; not fully readable"
+ },
+ {
+  "barcode": "6111262388714",
+  "outcome": "found",
+  "ingredients_text": "Sucre, farine de blé, graisses végétales, œufs liquides pasteurisés, humectants (sirop de sucre inverti, sirop de glucose, propylène glycol, glycérine), dextrose, poudre de cacao, lait écrémé en poudre, poudre de glucose, émulsifiants végétaux (mono et diglycérides d'acides gras, lécithine de soja, esters de polyglycérol, polyricinoléate de polyglycérol), lactosérum en poudre, huile végétale, sel, arômes, colorant alimentaire naturel, conservateur (sorbate de potassium), poudres à lever (pyrophosphate de sodium, bicarbonate de sodium), amidon, correcteur d'acidité (acide citrique), épaississant (gomme xanthane).",
+  "additives": "en:e202,en:e450,en:e500,en:e330,en:e415,en:e322,en:e422,en:e1520",
+  "allergens": "en:gluten,en:eggs,en:milk,en:soybeans",
+  "note": "Genoise roulee fourree et enrobee a la creme au chocolat; left edge of FR text cut, completed from the EN and AR lines on the same label; E-codes inferred from names"
+ },
+ {
+  "barcode": "6111250478199",
+  "outcome": "found",
+  "ingredients_text": "Huile d'olive vierge (100%).",
+  "additives": "",
+  "allergens": "",
+  "note": "Al Maasra huile d'olive vierge extra, extraite à froid"
+ },
+ {
+  "barcode": "6111273490956",
+  "outcome": "not_found",
+  "note": "Honey/ginseng supplement jar: English list partly blurry (first ingredient unreadable)"
+ },
+ {
+  "barcode": "6111259348417",
+  "outcome": "not_found",
+  "note": "Photo shows only nutrition tables of a biscuit bag, no ingredient list"
+ },
+ {
+  "barcode": "6111267930116",
+  "outcome": "found",
+  "ingredients_text": "100% semoule de blé dur. Contient naturellement du gluten.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Couscous moyen (Kenz)"
+ },
+ {
+  "barcode": "6111271181658",
+  "outcome": "not_found",
+  "note": "Photo shows front of Calin baby diapers (non-food)"
+ },
+ {
+  "barcode": "6111246954676",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé réhydraté, matières grasses végétales, fromages, sels de fonte (polyphosphates de sodium, phosphate tricalcique, acide citrique), stabilisants (amidon modifié, carraghénane), protéines de lait, sel, conservateur : (acide sorbique), arôme naturel, vitamines A et D.",
+  "additives": "en:e452,en:e341,en:e330,en:e407,en:e200",
+  "allergens": "en:milk",
+  "note": "Processed cheese spread; label only in Arabic, translated to French; E-codes inferred from names"
+ },
+ {
+  "barcode": "6111242802186",
+  "outcome": "found",
+  "ingredients_text": "Graines de pavot.",
+  "additives": "",
+  "allergens": "",
+  "note": "Poppy seed spice jar; start of ingredient line partly hidden by curve of the jar, single ingredient visible"
+ },
+ {
+  "barcode": "6111252422824",
+  "outcome": "not_found",
+  "note": "Photo shows only the mineral composition of a bottled water (Aqua?), no ingredient list"
+ },
+ {
+  "barcode": "6111273210042",
+  "outcome": "found",
+  "ingredients_text": "Sardines, huile végétale, sel.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Sardines in vegetable oil"
+ },
+ {
+  "barcode": "6111266241183",
+  "outcome": "found",
+  "ingredients_text": "Lait, ferment.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Skyr from La Ferme de Bouskoura; handwritten-style label"
+ },
+ {
+  "barcode": "6111266680814",
+  "outcome": "not_found",
+  "note": "Photo shows front of a cheddar-taste cheese slice pack, no ingredient list"
+ },
+ {
+  "barcode": "6111090005401",
+  "outcome": "not_found",
+  "note": "Lilia margarine tub: only nutrition table visible, no ingredient list"
+ },
+ {
+  "barcode": "6111250477413",
+  "outcome": "found",
+  "ingredients_text": "Champignons de Paris (57,5%), eau, sel, acidifiant : acide citrique (E330), antioxydant : acide ascorbique (E300). Peut contenir des traces de sulfites.",
+  "additives": "en:e330,en:e300",
+  "allergens": "",
+  "note": "Champignons de Paris pieds et morceaux (canned)"
+ },
+ {
+  "barcode": "6111251732856",
+  "outcome": "not_found",
+  "note": "Herbal tea box: list cut off by the edge of photo (only a few herbs visible)"
+ },
+ {
+  "barcode": "6111259347489",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisses végétales (palme), farine de blé (tendre), poudre de cacao, poudres laitières (poudre de perméat du lait, poudre de lactosérum), émulsifiant d'origine végétale (lécithine de soja E322), poudre levante (bicarbonate de sodium E500ii), sel, colorants alimentaires (E150d) et arôme (vanilline). Contient : blé (céréales contenant du gluten), soja et lait. Peut contenir des traces des oeufs, des fruits à coque et arachides.",
+  "additives": "en:e322,en:e500ii,en:e150d",
+  "allergens": "en:gluten,en:soybeans,en:milk",
+  "note": "Sergio Black cocoa wafer"
+ },
+ {
+  "barcode": "6111249986254",
+  "outcome": "not_found",
+  "note": "Las Rosas vanilla sponge: back of pack shows only nutrition/producer info, no ingredient list"
+ },
+ {
+  "barcode": "6111184010540",
+  "outcome": "found",
+  "ingredients_text": "Huile de colza, vinaigre de table, sucre, eau, sirop de glucose fructose, miel 2%, farine de moutarde 8%, épaississants : amidon modifié, sel, jaune d'œufs, caramel aromatique, arômes, conservateurs (sorbate de potassium et benzoate de sodium), épices, stabilisant : gomme xanthane, antioxydant : calcium disodium EDTA et colorants (oléorésine de paprika et bêtacarotène).",
+  "additives": "en:e202,en:e211,en:e415,en:e385,en:e160c,en:e160a",
+  "allergens": "en:eggs,en:mustard",
+  "note": "Sauce moutarde et miel (VMM); E-codes inferred from names"
+ },
+ {
+  "barcode": "6111258244857",
+  "outcome": "not_found",
+  "note": "Bigor biscuit/cream tube: photo shows storage and producer info only, no ingredient list"
+ },
+ {
+  "barcode": "6111260961827",
+  "outcome": "found",
+  "ingredients_text": "Riz blanc, sel de Himalaya. Peut contenir des traces de gluten.",
+  "additives": "",
+  "allergens": "",
+  "note": "Galette de riz, 0% matière grasse ajoutée"
+ },
+ {
+  "barcode": "6111266681187",
+  "outcome": "not_found",
+  "note": "Photo shows nutrition table of sliced cheese; ingredient list cut off at the right edge"
+ },
+ {
+  "barcode": "6111255773084",
+  "outcome": "not_found",
+  "note": "Chocolate biscuit: ingredient text blurry, cut by fold, and mixed languages; not fully readable"
+ },
+ {
+  "barcode": "6111265100566",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé, matière grasse végétale, fromages, poudre de lactosérum, protéines de lait, sels de fonte (E452, E341, E450), sel, épaississant (E407, E412), conservateur : sorbate de potassium, régulateur d'acidité (E330).",
+  "additives": "en:e452,en:e341,en:e450,en:e407,en:e412,en:e202,en:e330",
+  "allergens": "en:milk",
+  "note": "Préparation de fromage fondu à tartiner 45% MG/ES (Oland Group)"
+ },
+ {
+  "barcode": "6111242870925",
+  "outcome": "found",
+  "ingredients_text": "Semoule de maïs, huile végétale, arôme ketchup (sucre, sel, mélange d'épices, exhausteur de goût E621, E635, régulateur d'acidité E262, maltodextrine, acidifiant E330, colorant extrait de paprika E160c, antiagglomérant E551, E1450, E341). Contient du céleri. Peut contenir des traces de lait, de gluten et de soja.",
+  "additives": "en:e621,en:e635,en:e262,en:e330,en:e160c,en:e551,en:e1450,en:e341",
+  "allergens": "en:celery",
+  "note": "Corn snack, ketchup flavour; contains celery"
+ },
+ {
+  "barcode": "6111270800017",
+  "outcome": "found",
+  "ingredients_text": "Noix de cajou, sel.",
+  "additives": "",
+  "allergens": "en:nuts",
+  "note": "Translated from English/Arabic (cashew, salt)"
+ },
+ {
+  "barcode": "6111259085305",
+  "outcome": "not_found",
+  "note": "Ketchup sachet (10 g): Arabic list partly hidden by a fold/tear in the wrapper"
+ },
+ {
+  "barcode": "6111266753402",
+  "outcome": "not_found",
+  "note": "Honey jar: only nutrition table and barcode visible, no ingredient list"
+ },
+ {
+  "barcode": "6111249192358",
+  "outcome": "not_found",
+  "note": "Champignons de Paris can: ingredient text blurry, acidity regulator E-code ambiguous (E339/E330)"
+ },
+ {
+  "barcode": "6111259093560",
+  "outcome": "found",
+  "ingredients_text": "Lait frais pasteurisé, protéines laitières, beurre, huile végétale, amidon transformé, sel émulsifiant : E452, E331, ferment lactique, présure, acide citrique, sorbate de sodium E201, sel de table, arôme alimentaire, colorant alimentaire.",
+  "additives": "en:e452,en:e331,en:e330,en:e201",
+  "allergens": "en:milk",
+  "note": "Gastromixt 1 kg processed cheese, 40% fat; citric acid E330 inferred"
+ },
+ {
+  "barcode": "6111264271021",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, lait écrémé, dextrose, stabilisant, glucose, huile de noix, pâte de pistache, poudre de chocolat.",
+  "additives": "",
+  "allergens": "en:milk,en:nuts",
+  "note": "Crème glacée chocolat pistache (Agroway); label lists only milk as allergen but walnut oil and pistachio paste are nuts"
+ },
+ {
+  "barcode": "6111259394346",
+  "outcome": "not_found",
+  "note": "Orange-flavoured biscuit (Excelo): ingredient line runs off the edge of the photo, incomplete"
+ },
+ {
+  "barcode": "6111265810359",
+  "outcome": "found",
+  "ingredients_text": "Maïs, sel, eau, arômes.",
+  "additives": "",
+  "allergens": "",
+  "note": "Maiz frito (salted corn nuts); translated from English"
+ },
+ {
+  "barcode": "6111266752801",
+  "outcome": "not_found",
+  "note": "Chocolata spread tub: only nutrition table visible, no ingredient list"
+ },
+ {
+  "barcode": "6111089330316",
+  "outcome": "found",
+  "ingredients_text": "Lait de chèvre pasteurisé, ferments lactiques, présure, sel.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Fromage de chèvre frais (queso de cabra), photo angled/partly blurry but list readable"
+ },
+ {
+  "barcode": "6111180015648",
+  "outcome": "found",
+  "ingredients_text": "Sucre, dextrose, lait en poudre, sirop de glucose, huile de palmiste, esters d'acide acétique de mono- et diglycérides d'acides gras (E472a), protéines de lait, acide citrique, gomme xanthane, arômes (citron et gingembre), colorants (E102, E133).",
+  "additives": "en:e472a,en:e330,en:e415,en:e102,en:e133",
+  "allergens": "en:milk",
+  "note": "Candy/sweet (lemon-ginger flavour); product name not visible on photo; contains tartrazine E102"
+ },
+ {
+  "barcode": "6111260939550",
+  "outcome": "not_found",
+  "note": "Photo shows only a box of Chinese green tea (Sahraoui brand) on a shelf, no ingredient list"
+ },
+ {
+  "barcode": "6111250030649",
+  "outcome": "found",
+  "ingredients_text": "100% blé tendre. Contient du gluten.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Pastry flour (farine de blé tendre special patisserie)"
+ },
+ {
+  "barcode": "6111069013598",
+  "outcome": "not_found",
+  "note": "Pasta bag: very low-resolution photo, ingredient text unreadable"
+ },
+ {
+  "barcode": "6111258243133",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé tendre, sucre, graisse végétale, lécithine de soja E322, noix de coco en poudre, poudre levante (bicarbonate de sodium E500, bicarbonate d'ammonium E503), sel, antioxydants (acide citrique E330, acide tartrique E334), conservateur (acide sorbique E200), arômes artificiels autorisés. Contient du gluten et de la lécithine. Peut contenir des oeufs.",
+  "additives": "en:e322,en:e500,en:e503,en:e330,en:e334,en:e200",
+  "allergens": "en:gluten,en:soybeans",
+  "note": "Artos coconut-flavour biscuits; only the English list fully visible, translated to French"
+ },
+ {
+  "barcode": "6111259348394",
+  "outcome": "found",
+  "ingredients_text": "Cacahuètes 30%, graisses et huiles végétales (palme, palmiste, tournesol), sucre, poudres laitières (poudre de lait écrémé, poudre de perméat de lait, poudre de perméat de lactosérum), farine de blé, masse de cacao, poudre de cacao, sucrant (dextrose), émulsifiant d'origine végétale (lécithine de soja E322), poudre levante (bicarbonate de sodium E500, bicarbonate d'ammonium E503), sel et arôme (vanilline). Contient : blé (céréales contenant du gluten), lait, cacahuètes et soja. Peut contenir des traces d'oeufs et des fruits à coques.",
+  "additives": "en:e322,en:e500,en:e503",
+  "allergens": "en:gluten,en:milk,en:peanuts,en:soybeans",
+  "note": "Pickers peanut wafer; left edge slightly cut, completed from EN/PT lines"
+ },
+ {
+  "barcode": "6111046003185",
+  "outcome": "found",
+  "ingredients_text": "Fromage, beurre, lait écrémé en poudre, protéines de lait, sels émulsifiants (polyphosphate de sodium, phosphate tricalcique, acide citrique), conservateur (sorbate de potassium), carraghénane, sel, eau.",
+  "additives": "en:e452,en:e341,en:e330,en:e202,en:e407",
+  "allergens": "en:milk",
+  "note": "Colainord processed cheese spread 43% fat; E-codes inferred from names"
+ },
+ {
+  "barcode": "6111262389087",
+  "outcome": "not_found",
+  "note": "Tobico biscuit bag: photo shows nutrition table only, ingredient list cut off on the left"
+ },
+ {
+  "barcode": "6111250050074",
+  "outcome": "not_found",
+  "note": "Photo shows an aerosol can (citron-scented insecticide/air product), not food"
+ },
+ {
+  "barcode": "6111025200109",
+  "outcome": "found",
+  "ingredients_text": "Pâte de cacao, beurre et poudre de cacao, sucre, émulsifiant : lécithine de soja (E322), arôme vanille, (cacao minimum 57%).",
+  "additives": "en:e322",
+  "allergens": "en:soybeans",
+  "note": "Macao Dessert dark chocolate 180g, for baking"
+ },
+ {
+  "barcode": "6111069002424",
+  "outcome": "not_found",
+  "note": "Photo shows front of green tea box (Sultan Ennajma), no ingredient list"
+ },
+ {
+  "barcode": "6111245460208",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé tendre, eau, sucre, margarine, œufs, graisse végétale (tournesol), sel, acide sorbique (issu de la margarine). Peut contenir des traces d'œuf, lait, graines de sésame, soya.",
+  "additives": "en:e200",
+  "allergens": "en:gluten,en:eggs",
+  "note": "Assylor sweet tart base (fond de tarte sucré); sorbic acid E200 inferred"
+ },
+ {
+  "barcode": "6111249987145",
+  "outcome": "not_found",
+  "note": "Las Rosas biscuit: photo shows only nutrition table, no ingredient list"
+ },
+ {
+  "barcode": "6111255615186",
+  "outcome": "not_found",
+  "note": "Sweet almond oil, cosmetic (Amilab), not a food; label only says Almond (Prunus Dulcis) Oil"
+ },
+ {
+  "barcode": "6111264044540",
+  "outcome": "not_found",
+  "note": "Cocoa biscuit spread (Fortune Maroc): left part of the list is cut off/hidden by glare, not fully readable"
+ },
+ {
+  "barcode": "6111242805989",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé tendre, farine de sarrasin 10%, sel. Contient du gluten (blé) et peut contenir des traces d'œufs.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Soba noodles (imported from China); translated from English"
+ },
+ {
+  "barcode": "6111249911331",
+  "outcome": "not_found",
+  "note": "Olive oil bottle (Olea Capital): back label only, no ingredient list"
+ },
+ {
+  "barcode": "6111180017888",
+  "outcome": "not_found",
+  "note": "Ice cream mix (Glace, Ideal): Arabic list partly blurry/cut by finger; not fully readable"
+ },
+ {
+  "barcode": "6118000160359",
+  "outcome": "not_found",
+  "note": "Photo is a blurry barcode, no ingredient list"
+ },
+ {
+  "barcode": "6111250478526",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, sucre, œufs pasteurisés, huile végétale entièrement raffinée (soja), eau, sel, lait écrémé en poudre, lactosérum en poudre, poudre de cacao, amidon modifié, sirop de glucose, dextrose, sorbitol, glycérine, bicarbonate de sodium, pyrophosphate de sodium, sorbate de potassium, acide citrique, émulsifiant (mono et diglycérides d'acides gras, esters d'acides gras au propylène glycol, acides gras, propylène glycol), gomme de xanthane, arôme : chocolat. Peut contenir des traces d'amandes, de noisettes et de sésame.",
+  "additives": "",
+  "allergens": "en:gluten,en:eggs,en:soybeans,en:milk",
+  "note": "Madeleines coeur cacao (Le Maitre Boulanger); no E-numbers printed"
+ },
+ {
+  "barcode": "6111265080653",
+  "outcome": "not_found",
+  "note": "Spready milk-powder tin front only, no ingredient list"
+ },
+ {
+  "barcode": "6111246510568",
+  "outcome": "not_found",
+  "note": "Edam-type cheese ball (Arabic label): list partly cut off by the label edge, not fully readable"
+ },
+ {
+  "barcode": "6111270962906",
+  "outcome": "found",
+  "ingredients_text": "Chocolat au lait 34% cacao (52%) : sucre, beurre de cacao, masse de cacao, lait entier en poudre, préparation de lait entier, lait écrémé en poudre, préparation de lait écrémé, émulsifiant (lécithine de soja), sel, vanilline. Biscuit (48%) : farine de blé, sucre, beurre laitier, graisse végétale de palme non hydrogénée, lait écrémé en poudre, amidon en poudre, sel, émulsifiant (lécithine de soja), poudres à lever (bicarbonate d'ammonium, bicarbonate de sodium, pyrophosphate acide de sodium), antioxydant (métabisulfite de sodium). Contient blé (gluten), lait et ses dérivés, soja et sulfite. Peut contenir des traces de fruits à coque, arachides.",
+  "additives": "en:e322,en:e503,en:e500,en:e450,en:e223",
+  "allergens": "en:gluten,en:milk,en:soybeans,en:sulphur-dioxide-and-sulphites",
+  "note": "Biscuit and milk chocolate tablet; translated from English; E-codes inferred from names"
+ },
+ {
+  "barcode": "6111252119304",
+  "outcome": "not_found",
+  "note": "Bottled water: mineral composition only (single-ingredient water, not an ingredient list)"
+ },
+ {
+  "barcode": "6111003031992",
+  "outcome": "found",
+  "ingredients_text": "Morceaux de maquereaux, huile végétale, sel.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Delmonaco mackerel pieces in vegetable oil"
+ },
+ {
+  "barcode": "6111269560656",
+  "outcome": "not_found",
+  "note": "Cereal/chocolate chip bar: only nutrition panel visible, no ingredient list"
+ },
+ {
+  "barcode": "6111255773411",
+  "outcome": "found",
+  "ingredients_text": "Biscuit (farine de blé tendre, sucre, graisse végétale hydrogénée (palme), sirop de glucose-fructose, lait écrémé en poudre, amidon de maïs, sel, poudre à lever (bicarbonate de sodium E500(ii), bicarbonate d'ammonium E503(ii) et pyrophosphate acide de sodium E450(iii)), émulsifiants (lécithine de soja E322 et E471), arôme) crème de lait (sucre, graisse végétale hydrogénée (palme et palmiste), lait écrémé en poudre, lactosérum en poudre, glucose en poudre, émulsifiant (lécithine de soja E322 et E476), vanilline, arôme) crème de cacao (sucre, graisse végétale hydrogénée (palmiste), poudre de cacao, lait écrémé en poudre, lactosérum en poudre, émulsifiants (lécithine de soja E322 et E476), vanilline) céréales croustillantes (farine de riz, farine de blé tendre, amidon de maïs, sucre, sirop de glucose, poudre de cacao, huile végétale (soja), humectant (sorbitol E420), antiagglomérant (bicarbonate de sodium E500(ii) et carbonate de calcium E170), sel, émulsifiant (lécithine de soja E322). Contient blé (gluten), soja et lait.",
+  "additives": "en:e500ii,en:e503ii,en:e450iii,en:e322,en:e471,en:e476,en:e420,en:e170",
+  "allergens": "en:gluten,en:soybeans,en:milk",
+  "note": "Crispy biscuit with milk cream and cocoa; translated from the English list"
+ },
+ {
+  "barcode": "6111243591881",
+  "outcome": "found",
+  "ingredients_text": "Lait frais partiellement écrémé, sucre, texturant : amidon, arômes, ferments lactiques. Matière grasse : 1,3%.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Colaimo drinking yogurt, fruit flavours"
+ },
+ {
+  "barcode": "6111265420343",
+  "outcome": "found",
+  "ingredients_text": "Cacahuètes, tournesol, amandes, sésame, sucre, sirop de glucose, citron.",
+  "additives": "",
+  "allergens": "en:peanuts,en:nuts,en:sesame-seeds",
+  "note": "Mix of dried fruits and seeds (15 g sachet); small part of first line partly hidden by tear ('amandes' inferred from Arabic line)"
+ },
+ {
+  "barcode": "6111271181306",
+  "outcome": "not_found",
+  "note": "Wet wipes (non-food); ingredient list cut off"
+ },
+ {
+  "barcode": "6111099004726",
+  "outcome": "found",
+  "ingredients_text": "Café moulu.",
+  "additives": "",
+  "allergens": "",
+  "note": "Molido Familial ground coffee 200 g"
+ },
+ {
+  "barcode": "6111046002409",
+  "outcome": "found",
+  "ingredients_text": "Lait frais partiellement écrémé, ferments lactiques sélectionnés, amidon.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Yogurt-type drink; only front-of-carton list visible"
+ },
+ {
+  "barcode": "6111178002315",
+  "outcome": "not_found",
+  "note": "Pingouin ice cream tub: only nutrition table, no ingredient list"
+ },
+ {
+  "barcode": "6111251753769",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, concentré de purée de fruit de pêche, poudre de lait écrémé, épaississant : CMC, acidifiant : acide citrique, arôme, provitamine A, édulcorant : sucralose et acésulfame K.",
+  "additives": "en:e466,en:e330,en:e955,en:e950",
+  "allergens": "en:milk",
+  "note": "Twist peach drink with skim milk; label text faded but legible in 4 languages; E-codes inferred from names"
+ },
+ {
+  "barcode": "6111226000010",
+  "outcome": "not_found",
+  "note": "Dermocare sun lotion (cosmetic, non-food); front of box only"
+ },
+ {
+  "barcode": "6111269561134",
+  "outcome": "not_found",
+  "note": "Wafer vanilla: only nutrition table visible, no ingredient list"
+ },
+ {
+  "barcode": "6111265751096",
+  "outcome": "not_found",
+  "note": "Harissa bottle: label shows only producer info and barcode, no ingredient list"
+ },
+ {
+  "barcode": "6111101013616",
+  "outcome": "not_found",
+  "note": "Asta Dynamic instant coffee: label has no explicit ingredient list (description only; made in Egypt)"
+ },
+ {
+  "barcode": "6111266680937",
+  "outcome": "not_found",
+  "note": "Cheese-type spreadable preparation: very low-resolution photo, list not reliably readable"
+ },
+ {
+  "barcode": "6111261010425",
+  "outcome": "not_found",
+  "note": "Fish tin box (Pelagic 125 g): only nutrition table readable, ingredient list cut off and too small"
+ },
+ {
+  "barcode": "6111024009031",
+  "outcome": "not_found",
+  "note": "Elkef lavender paste soap (non-food); front of pack only"
+ },
+ {
+  "barcode": "6111243591546",
+  "outcome": "found",
+  "ingredients_text": "Lait frais entier, poudre de lait écrémé, crème fraîche, sucre, épaississant : amidon, arôme, ferments lactiques. Matière grasse : 3,0%.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Yaourt brassé aromatisé fruits exotiques (Colaimo-type cup)"
+ },
+ {
+  "barcode": "6111261411901",
+  "outcome": "not_found",
+  "note": "Photo is a shelf with Oreo packs and price tag, no ingredient list"
+ },
+ {
+  "barcode": "6111173000613",
+  "outcome": "not_found",
+  "note": "Biscuit wrapper: 400px low-res photo, list partly cut off, not fully readable"
+ },
+ {
+  "barcode": "6111250730631",
+  "outcome": "found",
+  "ingredients_text": "Sucre, sauce soja, eau, sel, amidon modifié, caramel (E150c), glutamate monosodique (E621), gomme xanthane (E415), sorbate de potassium (E202), acésulfame (E950). Contient du soja et du blé.",
+  "additives": "en:e150c,en:e621,en:e415,en:e202,en:e950",
+  "allergens": "en:soybeans,en:gluten",
+  "note": "Teriyaki sauce (not plain soy sauce); translated from English"
+ },
+ {
+  "barcode": "6111255773329",
+  "outcome": "not_found",
+  "note": "Oreo-type biscuit: only nutrition table visible, no ingredient list"
+ },
+ {
+  "barcode": "6111260090862",
+  "outcome": "not_found",
+  "note": "Olive oil bottle: only nutrition values, no ingredient list"
+ },
+ {
+  "barcode": "6111259342712",
+  "outcome": "found",
+  "ingredients_text": "Flocons d'avoine.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Oat flakes (Golea); label says contains gluten"
+ },
+ {
+  "barcode": "6111173000231",
+  "outcome": "not_found",
+  "note": "Wafer wrapper: French list cut off at the edge, only partial Arabic list readable"
+ },
+ {
+  "barcode": "6111250478373",
+  "outcome": "found",
+  "ingredients_text": "100% blé dur.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Pasta/couscous; peut contenir traces de moutarde, soja et sésame"
+ },
+ {
+  "barcode": "6111270414016",
+  "outcome": "found",
+  "ingredients_text": "Miel d'abeilles pur naturel.",
+  "additives": "",
+  "allergens": "",
+  "note": "Honey, product of India (Himalayan flowers), sold in Morocco"
+ },
+ {
+  "barcode": "6111263970444",
+  "outcome": "found",
+  "ingredients_text": "Semoule de maïs, huile végétale (palme), arôme ketchup (sucre, sel, arôme ketchup), acide citrique E330, oignon, ail, antiagglomérant E551, poivron doux, poivron rouge, huile végétale, acétate de sodium E262, gingembre, poivre noir. Peut contenir des traces de gluten, soja et sulfites.",
+  "additives": "en:e330,en:e551,en:e262",
+  "allergens": "",
+  "note": "Pacomat ketchup corn snack; photo blurry, French list cut off, translated from the Arabic list"
+ },
+ {
+  "barcode": "6111243591584",
+  "outcome": "found",
+  "ingredients_text": "Lait frais entier, poudre de lait écrémé, crème fraîche, sucre, épaississant : amidon, ferments lactiques. Matière grasse : 3,0%.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Yaourt brassé nature sucré; small blurry text, matches sibling exotic-fruit yogurt, Arabic list consistent"
+ },
+ {
+  "barcode": "6111246930038",
+  "outcome": "not_found",
+  "note": "Tandy flour/semolina bag: only nutrition table and 'contient du gluten', no ingredient list"
+ },
+ {
+  "barcode": "6112421304088",
+  "outcome": "found",
+  "ingredients_text": "Sel de l'Himalaya.",
+  "additives": "",
+  "allergens": "",
+  "note": "Oncle Achour Himalayan salt"
+ },
+ {
+  "barcode": "6111068000070",
+  "outcome": "found",
+  "ingredients_text": "Sardines, huile végétale, sel.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Label only in Arabic; translated to French"
+ },
+ {
+  "barcode": "6111250477642",
+  "outcome": "found",
+  "ingredients_text": "Blé soufflé 58%, sucre 28%, sirop de glucose, miel 2%, huile de tournesol. Peut contenir d'autres céréales contenant du gluten, des produits à base de lait et de soja.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Puffed wheat cereal with honey; low-res but legible"
+ },
+ {
+  "barcode": "6111179001461",
+  "outcome": "found",
+  "ingredients_text": "Eau purifiée, purée de pêche (à base de concentré), sucre, texturant : CMC, acidifiant : acide citrique, antioxydant : vitamine C, arôme pêche, édulcorant : sucralose. Teneur en fruits min. 15%.",
+  "additives": "en:e466,en:e330,en:e300,en:e955",
+  "allergens": "",
+  "note": "Boisson pêche (juice-style drink, not 100% juice)"
+ },
+ {
+  "barcode": "6111251733860",
+  "outcome": "found",
+  "ingredients_text": "100% thé noir de Ceylan.",
+  "additives": "",
+  "allergens": "",
+  "note": "Black tea; the French line on the label is misspelled 'Caylon Black Tea'"
+ },
+ {
+  "barcode": "6111248335701",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, poudre de lait écrémé 26%, sucre, caramel, calcium phosphate tribasique, magnésium sulfate, vitamines et minéraux, huile de tournesol, vanilline. Minéraux : calcium, fer, sodium, sélénium, cuivre, magnésium, zinc, manganèse, potassium, iode, phosphore. Vitamines : A, D, E, K, C, B1, B2, B3, B5, B6, B8, B9, B12. Contient du gluten, lactose et protéine de lait.",
+  "additives": "",
+  "allergens": "en:gluten,en:milk",
+  "note": "Vitameal Baby infant cereal (milk and wheat); right edge of list slightly torn but legible"
+ },
+ {
+  "barcode": "6111275720075",
+  "outcome": "not_found",
+  "note": "Olive oil bottle: only nutrition table and dates, no ingredient list"
+ },
+ {
+  "barcode": "6111262585137",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé en poudre (60%), café soluble (20%), lait entier en poudre (15%), lactose, anti-agglomérant (E341). Préparation à base de lait demi-écrémé en poudre avec café soluble.",
+  "additives": "en:e341",
+  "allergens": "en:milk",
+  "note": "Café au lait capsules compatible with Dolce Gusto machines; photo is rotated"
+ },
+ {
+  "barcode": "6111259347793",
+  "outcome": "not_found",
+  "note": "Supreme chocolate cake box: front of pack only"
+ },
+ {
+  "barcode": "6111276680040",
+  "outcome": "not_found",
+  "note": "Small bottled water: very low-res, only mineral composition"
+ },
+ {
+  "barcode": "6111262820771",
+  "outcome": "not_found",
+  "note": "Strawberry jam jar: 300px low-res photo, ingredient text too small to read reliably"
+ },
+ {
+  "barcode": "6111035000003",
+  "outcome": "not_found",
+  "note": "Photo shows an empty Sidi Ali-type water bottle, no ingredient list"
+ },
+ {
+  "barcode": "6111246421604",
+  "outcome": "found",
+  "ingredients_text": "Viande de volaille, amidon, eau, matière grasse végétale, sel, épices, conservateur E250, antioxydants E300-E325, arômes, exhausteur de goût E621, piquant, stabilisant E450-E451, colorant alimentaire E120.",
+  "additives": "en:e250,en:e300,en:e325,en:e621,en:e450,en:e451,en:e120",
+  "allergens": "",
+  "note": "Wajba spicy cooked poultry sausage (kasher/halal)"
+ },
+ {
+  "barcode": "6111270031664",
+  "outcome": "found",
+  "ingredients_text": "Abricots secs (26%), raisins (21%), cajous salées et torréfiées (16%), amandes salées et torréfiées (15%), pistaches salées et torréfiées (12%), noix sans coque au naturel (10%). Contient de : fruits à coque. Peut contenir des traces de : cacahuètes, gluten et soja.",
+  "additives": "",
+  "allergens": "en:nuts",
+  "note": "Crunchy Box fruit and nut gift tin 388 g"
+ },
+ {
+  "barcode": "6111262386260",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisses végétales, noix de coco râpée, lactosérum en poudre, poudre de cacao, lait en poudre, farine de blé, œufs liquides pasteurisés, huile végétale, humectants (glycérine, sorbitol, sirop de glucose), arômes, émulsifiants végétaux (lécithine de soja, mono et diglycérides d'acide gras, polyricinoléate de polyglycérol), amidon de maïs, conservateur (sorbate de potassium), sel, poudre à lever (pyrophosphate de sodium, bicarbonate de sodium), correcteur d'acidité (acide citrique), épaississant (gomme de xanthane).",
+  "additives": "en:e422,en:e420,en:e322,en:e476,en:e202,en:e450,en:e500,en:e330,en:e415",
+  "allergens": "en:milk,en:gluten,en:eggs,en:soybeans",
+  "note": "Cake fourré et enrobé crème chocolat et noix de coco; E-codes inferred from names"
+ },
+ {
+  "barcode": "6111261591092",
+  "outcome": "not_found",
+  "note": "Cookies with chocolate chips: only Arabic list readable and blurry; no French list in photo"
+ },
+ {
+  "barcode": "6111255773244",
+  "outcome": "not_found",
+  "note": "Cereal bar with milk cream: very low-res photo, list unreadable"
+ },
+ {
+  "barcode": "6112421302268",
+  "outcome": "found",
+  "ingredients_text": "Amandes, sel.",
+  "additives": "",
+  "allergens": "en:nuts",
+  "note": "Oncle Achour roasted salted almonds"
+ },
+ {
+  "barcode": "6111180013521",
+  "outcome": "not_found",
+  "note": "Damati bouillon cubes: front of box only, no ingredient list"
+ },
+ {
+  "barcode": "6111266754065",
+  "outcome": "not_found",
+  "note": "Corn snack: 300px low-res photo, list partly covered by a printed date stamp, not reliably readable"
+ },
+ {
+  "barcode": "6111269840505",
+  "outcome": "not_found",
+  "note": "Himalayan salt (Bonettos): only nutrition table, no ingredient list"
+ },
+ {
+  "barcode": "6111246422267",
+  "outcome": "found",
+  "ingredients_text": "Viande de volaille, arôme de bœuf, graisse de bœuf, amidon, eau, matière grasse végétale, sel, épices, conservateur E250, antioxydants E300-E325, arômes, exhausteur de goût E621, stabilisant E450-E451, colorant alimentaire E120, olive.",
+  "additives": "en:e250,en:e300,en:e325,en:e621,en:e450,en:e451,en:e120",
+  "allergens": "",
+  "note": "Wajba poultry sausage with olives (not the spicy one); contains beef flavour and beef fat"
+ },
+ {
+  "barcode": "6111259098725",
+  "outcome": "not_found",
+  "note": "Goldium: only nutrition table, no ingredient list"
+ },
+ {
+  "barcode": "6111017047989",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisse végétale palmiste, poudre de cacao, masse de cacao, lait en poudre, émulsifiant : lécithine de soja, E476, arômes artificiels.",
+  "additives": "en:e322,en:e476",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Chocolate-type bar (compound, vegetable fat)"
+ },
+ {
+  "barcode": "6111321151099",
+  "outcome": "not_found",
+  "note": "Dark bag, very low-res; only Arabic fragment and nutrition table"
+ },
+ {
+  "barcode": "6111250477451",
+  "outcome": "found",
+  "ingredients_text": "Tomates (99%), sel, acide citrique (E330).",
+  "additives": "en:e330",
+  "allergens": "",
+  "note": "Purée de tomates 680 g jar; label says no allergens"
+ },
+ {
+  "barcode": "6111255393770",
+  "outcome": "not_found",
+  "note": "Canned fish (Logifood): only nutrition facts, no ingredient list"
+ },
+ {
+  "barcode": "6111259347465",
+  "outcome": "not_found",
+  "note": "Caramel cocoa cake box: start of French ingredient list hidden by glare and a sticker, not fully readable"
+ },
+ {
+  "barcode": "6111254984986",
+  "outcome": "found",
+  "ingredients_text": "Dattes non dénoyautées.",
+  "additives": "",
+  "allergens": "",
+  "note": "Lulu dates (Smart Fruits); translated from English 'Unpitted dates'"
+ },
+ {
+  "barcode": "6111258241177",
+  "outcome": "not_found",
+  "note": "Bigor cookie with strawberry cream: French list cut off at photo edge; only Arabic list visible"
+ },
+ {
+  "barcode": "6111259080065",
+  "outcome": "found",
+  "ingredients_text": "Eau, huile végétale (soja), vinaigre, sucre, moutarde, poudre d'œuf, amidon modifié (E1422), épaississants : gomme de guar (E412), gomme de xanthane (E415), sel, épices, conservateurs : sorbate de potassium (E202), benzoate de sodium (E211), acidifiant : acide citrique (E330), antioxydant : EDTA, poivre blanc, paprika, concentré de tomate, cornichons.",
+  "additives": "en:e1422,en:e412,en:e415,en:e202,en:e211,en:e330",
+  "allergens": "en:soybeans,en:mustard,en:eggs",
+  "note": "Burger sauce; 400px photo, read from the English and French lines (EDTA E385 not printed as an E-number)"
+ },
+ {
+  "barcode": "6111251463002",
+  "outcome": "not_found",
+  "note": "Biscuit pack: only multilingual nutrition headings, no ingredient list"
+ },
+ {
+  "barcode": "6111266963030",
+  "outcome": "found",
+  "ingredients_text": "Viande de dinde séparée mécaniquement, viande de bœuf, graisse de bœuf, eau, amidon, soja, sel nitrité (sel + 0,6% nitrite de sodium E250), épices, extrait d'épices, olives, sucre, arôme, conservateurs (E325, E262), stabilisants (E450, E451, E452), exhausteurs de goût (E621), antioxydants (E300, E301, E331), colorant alimentaire (E129).",
+  "additives": "en:e250,en:e325,en:e262,en:e450,en:e451,en:e452,en:e621,en:e300,en:e301,en:e331,en:e129",
+  "allergens": "en:soybeans",
+  "note": "Selecta turkey and beef sausage with olives (contains beef)"
+ },
+ {
+  "barcode": "6111242043763",
+  "outcome": "found",
+  "ingredients_text": "Pomme de terre, huile végétale (palme), arôme jalapeno fromage [lactosérum, arômes, sucre, sel, exhausteurs de goût (glutamate monosodique, inosinate disodique, guanylate disodique), tomate en poudre, graisse végétale, capsicum, colorant (extrait de paprika)]. Contient des produits à base de lait (y compris le lactose). Peut contenir des traces de gluten et de produits à base de soja.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Jalapeno cheese potato crisps; no E-numbers printed"
+ },
+ {
+  "barcode": "6111259093898",
+  "outcome": "not_found",
+  "note": "Edam cheese deli label: Arabic list partly garbled (rennet/ferment wording unclear); no French list"
+ },
+ {
+  "barcode": "6111264030598",
+  "outcome": "found",
+  "ingredients_text": "Tomate (25% concentré de tomates), huile de tournesol, sucre, amidon de maïs modifié, sel et mélange d'épices (oignon, ail, poivre blanc).",
+  "additives": "",
+  "allergens": "",
+  "note": "Montella tomato sauce"
+ },
+ {
+  "barcode": "6111242805538",
+  "outcome": "found",
+  "ingredients_text": "Sucre, sauce soja (eau, fèves de soja, sel, farine de blé), eau, amidon modifié, colorant : E150a, régulateur d'acidité : E260. Contient du soja et du gluten.",
+  "additives": "en:e150a,en:e260",
+  "allergens": "en:soybeans,en:gluten",
+  "note": "Teriyaki wok sauce (product of China); translated from English"
+ },
+ {
+  "barcode": "6111266680784",
+  "outcome": "found",
+  "ingredients_text": "Matière grasse végétale (huile de palme), lactosérum, stabilisants (E1442, E407), poudre de babeurre, fromage écrémé, sels émulsifiants (E452, E450, E339, E331), protéine du lait, sel, arôme, conservateurs (E202, E234), acidifiant (E330). 45% de MG sur ES.",
+  "additives": "en:e1442,en:e407,en:e452,en:e450,en:e339,en:e331,en:e202,en:e234,en:e330",
+  "allergens": "en:milk",
+  "note": "Spreadable cheese-type preparation; very small photo, read with French and English lines together"
+ },
+ {
+  "barcode": "6112421302244",
+  "outcome": "found",
+  "ingredients_text": "Pistaches, sel.",
+  "additives": "",
+  "allergens": "en:nuts",
+  "note": "Oncle Achour roasted salted pistachios; tiny photo but short list readable"
+ },
+ {
+  "barcode": "6111243591492",
+  "outcome": "not_found",
+  "note": "Colaimo plain yogurt: photo shows only marketing text, no ingredient list"
+ },
+ {
+  "barcode": "6111050015488",
+  "outcome": "not_found",
+  "note": "Poultry sausage: only a cropped Arabic strip, one antioxidant E-number unreadable"
+ },
+ {
+  "barcode": "6111271526282",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache pasteurisé, protéines nutritives de lait de vache, matière grasse végétale de soja, épaississant, sorbate de potassium, sel.",
+  "additives": "en:e202",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Marjane Holding 900 g spreadable cheese-type product; fat is soy vegetable fat"
+ },
+ {
+  "barcode": "6111254875048",
+  "outcome": "not_found",
+  "note": "Fayz ground coffee: marketing text only, no ingredient list"
+ },
+ {
+  "barcode": "6111255395415",
+  "outcome": "found",
+  "ingredients_text": "Thon, huile végétale, sel. Allergènes : contient du poisson et traces de soja.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Goldy Fish tuna in vegetable oil"
+ },
+ {
+  "barcode": "6111269560762",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huile végétale, poudre de cacao, poudre de lactosérum, lait en poudre, émulsifiants : lécithine de soja E322, pâte de noisettes, arôme.",
+  "additives": "en:e322",
+  "allergens": "en:milk,en:soybeans,en:nuts",
+  "note": "Cocoa and hazelnut spread; photo rotated; read from French/English lines"
+ },
+ {
+  "barcode": "6111259093591",
+  "outcome": "not_found",
+  "note": "Edam-style cheese wrapper: upside-down blurred text, partly unreadable"
+ },
+ {
+  "barcode": "6111269561219",
+  "outcome": "not_found",
+  "note": "Mega sardines box: front only, no ingredient list"
+ },
+ {
+  "barcode": "6111255111473",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, sucre, graisse végétale (palme, karité), cacao en poudre, sirop de sucre inverti, poudre de lait écrémé (4%), masse de cacao, poudre de perméat de lait, poudres levantes (bicarbonate de sodium E500ii, bicarbonate d'ammonium E503ii), amidon de maïs natif, sucrant dextrose, émulsifiants d'origine végétale (lécithine de soja E322, polyricinoléate de polyglycérol E476), sel et arôme (vanilline). Contient : blé (céréales contenant du gluten), lait et soja. Peut contenir des oeufs, fruits à coques et arachide.",
+  "additives": "en:e500ii,en:e503ii,en:e322,en:e476",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Eyo'o Cover chocolate-coated vanilla biscuit"
+ },
+ {
+  "barcode": "6111259348783",
+  "outcome": "not_found",
+  "note": "Kunafa-pistachio chocolate bar: ingredient text on edge, mostly cut off and blurred"
+ },
+ {
+  "barcode": "6111032007036",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé, crème, sucre, lait écrémé en poudre, préparations de fruits, beurre, épaississant (amidon), lactose, arômes, ferments lactiques de yaourt, sel de table, colorants naturels (lutéine). Peut contenir du gluten.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Danone-type mixed dairy product (8 x 110 g); Arabic-only label translated to French; lutein E161b not printed as an E-number"
+ },
+ {
+  "barcode": "6111242043312",
+  "outcome": "found",
+  "ingredients_text": "Pommes de terre, huile végétale (palme), sel. Peut contenir des traces de lait et produits à base de lait (y compris le lactose), céréales contenant du gluten, soja et produits à base de soja.",
+  "additives": "",
+  "allergens": "",
+  "note": "Plain salted potato crisps"
+ },
+ {
+  "barcode": "6111270440312",
+  "outcome": "found",
+  "ingredients_text": "Pistaches, huile d'olive extra vierge, sucre, huile végétale (tournesol, palme), poudre de lait écrémé, émulsifiant : lécithine de soja, sel, arôme vanille. Allergènes : pistaches (fruits à coque), lait, soja. Peut contenir des traces d'autres fruits à coque.",
+  "additives": "en:e322",
+  "allergens": "en:nuts,en:milk,en:soybeans",
+  "note": "Terra Delices pistachio spread"
+ },
+ {
+  "barcode": "6111184010694",
+  "outcome": "found",
+  "ingredients_text": "Sauce émulsionnée piquante aux oignons grillés 67% (eau, huile de colza 28%, sirop de glucose-fructose, piment rouge fort en saumure 7% (piment rouge fort, sel et vinaigre de table), vinaigre de table, jaune d'œufs, oignons grillés 1,9%, épaississant : amidon modifié, moutarde, sel, concentré de tomate, épices, antioxydants (calcium disodium EDTA, acide citrique), stabilisant : gomme xanthane, correcteur d'acidité : acide lactique et oléorésine de capsicum) et thon 33%.",
+  "additives": "en:e385,en:e330,en:e415,en:e270",
+  "allergens": "en:eggs,en:mustard,en:fish",
+  "note": "Tuna in hot grilled-onion sauce; small low-res photo but legible with Arabic line"
+ },
+ {
+  "barcode": "6111267930420",
+  "outcome": "found",
+  "ingredients_text": "100% semoule de blé dur. Contient naturellement du gluten.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Kenz Annelini pasta"
+ },
+ {
+  "barcode": "6111248552146",
+  "outcome": "found",
+  "ingredients_text": "Thon, sauce tomate pimentée (eau, huile végétale, harissa, concentré de tomate, sucre, sel, amidon et arômes).",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Mario tuna with harissa"
+ },
+ {
+  "barcode": "6111246580721",
+  "outcome": "not_found",
+  "note": "Délices du Liban 110 g bag: back shows only nutrition and producer, no ingredient list"
+ },
+ {
+  "barcode": "6111266290099",
+  "outcome": "found",
+  "ingredients_text": "Thé vert.",
+  "additives": "",
+  "allergens": "",
+  "note": "Errizk Chinese green tea 200 g"
+ },
+ {
+  "barcode": "6111179007746",
+  "outcome": "found",
+  "ingredients_text": "Eau purifiée, jus d'ananas (à base de concentré), sucre, acidifiant : acide citrique, texturant : CMC, antioxydant : vitamine C, arôme ananas, sucralose. Teneur en fruits min. 12%.",
+  "additives": "en:e330,en:e466,en:e955",
+  "allergens": "",
+  "note": "Pineapple drink (not 100% juice)"
+ },
+ {
+  "barcode": "6112222538675",
+  "outcome": "not_found",
+  "ingredients_text": "Eau purifiée, sorbitol, glycérine, propolis, gomme xanthane, benzoate de sodium, sorbate de potassium, huile essentielle d'eucalyptus globulus, huile essentielle de thymus vulgaris, huile essentielle d'eugenia caryophyllus, huile essentielle de mentha piperita.",
+  "additives": "en:e420,en:e415,en:e211,en:e202",
+  "allergens": "",
+  "note": "Produit non alimentaire. Curaxol: food supplement (propolis oral solution), not an ordinary food"
+ },
+ {
+  "barcode": "6111248270996",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, sucre, huile végétale (huile de soja raffinée), œufs frais, sirop de glucose, stabilisant (sorbitol, glycérine), lait en poudre, dextrose, poudres à lever (bicarbonate de sodium, pyrophosphate de sodium), sel, conservateur (sorbate de potassium), épaississant (gomme xanthane), émulsifiant (mono et diglycérides d'acides gras), arôme autorisé. Contient : blé, soja, œufs, lait. À ajouter selon décoration : noix de coco, sucre, sésame, fruits secs.",
+  "additives": "en:e420,en:e422,en:e500,en:e450,en:e202,en:e415,en:e471",
+  "allergens": "en:gluten,en:soybeans,en:eggs,en:milk",
+  "note": "Cake with decoration (Milkcake-type, photo rotated and crumpled); E-codes inferred from names; sesame/coconut are decoration options so sesame not flagged"
+ },
+ {
+  "barcode": "6111265980878",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisse végétale de palmistes hydrogénés, poudre de lactosérum, poudre de cacao, amande, préparation de lait, sel, arôme de vanilline, émulsifiant : lécithine de soja, E322, E476.",
+  "additives": "en:e322,en:e476",
+  "allergens": "en:milk,en:nuts,en:soybeans",
+  "note": "Small chocolate-type sweet in blue wrapper"
+ },
+ {
+  "barcode": "6111195028718",
+  "outcome": "not_found",
+  "note": "Michoc wafer: back shows only producer info; ingredient text hidden in fold"
+ },
+ {
+  "barcode": "6111273790001",
+  "outcome": "found",
+  "ingredients_text": "Miel naturel.",
+  "additives": "",
+  "allergens": "",
+  "note": "Honey 900 g (FCF Miel Pro)"
+ },
+ {
+  "barcode": "6111021002400",
+  "outcome": "found",
+  "ingredients_text": "Huile de colza 68,7%, eau, moutarde de Dijon 5,4% (eau, graines de moutarde, vinaigre, sel), jaune d'œuf 5%, vinaigre, sucre, sel, amidon modifié de maïs, jus concentré de citron, colorants : lutéine et extrait de paprika, épaississant : gomme xanthane. Traces éventuelles de lait.",
+  "additives": "en:e161b,en:e160c,en:e415",
+  "allergens": "en:eggs,en:mustard",
+  "note": "Mayonnaise (470 g)"
+ },
+ {
+  "barcode": "6111270570934",
+  "outcome": "found",
+  "ingredients_text": "Maïs goût grillé, graines de tournesol, pois chiches, amandes, raisins secs, graines de courge, cacahuètes et autres fruits secs.",
+  "additives": "",
+  "allergens": "en:nuts,en:peanuts",
+  "note": "Artesto mixed snack; label only in Arabic, translated; order of items as printed"
+ },
+ {
+  "barcode": "6111259348363",
+  "outcome": "not_found",
+  "note": "Hazelnut spread (Delicreme): French list cut off on the right by the curve of the jar"
+ },
+ {
+  "barcode": "6111262820870",
+  "outcome": "found",
+  "ingredients_text": "Sirop de glucose-fructose, abricot, eau, épaississant : pectine, régulateur d'acidité : acide citrique.",
+  "additives": "en:e440,en:e330",
+  "allergens": "",
+  "note": "Apricot jam, 35 g fruit per 100 g; translated from English/Spanish"
+ },
+ {
+  "barcode": "6111266650022",
+  "outcome": "not_found",
+  "note": "Spario whole tuna can: front only, no ingredient list"
+ },
+ {
+  "barcode": "6111259348509",
+  "outcome": "found",
+  "ingredients_text": "Graisses et huiles végétales (palme, tournesol), cacahuètes 17%, poudres laitières (poudre de lait écrémé, poudre de perméat de lactosérum, poudre de perméat de lait), masse de cacao, farine de blé, sucre, poudre de cacao, sucrant (dextrose), émulsifiant d'origine végétale (lécithine de soja E322), poudre levante (bicarbonate de sodium E500, bicarbonate d'ammonium E503), sel et arôme (vanilline). Contient : blé (céréales contenant du gluten), lait, cacahuètes et soja. Peut contenir des traces d'œufs et de fruits à coques.",
+  "additives": "en:e322,en:e500,en:e503",
+  "allergens": "en:gluten,en:milk,en:peanuts,en:soybeans",
+  "note": "Pickers Toppers peanut wafer"
+ },
+ {
+  "barcode": "6111269551852",
+  "outcome": "found",
+  "ingredients_text": "Eau, matière grasse végétale, fromage, lait écrémé, lactosérum, stabilisant (amidon modifié), sels de fonte (E452, E450, E341), arôme identique au naturel, correcteur d'acidité (acide citrique), sel, conservateur (sorbate de potassium), colorant : bêta-carotène, vitamine D3.",
+  "additives": "en:e452,en:e450,en:e341,en:e330,en:e202,en:e160a",
+  "allergens": "en:milk",
+  "note": "BDM Fromage processed cheese preparation 450 g (55% fat in dry matter); Arabic-only label translated to French"
+ },
+ {
+  "barcode": "6111264271779",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, lait écrémé, dextrose, glycose, stabilisant, huile de noix, arôme fraise. Chocolat : poudre de cacao, sucre, poudre de lait écrémé, matière grasse végétale, lécithine de soja, vanilline, cacahuètes.",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans,en:peanuts,en:nuts",
+  "note": "Strawberry/chocolate ice cream bar; photo angled, French text cut at the bottom so cross-read with Arabic list; walnut oil flagged as tree nut"
+ },
+ {
+  "barcode": "6111270530570",
+  "outcome": "not_found",
+  "note": "Fibra Vita oat flakes: marketing text, recipe and nutrition only, no ingredient list"
+ },
+ {
+  "barcode": "6111266701632",
+  "outcome": "found",
+  "ingredients_text": "Sucre, poudre de lait, graisse végétale, poudre de cacao, noisette, émulsifiant : lécithine de soja (E322), arôme noisette, sel, vanilline. Contient des fruits à coque et des produits laitiers et de soja.",
+  "additives": "en:e322",
+  "allergens": "en:nuts,en:milk,en:soybeans",
+  "note": "Ola Choco Bubbles: hazelnut chocolate substitute (compound), not real chocolate"
+ },
+ {
+  "barcode": "6111269550893",
+  "outcome": "not_found",
+  "note": "Dairy tub bottom with barcode only, no ingredient list"
+ },
+ {
+  "barcode": "6111260552490",
+  "outcome": "found",
+  "ingredients_text": "72% maquereau, huile végétale, sel.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Mackerel fillets in vegetable oil"
+ },
+ {
+  "barcode": "6111276150291",
+  "outcome": "found",
+  "ingredients_text": "Filets de maquereaux, huile végétale (huile de tournesol HT ou huile de soja HS), sel.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Mackerel fillets 125 g; read from Arabic line; soybean oil is refined so soy not flagged"
+ },
+ {
+  "barcode": "6111232004156",
+  "outcome": "found",
+  "ingredients_text": "Mélange de café arabica et robusta moulu.",
+  "additives": "",
+  "allergens": "",
+  "note": "Ground coffee; translated from Spanish"
+ },
+ {
+  "barcode": "6111242801769",
+  "outcome": "found",
+  "ingredients_text": "Aneth 100%.",
+  "additives": "",
+  "allergens": "",
+  "note": "Dried dill spice jar; the start of the ingredient line is hidden by a thumb, '100% Aneth' visible"
+ }
+]

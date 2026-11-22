@@ -1,0 +1,1297 @@
+[
+ {
+  "barcode": "8714800019897",
+  "outcome": "found",
+  "ingredients_text": "Eau minérale naturelle, sucre, malt d'orge (gluten), houblon, arôme naturel de citron 0,1%, acidifiant : acide citrique",
+  "additives": "en:e330",
+  "allergens": "en:gluten",
+  "note": "Photo penchée, liste lisible en FR/EN"
+ },
+ {
+  "barcode": "8714800023214",
+  "outcome": "found",
+  "ingredients_text": "Eau minérale naturelle, malt d'orge, maltose, houblon",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": ""
+ },
+ {
+  "barcode": "8716900563577",
+  "outcome": "not_found",
+  "note": "Liste partiellement illisible (reflets, texte coupé); produit de nutrition médicale"
+ },
+ {
+  "barcode": "8719189419429",
+  "outcome": "not_found",
+  "note": "Liste coupée sur le bord droit, partiellement illisible"
+ },
+ {
+  "barcode": "8853662040004",
+  "outcome": "found",
+  "ingredients_text": "Sirop de sucre, piment 22%, ail 8,5%, vinaigre, eau, sel, amidon modifié de tapioca, acidifiants : E330, E260 ; stabilisant : E415",
+  "additives": "en:e330,en:e260,en:e415",
+  "allergens": "",
+  "note": "Pourcentage d'ail en bord de photo"
+ },
+ {
+  "barcode": "8901047001024",
+  "outcome": "found",
+  "ingredients_text": "100% riz",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais (100% Rice); photo floue"
+ },
+ {
+  "barcode": "8901144311002",
+  "outcome": "found",
+  "ingredients_text": "Riz basmati pur",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais/arabe (Pure Basmati rice)"
+ },
+ {
+  "barcode": "8935001706588",
+  "outcome": "found",
+  "ingredients_text": "Édulcorants : maltitol (E965), sorbitol (E420), xylitol (E967), sirop de maltitol (E965), aspartame (E951), acésulfame de potassium (E950), sucralose (E955) ; gomme base, maltodextrine, arôme naturel de menthe, arômes de menthe identiques aux naturels, arômes artificiels de menthe et de vanille ; stabilisant : glycérol (E422) ; émulsifiant : lécithine de soja (E322) ; épaississants : carboxyméthylcellulose sodique (E466), gomme arabique (E414) ; agent d'enrobage : gomme laque (E904), cire de carnauba (E903) ; antioxydant : BHT (E321). Contient une source de phénylalanine.",
+  "additives": "en:e965,en:e420,en:e967,en:e951,en:e950,en:e955,en:e422,en:e322,en:e466,en:e414,en:e904,en:e903,en:e321",
+  "allergens": "en:soybeans",
+  "note": "Traduit de l'arabe (étiquette uniquement en arabe); pourcentages omis car chiffres arabes peu fiables"
+ },
+ {
+  "barcode": "8992696406711",
+  "outcome": "not_found",
+  "note": "Face avant du produit, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "9008700125154",
+  "outcome": "found",
+  "ingredients_text": "Jus de raisin rouge, eau, sucre",
+  "additives": "",
+  "allergens": "",
+  "note": "Nectar de raisin, teneur en fruit 50% minimum"
+ },
+ {
+  "barcode": "90370281",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, jus et pulpe d'orange, acidifiants : E330, E300, épaississant : E440, émulsifiants : E414, E445, arômes, colorant : E160a",
+  "additives": "en:e330,en:e300,en:e440,en:e414,en:e445,en:e160a",
+  "allergens": "",
+  "note": "Boisson au jus et à la pulpe d'orange, jus 12% minimum"
+ },
+ {
+  "barcode": "90370762",
+  "outcome": "found",
+  "ingredients_text": "Eau, anhydride carbonique, colorant E150d, édulcorants : cyclamate de sodium, acésulfame K et aspartame, acidifiant : acide phosphorique, arômes naturels (dont caféine), correcteur d'acidité : citrate trisodique. Contient une source de phénylalanine.",
+  "additives": "en:e150d",
+  "allergens": "",
+  "note": "Traduit de l'italien (pack italien, pas de version FR)"
+ },
+ {
+  "barcode": "9555027600975",
+  "outcome": "found",
+  "ingredients_text": "Avoine instantanée, fructose, inuline, enveloppe de psyllium, poudre de roselle, poudre de pandan (arôme)",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Liste FR sur la pack; produit Edmark Shake Off"
+ },
+ {
+  "barcode": "3412290040715",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache pasteurisé, ferments lactiques, sel, coagulant microbien, P. candidum",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Photo coupée en bas mais la liste semble complète"
+ },
+ {
+  "barcode": "3116740033226",
+  "outcome": "found",
+  "ingredients_text": "Sirop de glucose, sucre, sirop de glucose-fructose, crème fraîche 6,7%, lait entier concentré, beurre 4,3%, arômes, sel, colorant (E150a), émulsifiant (lécithines de soja)",
+  "additives": "en:e150a",
+  "allergens": "en:milk,en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "3250540257434",
+  "outcome": "found",
+  "ingredients_text": "Huile de colza, eau, vinaigre d'alcool, moutarde (eau, graines de moutarde brune, vinaigre d'alcool, sel, acide (330), conservateur (224)), jaune d'œuf, sirop de glucose-fructose, amidon modifié de maïs, sel, estragon (0,9%), épices, échalotes, poivre noir, dextrose, épinards, acide citrique, jus de citron concentré, épaississant (415), arôme naturel, colorants (160a, 141, 161b)",
+  "additives": "en:e330,en:e224,en:e415,en:e160a,en:e141,en:e161b",
+  "allergens": "en:mustard,en:eggs,en:sulphur-dioxide-and-sulphites",
+  "note": "Traduit de l'anglais (étiquette importée en anglais uniquement); E224 = sulfites"
+ },
+ {
+  "barcode": "3492390005494",
+  "outcome": "found",
+  "ingredients_text": "Pêche, sucres de fruits (concentrés de jus de raisin et de datte), gélifiant : pectine de fruits, jus de citron",
+  "additives": "",
+  "allergens": "",
+  "note": "Confiture de pêche St Dalfour (préparée avec 51 g de pêche pour 100 g)"
+ },
+ {
+  "barcode": "7610899170253",
+  "outcome": "found",
+  "ingredients_text": "100% café arabica",
+  "additives": "",
+  "allergens": "",
+  "note": "Étiquette multilingue, mention 100% Arabica coffee uniquement; photo floue"
+ },
+ {
+  "barcode": "8699141058098",
+  "outcome": "not_found",
+  "note": "Liste coupée sur les bords (texte FR et EN tronqué)"
+ },
+ {
+  "barcode": "4002590000633",
+  "outcome": "not_found",
+  "note": "Texte flou et caché par la boîte, liste incomplète"
+ },
+ {
+  "barcode": "3492390005470",
+  "outcome": "found",
+  "ingredients_text": "Framboise, sucres de fruits (concentrés de jus de raisin et de datte), gélifiant : pectine de fruits",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "8410014896896",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huile végétale, cacao maigre, solides lactés, noisettes, émulsifiant (lécithine de soja), lait écrémé en poudre, arômes naturels et artificiels (chocolat)",
+  "additives": "",
+  "allergens": "en:milk,en:nuts,en:soybeans",
+  "note": "Version FR partiellement cachée par un reflet, complétée avec la version EN identique sur la même étiquette. Peut contenir des amandes"
+ },
+ {
+  "barcode": "3770003943488",
+  "outcome": "found",
+  "ingredients_text": "Huile de colza, sucre, cornichons (8,9 %), eau, vinaigre, jaunes d'œufs, moutarde (eau, graines de moutarde, sel, vinaigre, curcuma), sel, extraits d'épices, amidon modifié, oignon, colorant : β-carotène, antioxydant : extrait de romarin",
+  "additives": "",
+  "allergens": "en:eggs,en:mustard",
+  "note": "Sauce émulsionnée froide aux cornichons"
+ },
+ {
+  "barcode": "8697439303769",
+  "outcome": "not_found",
+  "note": "Texte multilingue minuscule, coupé et illisible en français"
+ },
+ {
+  "barcode": "8421464010237",
+  "outcome": "not_found",
+  "note": "Face avant du produit, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "3038351484900",
+  "outcome": "found",
+  "ingredients_text": "100% semoule de blé dur de qualité supérieure",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Peut contenir des traces d'œufs"
+ },
+ {
+  "barcode": "8935001721529",
+  "outcome": "found",
+  "ingredients_text": "Édulcorants : maltitol (E965), sorbitol (E420), xylitol (E967), sirop de maltitol (E965), aspartame (E951), acésulfame de potassium (E950), sucralose (E955) ; gomme base, arôme naturel de menthe, arômes de menthe et de fraise identiques aux naturels, arôme artificiel tutti frutti, maltodextrine ; stabilisant : glycérol (E422) ; émulsifiant : lécithine de soja (E322) ; épaississants : gomme de cellulose (E466), gomme arabique (E414) ; agent d'enrobage : gomme laque (E904), cire de carnauba (E903) ; antioxydant : BHT (E321). Contient une source de phénylalanine.",
+  "additives": "en:e965,en:e420,en:e967,en:e951,en:e950,en:e955,en:e422,en:e322,en:e466,en:e414,en:e904,en:e903,en:e321",
+  "allergens": "en:soybeans",
+  "note": "Traduit de l'arabe (étiquette uniquement en arabe); pourcentages omis; saveur exacte des arômes peu certaine"
+ },
+ {
+  "barcode": "8690632047942",
+  "outcome": "not_found",
+  "note": "Photo de texte promotionnel/contact, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8429821120056",
+  "outcome": "not_found",
+  "note": "Analyse chimique de l'eau uniquement, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "6933362463722",
+  "outcome": "not_found",
+  "note": "Liste coupée sur le bord gauche, partiellement illisible"
+ },
+ {
+  "barcode": "8004800023049",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé tendre, huile de coco, sucre, sirop de glucose, lactosérum en poudre, émulsifiants : lécithine de soja, sel, poudre à lever : carbonate acide de sodium, arôme naturel de citron. Peut contenir des traces d'arachides, de fruits à coque et d'œufs.",
+  "additives": "",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Traduit de l'italien (wafer à la crème 74% au citron)"
+ },
+ {
+  "barcode": "3073780981590",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel en arabe uniquement, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8410324228424",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel et adresse du fabricant, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8430803028444",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé (27%), sucre, huiles végétales (tournesol et soja) en proportion variable, œuf (10%), humectants (sorbitol et glycérine), blanc d'œuf, poudres à lever (carbonate de sodium et acide tartrique [L(+)]), gluten de blé, conservateur (sorbate de potassium) et sel. Peut contenir des traces de fruits à coque, lait et dérivés (y compris lactose), soja, sésame et/ou dérivés.",
+  "additives": "",
+  "allergens": "en:gluten,en:eggs,en:soybeans",
+  "note": "Traduit de l'espagnol (pack espagnol uniquement)"
+ },
+ {
+  "barcode": "3341430550466",
+  "outcome": "not_found",
+  "note": "Tableau de valeurs nutritionnelles uniquement"
+ },
+ {
+  "barcode": "8410128121006",
+  "outcome": "not_found",
+  "note": "Photo trop petite, texte illisible"
+ },
+ {
+  "barcode": "5902379518832",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, chocolat au lait 27% [sucre, lait entier en poudre, beurre de cacao, pâte de cacao, lactose (de lait), lactosérum en poudre, lécithine (de soja E322)], gelée d'orange 25% [jus d'orange concentré, sirop de glucose-fructose (maïs, blé), humectant : sorbitol (E420), épaississant : pectines (E440), correcteurs d'acidité : acide citrique (E330), citrates de potassium (E333), arôme, graisse végétale, colorant : carotènes], graisse végétale (graisse végétale obtenue d'huiles végétales raffinées : huile de palme, huile de colza), sucre, sirop de glucose-fructose, arôme, sel, poudres à lever : bicarbonates d'ammonium (E503(ii)), bicarbonates de sodium (E500(ii)). Peut contenir : cacahuètes, autres fruits à coques, graines de sésame et produits dérivés, œufs.",
+  "additives": "en:e322,en:e420,en:e440,en:e330,en:e333,en:e503,en:e500",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Sablés à la gelée d'orange et au chocolat au lait"
+ },
+ {
+  "barcode": "8410095001806",
+  "outcome": "found",
+  "ingredients_text": "Abricot, sucre, épaississant : pectine, acidulant : acide citrique. Préparé avec 60 g de fruit pour 100 g.",
+  "additives": "",
+  "allergens": "",
+  "note": "Photo délavée, le mot pectine est coupé en FR mais confirmé par la version arabe"
+ },
+ {
+  "barcode": "7613033355561",
+  "outcome": "found",
+  "ingredients_text": "Lait (51,9%), sucre",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Traduit de l'espagnol (Dulce de leche)"
+ },
+ {
+  "barcode": "8422237252892",
+  "outcome": "not_found",
+  "note": "Face avant du produit, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8410525200182",
+  "outcome": "not_found",
+  "note": "Emballage froissé, texte coupé et illisible"
+ },
+ {
+  "barcode": "8435185965356",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, jus de fruits à base de concentrés 3% (fruit de la passion 1%, mangue 1%, orange 1%), dioxyde de carbone (E290), acidifiant : acide citrique (E330), conservateur : sorbate de potassium (E202), antioxydant : acide ascorbique (E300), édulcorants : sucralose (E955) et acésulfame-potassium (E950), arôme, colorants : bêta-carotène (E160a(iii))",
+  "additives": "en:e290,en:e330,en:e202,en:e300,en:e955,en:e950,en:e160a",
+  "allergens": "",
+  "note": "Boisson gazeuse avec sucre et édulcorants"
+ },
+ {
+  "barcode": "3166291526708",
+  "outcome": "found",
+  "ingredients_text": "Piment de Cayenne extra fort",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "8410095507025",
+  "outcome": "not_found",
+  "note": "Liste coupée sur le bord droit (texte espagnol tronqué)"
+ },
+ {
+  "barcode": "0740985222638",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3608580776741",
+  "outcome": "found",
+  "ingredients_text": "Fraises, sucre, sucre roux de canne, jus de citrons concentré, gélifiant : pectine de fruits",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "3073781099515",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel en arabe uniquement, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8425197800028",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel uniquement"
+ },
+ {
+  "barcode": "7622210822383",
+  "outcome": "found",
+  "ingredients_text": "Sucre, beurre de cacao, cacahuètes, lait écrémé en poudre, pâte de cacao, lactosérum en poudre (de lait), matière grasse du lait, farine de riz, émulsifiants (lécithine de soja, E476), sirop de glucose, pâte de noisettes, farine de maïs, sel, arômes, colorants (bêta-carotène, E150d), extrait de malt d'orge. Cacao : 30% minimum dans le chocolat au lait des Alpes. Peut contenir d'autres fruits à coque et du blé.",
+  "additives": "en:e476,en:e150d",
+  "allergens": "en:peanuts,en:milk,en:soybeans,en:nuts,en:gluten",
+  "note": "Traduit de l'anglais/italien/espagnol (pas de version FR sur le pack); chocolat au lait des Alpes avec cacahuètes (13%), morceaux au goût caramel (3%) et céréales croustillantes (1,5%)"
+ },
+ {
+  "barcode": "0011359650136",
+  "outcome": "found",
+  "ingredients_text": "Eau, poivron vert et rouge, oignons, huile végétale (colza, noix de coco), tomates, poudre de fromage, avocat (3,7%), amidon modifié, piments verts, sucre, sel, lactoprotéine, piment jalapeño, jus de citron concentré, acidifiant : E330, ail, épaississants : E412, E415, arômes, épices, colorants : E160a, E133, antioxygène : E300",
+  "additives": "en:e330,en:e412,en:e415,en:e160a,en:e133,en:e300",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "5905187101074",
+  "outcome": "found",
+  "ingredients_text": "Pommes de terre, huile de tournesol, sel, poudre de paprika, sucre, arôme, poudre d'oignons, extrait de levure, arômes fumées, exhausteur de goût : glutamate monosodique ; colorant : extrait de paprika",
+  "additives": "",
+  "allergens": "",
+  "note": "Peut contenir du gluten et du lait"
+ },
+ {
+  "barcode": "8906003382254",
+  "outcome": "found",
+  "ingredients_text": "Miel pur d'abeilles",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "3029330068112",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé (64%), eau, levure, sucre, huile de colza, graines de sésame (2%), gluten de blé, arôme, sel, farine de fève, conservateur : propionate de calcium, extrait d'acérola",
+  "additives": "",
+  "allergens": "en:gluten,en:sesame-seeds",
+  "note": "Présence possible de lait et œufs"
+ },
+ {
+  "barcode": "8410192107951",
+  "outcome": "not_found",
+  "note": "Image trop petite, texte quasi illisible; pas de liste d'ingrédients claire"
+ },
+ {
+  "barcode": "3492390005456",
+  "outcome": "found",
+  "ingredients_text": "Abricot, sucres de fruits (concentrés de jus de raisin et de datte), gélifiant : pectine de fruits, jus de citron",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "8480010059830",
+  "outcome": "found",
+  "ingredients_text": "Pollen de fleurs",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'espagnol (Polen de flores); image très petite mais lisible"
+ },
+ {
+  "barcode": "5420058012216",
+  "outcome": "found",
+  "ingredients_text": "Huile de colza (49,5%), eau, vinaigre, sucre (6,6%), moutarde (eau, graines de moutarde, vinaigre, sel, curcuma), concentré de tomates, jaunes d'œufs salés, extraits naturels et arôme (chili, sucre brûlé, oignon, ail, arôme), oignon, amidon modifié de maïs, sel, jaunes d'œufs en poudre, paprika en poudre, acidifiant (acide citrique), extrait de thé vert, antioxydants (EDTA, extrait de romarin), épaississant (gomme xanthane), colorants (extrait de paprika, bêta-carotène), édulcorant (0,01%) (glycosides de stéviol), arôme de fumée",
+  "additives": "",
+  "allergens": "en:eggs,en:mustard",
+  "note": ""
+ },
+ {
+  "barcode": "0054881003988",
+  "outcome": "not_found",
+  "note": "Assortiment de plusieurs thés (English Breakfast, Darjeeling, Earl Grey, etc.) : listes différentes selon le thé, pas de liste unique"
+ },
+ {
+  "barcode": "8716200395878",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé, huile végétale (huile de palme), stabilisateur (E339)",
+  "additives": "en:e339",
+  "allergens": "en:milk",
+  "note": "Lait concentré écrémé aux matières grasses végétales"
+ },
+ {
+  "barcode": "11112220",
+  "outcome": "found",
+  "ingredients_text": "Lait demi-écrémé* (origine : France) 55 %, œufs entiers frais* 12 %, crème* (origine : France) 9,4 %, chocolat* 9 % (pâte de cacao, sucre, beurre de cacao), sucre de canne*, lait écrémé en poudre* (origine : France), jaunes d'œufs frais* 2 %, cacao en poudre*, cacao maigre en poudre*. Traces de gluten. *Ingrédients issus de l'agriculture biologique.",
+  "additives": "",
+  "allergens": "en:milk,en:eggs",
+  "note": "Emballage froissé, quelques mots partiellement effacés mais liste lisible"
+ },
+ {
+  "barcode": "3015496260026",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisses végétales (palme, palmiste), poudre de lait entier, beurre de cacao, pâte de cacao, lactose, lactosérum en poudre, huile végétale (tournesol), praliné 1% (pâte de noisettes, sucre), cacao maigre en poudre, émulsifiants : lécithine de tournesol - polyricinoléate de polyglycérol, amandes, arômes (noisettes), matière grasse de lait anhydre, poudre de lait écrémé, farine de blé, farine de riz, malt d'orge, sel. Peut contenir des traces d'autres fruits à coque.",
+  "additives": "",
+  "allergens": "en:milk,en:nuts,en:gluten",
+  "note": "Bonbons de chocolat au lait fourrage au praliné"
+ },
+ {
+  "barcode": "3760161790642",
+  "outcome": "found",
+  "ingredients_text": "Feuille de mélisse* (Melissa officinalis), feuille de marjolaine* (Origanum marjorana), partie aérienne de matricaire* (Matricaria recutita), feuille de verveine* (Lippia citriodora), fleur de tilleul* (Tilia cordata). *Produit issu de l'agriculture biologique.",
+  "additives": "",
+  "allergens": "",
+  "note": "Infusion"
+ },
+ {
+  "barcode": "3015496414337",
+  "outcome": "found",
+  "ingredients_text": "Graisses végétales (palmiste, palme), sucre, cacao maigre en poudre (17%), lactose, arômes, émulsifiant : lécithine de tournesol. Peut contenir des traces de gluten et de fruits à coque.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "8711000371268",
+  "outcome": "not_found",
+  "note": "Dos de boîte de capsules café sans liste d'ingrédients"
+ },
+ {
+  "barcode": "8410000816716",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé 68%, sucre, huile de tournesol haut oléique 13%, noix de coco râpée, lactosérum en poudre, amidon de blé, miel 0,7%, œufs en poudre (équivalent à 2,3% d'œufs), poudres à lever (carbonates d'ammonium et de sodium), sel, arômes, antioxydants (E 304, E 306), extrait de malt d'orge, vitamine et sels minéraux : vitamine D, carbonate de calcium et fer. Peut contenir du soja.",
+  "additives": "en:e304,en:e306",
+  "allergens": "en:gluten,en:milk,en:eggs",
+  "note": "Ligne FR coupée à gauche, complétée avec les versions ES/EN identiques de la même étiquette"
+ },
+ {
+  "barcode": "87172676",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel uniquement"
+ },
+ {
+  "barcode": "3160929905118",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (complément alimentaire effervescent de magnésium)"
+ },
+ {
+  "barcode": "3760128640324",
+  "outcome": "found",
+  "ingredients_text": "Lait partiellement écrémé ; chocolat en poudre 5,1% (sucre, cacao en poudre) ; sucre ; carraghénanes",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Boisson lactée chocolatée; liste FR/EN sur le pack"
+ },
+ {
+  "barcode": "8714800025706",
+  "outcome": "found",
+  "ingredients_text": "Eau minérale naturelle, sucre, malt d'orge (gluten), houblon, 0,1% arôme naturel de grenade, acidifiant : acide citrique, colorant naturel : jus de baies de sureau",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Boisson maltée sans alcool à la grenade; photo penchée mais lisible"
+ },
+ {
+  "barcode": "3700225600258",
+  "outcome": "not_found",
+  "ingredients_text": "Sirop d'agave 40%, eau purifiée, fibres d'acacia 15%, extrait hydroglycériné de plantes 7,5% (eau, glycérine végétale, carotte, cresson, épinard, betterave, persil), complexe de vitamines et minéraux : vitamines C, E, B1, B2, B3, B5, B6, B8, B9, B12, D3, bêtacarotène naturel, gluconates de fer, de magnésium, de manganèse, de cuivre, de zinc et de potassium, molybdate de sodium, sélénite de sodium, iodure de potassium, chlorure de chrome ; concentré naturel d'abricot, arômes dont arômes naturels d'orange et d'abricot, conservateur : sorbate de potassium, concentré naturel d'ananas, correcteur d'acidité : acide citrique",
+  "additives": "",
+  "allergens": "",
+  "note": "Produit non alimentaire. Sirop de vitamines (complément alimentaire liquide)"
+ },
+ {
+  "barcode": "5420058012230",
+  "outcome": "found",
+  "ingredients_text": "Huile de colza (49,6%), eau, sucre (10,6%), cornichons (7,3%), vinaigre, jaunes d'œufs salés, moutarde (eau, graines de moutarde, vinaigre, sel, curcuma), purée de tomates, extraits naturels et arôme (ail, anchois, aneth, poivre, clou de girofle, arôme thé vert) (contient poisson, sulfites), oignon en poudre, sel, amidon modifié de maïs, jaunes d'œufs en poudre, acidifiant (acide citrique), antioxydants (extrait de romarin, EDTA), colorant (bêta-carotène)",
+  "additives": "",
+  "allergens": "en:eggs,en:mustard,en:fish,en:sulphur-dioxide-and-sulphites",
+  "note": ""
+ },
+ {
+  "barcode": "3275920069605",
+  "outcome": "found",
+  "ingredients_text": "Vinaigre de vin (contient sulfites), moût de raisin concentré, moût de raisin cuit, colorant : E150d/SIN150d (contient sulfites)",
+  "additives": "en:e150d",
+  "allergens": "en:sulphur-dioxide-and-sulphites",
+  "note": ""
+ },
+ {
+  "barcode": "8853662060019",
+  "outcome": "not_found",
+  "note": "Liste FR coupée/illisible sur le bord droit de la bouteille"
+ },
+ {
+  "barcode": "8691707094007",
+  "outcome": "found",
+  "ingredients_text": "Crème au lait (39%) : (sucre, huile végétale (palme), lactosérum en poudre (lait), lait écrémé en poudre, émulsifiant (lécithine de tournesol), arôme (vanilline)), crème au cacao (39%) : (sucre, huile végétale (palme), lactosérum en poudre (lait), poudre de cacao (8%), lait écrémé en poudre, noisette (1%), émulsifiant (lécithine de tournesol), arôme (noisette)). Gaufrette (18%) (farine de blé, huile végétale (palme), poudre de cacao, sel, émulsifiant (lécithine de soja), poudre à lever (bicarbonate de sodium)), noisette (4%). Peut contenir des arachides, de la pistache.",
+  "additives": "",
+  "allergens": "en:milk,en:nuts,en:gluten,en:soybeans",
+  "note": "Traduit de l'anglais (gaufrette au lait et à la crème noisette 80 g)"
+ },
+ {
+  "barcode": "8435185965417",
+  "outcome": "found",
+  "ingredients_text": "Eau, sucre, jus de pamplemousse à base de concentrés (1%), dioxyde de carbone (E290), acidifiant : acide citrique (E330), arôme, émulsifiant : succinate octénylique d'amidon sodique (E1450), conservateur : sorbate de potassium (E202), antioxydant : acide ascorbique (E300), édulcorants : sucralose (E955) et acésulfame-potassium (E950), colorants : tartrazine (E102) et vert S (E142)",
+  "additives": "en:e290,en:e330,en:e1450,en:e202,en:e300,en:e955,en:e950,en:e102,en:e142",
+  "allergens": "",
+  "note": "Photo floue mais lisible; boisson gazeuse pamplemousse"
+ },
+ {
+  "barcode": "5999076225958",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3608580007586",
+  "outcome": "found",
+  "ingredients_text": "Pommes (purée et purée concentrée) 54,8 %, poires 45 %, extrait d'acérola",
+  "additives": "",
+  "allergens": "",
+  "note": "Compote pomme-poire sans sucres ajoutés"
+ },
+ {
+  "barcode": "6134961000008",
+  "outcome": "found",
+  "ingredients_text": "Sucre, farine de blé, fourrée saveur noisette (14%) [eau, graisses végétales (palme, coprah), sucre, sirop de glucose-fructose, huiles végétales (tournesol alto oleico et tournesol) en proportion variable, lait écrémé en poudre, amidon modifié de maïs, humectant : SIN 422, épaississant : SIN 440, émulsifiants : SIN 322 (soja) et SIN 471, caramel, arôme, acidifiant : SIN 270, sel, conservateur : SIN 202 et protéines de lait], sirop de glucose-fructose, couverture spéciale avec graisse végétale (10%) [sucre, graisses végétales (palme, palmiste) en proportion variable, cacao dégraissé en poudre, émulsifiant : lécithine de soja et arôme], œuf, humectants : SIN 420 et SIN 422, lactosérum en poudre (lait), poudres à lever : SIN 450 et 500, émulsifiant : SIN 471, conservateur : SIN 202, sel, acidifiants : SIN 262 et SIN 270 et arôme. Peut contenir des traces de graines de sésame et/ou produits dérivés.",
+  "additives": "en:e422,en:e440,en:e322,en:e471,en:e270,en:e202,en:e420,en:e450,en:e500,en:e262",
+  "allergens": "en:gluten,en:milk,en:soybeans,en:eggs",
+  "note": "Numéros SIN = numéros E"
+ },
+ {
+  "barcode": "0054881007535",
+  "outcome": "found",
+  "ingredients_text": "Thé vert, arôme, zestes de citron 3%",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "7622210834829",
+  "outcome": "found",
+  "ingredients_text": "Sucre, beurre de cacao, lait écrémé en poudre (de vache), pâte de cacao, lactosérum en poudre (de lait), matière grasse du lait, émulsifiant (lécithine de soja), pâte de noisettes, arôme artificiel de vanilline. Le chocolat au lait contient : au moins 25 % de cacao. Peut contenir : blé, autres fruits à coque.",
+  "additives": "",
+  "allergens": "en:milk,en:nuts,en:soybeans",
+  "note": "Traduit de l'anglais/arabe (pas de version FR); \"Contains: milk, hazelnuts, soya\""
+ },
+ {
+  "barcode": "7613035783164",
+  "outcome": "found",
+  "ingredients_text": "Céréales (flocons d'avoine complète 59,7 %, farine d'avoine complète), sirop de sucre (sucre, sirop de sucre inverti, mélasse), chocolat 7,9 % (sucre, pâte de cacao, beurre de cacao, émulsifiant : lécithine de soja), pétales de blé grillés maltés (blé, extrait de malt d'orge, émulsifiant : lécithine de tournesol), pépites de riz soufflé (farine de riz, farine de blé, sucre, malt de blé, émulsifiant : lécithine de tournesol), huile de tournesol, minéral : carbonate de calcium, poudre de cacao, sel, arôme naturel, antioxydant : tocophérols. Contient du gluten. Peut contenir du lait, soja et fruits à coque.",
+  "additives": "",
+  "allergens": "en:gluten,en:soybeans",
+  "note": "Photo sombre, texte en partie déduit de la version arabe; ordre des sous-ingrédients à vérifier"
+ },
+ {
+  "barcode": "8002590045647",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé complète 35%, farine de céréales 31% (avoine, orge, seigle, maïs, riz), huile végétale, sucre, flocons de maïs 6%, fibre soluble de glucose, extrait de malt d'orge et de maïs, amidon de blé, fibre d'avoine, sel, bicarbonate d'ammonium, arôme. Ce produit contient blé, avoine, orge et seigle. Peut contenir des traces de fruits à coque, lait, sulfites, soja, œufs et arachides.",
+  "additives": "en:e503",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'espagnol (pack espagnol uniquement)"
+ },
+ {
+  "barcode": "0040232700477",
+  "outcome": "found",
+  "ingredients_text": "Beurre de cacahuètes, sucre, miel, huiles végétales hydrogénées (graines de colza, graines de coton, soja), sel, huile d'arachide",
+  "additives": "",
+  "allergens": "en:peanuts,en:soybeans",
+  "note": "Beurre de cacahuètes au miel"
+ },
+ {
+  "barcode": "8699580000115",
+  "outcome": "found",
+  "ingredients_text": "Pomme (58%), fleur d'okra, feuilles de mûrier, arôme, zestes de citron, cannelle",
+  "additives": "",
+  "allergens": "",
+  "note": "Infusion pomme; ligne FR lisible (okra bloom = fleur d'hibiscus selon les autres langues)"
+ },
+ {
+  "barcode": "0712345678911",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (crème cosmétique, photo du code-barres)"
+ },
+ {
+  "barcode": "8437002292409",
+  "outcome": "found",
+  "ingredients_text": "Eau gazéifiée, sucre, sirop de glucose-fructose, acide citrique, correcteur d'acidité : citrate de sodium, taurine, caféine, glucuronolactone, arôme, colorants : caramel ammoniacal et riboflavines, inositol, niacine, acide pantothénique, vitamines B6 et B12. Pasteurisé.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais (étiquette en anglais uniquement); boisson énergisante"
+ },
+ {
+  "barcode": "5602835000412",
+  "outcome": "found",
+  "ingredients_text": "Yaourt (1,2% matières grasses), sucre, amidon modifié, épaississant : pectines",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Liste FR lisible sur le pack multilingue"
+ },
+ {
+  "barcode": "14250215",
+  "outcome": "found",
+  "ingredients_text": "Sirop de glucose-fructose, vinaigre, purée de tomates, eau, sauce caramel (sucre, sirop de glucose-fructose, eau), sucre candi, amidon modifié, sel, mélasse, dextrose fumé, conservateurs : sorbate de potassium - benzoate de sodium, colorant : caramel ammoniacal, acidifiant : acide citrique, arôme de fumée, épaississants : farine de graines de caroube - gomme xanthane. Peut contenir des traces de gluten, poisson, soja, lait, céleri, moutarde et sulfites.",
+  "additives": "",
+  "allergens": "",
+  "note": "Photo courbée, début partiellement déformé"
+ },
+ {
+  "barcode": "8434893000007",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, pépites de chocolat (21%) [sucre, pâte de cacao, beurre de cacao, dextrose et émulsifiant (lécithine de soja)], sucre, huile de tournesol oléique (11%) (contient des antioxydants : extrait riche en tocophérols et E304), sérum du lait en poudre, dextrose, poudre à lever (bicarbonate d'ammonium et bicarbonate de sodium), sel, émulsifiant (lécithine de soja) et arômes. Peut contenir des traces de sésame et de fruits à coque.",
+  "additives": "en:e304",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Biscuit aux pépites de chocolat"
+ },
+ {
+  "barcode": "8411859552152",
+  "outcome": "found",
+  "ingredients_text": "Pommes de terre, huile de tournesol (32,1%) et sel. Peut contenir des protéines de lait.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'espagnol/anglais"
+ },
+ {
+  "barcode": "6952128501065",
+  "outcome": "not_found",
+  "note": "Photo floue, texte illisible (THE VERT seulement)"
+ },
+ {
+  "barcode": "3770003943457",
+  "outcome": "not_found",
+  "note": "Texte abîmé par un pli, plusieurs mots illisibles"
+ },
+ {
+  "barcode": "3179730011864",
+  "outcome": "not_found",
+  "note": "Teneur en minéraux de l'eau uniquement, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "5900396024077",
+  "outcome": "found",
+  "ingredients_text": "Thé vert 85,3 %, citronnelle, zeste de citron 4 %, arôme, zeste de limette",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "9006900211356",
+  "outcome": "found",
+  "ingredients_text": "Eau, purée de framboise (12%), sucre, purée de pomme, jus concentré de carotte noire, acide citrique, vitamine C, arôme",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais (seule version lisible); boisson à la framboise, teneur en fruit 20%"
+ },
+ {
+  "barcode": "3608580776772",
+  "outcome": "found",
+  "ingredients_text": "Fruits 50% (fraises 16%, cerises 14%, groseilles 12%, framboises 8%), sucre, sucre roux de canne, jus de citrons concentré, gélifiant : pectines de fruits. Peut contenir des noyaux.",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "3228022970140",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache pasteurisé, sel, ferments lactiques, enzyme microbienne",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Photo légèrement coupée au bord mais liste complète"
+ },
+ {
+  "barcode": "8410707124671",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel coréen, pas de liste d'ingrédients lisible"
+ },
+ {
+  "barcode": "4250107600917",
+  "outcome": "found",
+  "ingredients_text": "Édulcorant : xylitol, gomme base, arômes, agent hydratant : glycérine, épaississant : gomme arabique, émulsifiant : lécithine de soja, colorant : dioxyde de titane, agent d'enrobage : cire de carnauba",
+  "additives": "",
+  "allergens": "en:soybeans",
+  "note": "Chewing-gum sans sucre"
+ },
+ {
+  "barcode": "8690632706689",
+  "outcome": "found",
+  "ingredients_text": "Céréales (semoule de maïs, grains de maïs entiers), sucre, miel 2,2%, extrait de malt d'orge (contient du gluten), dextrose, vitamines et sels minéraux (calcium, niacine (B3), fer, acide pantothénique (B5), acide folique (B9), vitamine B6, riboflavine (B2)), sirop de glucose, sel, antioxydant : tocophérols. Peut contenir du lait et du soja.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'arabe (pack arabe uniquement); photo froissée, liste de vitamines possiblement incomplète"
+ },
+ {
+  "barcode": "3341430530055",
+  "outcome": "not_found",
+  "note": "Valeurs nutritionnelles uniquement, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "7622210834713",
+  "outcome": "found",
+  "ingredients_text": "Sucre, noisettes (20%), beurre de cacao, lait écrémé en poudre (de vache), pâte de cacao, lactosérum en poudre (de lait), matière grasse du lait, émulsifiant (lécithine de soja), pâte de noisettes, arôme artificiel de vanilline. Le chocolat au lait contient : au moins 25 % de matières sèches de cacao. Peut contenir : blé, autres fruits à coque.",
+  "additives": "",
+  "allergens": "en:milk,en:nuts,en:soybeans",
+  "note": "Traduit de l'anglais/arabe; Milka noisettes entières"
+ },
+ {
+  "barcode": "80215936",
+  "outcome": "found",
+  "ingredients_text": "Sucre, extrait de réglisse (25%), maltodextrine, arômes ; colorant : E151",
+  "additives": "en:e151",
+  "allergens": "",
+  "note": "Pastilles à la réglisse Mental"
+ },
+ {
+  "barcode": "8410175068439",
+  "outcome": "found",
+  "ingredients_text": "Abricot, eau, édulcorants (sirop de sorbitol, glucosides de stéviol, sucralose et acésulfame K), concentré de citron, gélifiant (pectine et chlorure de calcium), conservateur (sorbate de potassium) et concentré d'acérola",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'espagnol; photo d'un texte tapé"
+ },
+ {
+  "barcode": "7622210834577",
+  "outcome": "found",
+  "ingredients_text": "Chocolat au lait (53%) : sucre, beurre de cacao, lait écrémé en poudre (de vache), pâte de cacao, lactosérum en poudre (de lait), matière grasse du lait, émulsifiant (lécithine de soja), pâte de noisettes, arôme artificiel de vanilline. Le chocolat au lait contient : au moins 25 % de cacao. Fourrage à la vanille (32%) : huile végétale non hydrogénée (fruit du palmier), sucre, perméat de lactosérum (de lait), lait entier en poudre (de vache), émulsifiant (lécithine de soja), arôme artificiel de vanilline. Fourrage au caramel (15%) : sirop de glucose, sucre, huile de palmiste partiellement hydrogénée, lait entier en poudre, sel, émulsifiants (lécithine de soja), arôme artificiel de vanilline. Peut contenir : blé, autres fruits à coque.",
+  "additives": "",
+  "allergens": "en:milk,en:nuts,en:soybeans",
+  "note": "Traduit de l'anglais/arabe (pack importé au Maroc); photo en partie froissée"
+ },
+ {
+  "barcode": "5400141033014",
+  "outcome": "not_found",
+  "note": "Dos de boîte de café avec instructions de préparation, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0631656710496",
+  "outcome": "found",
+  "ingredients_text": "Mélange de protéines premium (peptides de lactosérum, isolat de protéines de lactosérum, isolat de protéines de lactosérum 97%), concentré de protéines de lactosérum, cacao (traité à l'alcali), lécithine de soja, sel, arôme naturel et artificiel, mélange de gommes (gomme de cellulose, gomme xanthane, carraghénane, dextrose), dioxyde de silicium, acésulfame-potassium, sucralose. Contient du lait et du soja. Fabriqué dans une usine qui traite aussi arachides, fruits à coque, œufs, poisson/crustacés/huile de mollusques et blé.",
+  "additives": "en:e322,en:e466,en:e415,en:e407,en:e551,en:e950,en:e955",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Traduit de l'anglais (étiquette US); poudre de protéines (sport)"
+ },
+ {
+  "barcode": "5053827185479",
+  "outcome": "found",
+  "ingredients_text": "Maïs, sucre, arôme de malt d'orge, sel. Vitamines et minéraux : vitamines (niacine, B6, B2, B1, acide folique, D, B12) et fer. Peut contenir arachide.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Pétales de maïs glacés au sucre"
+ },
+ {
+  "barcode": "8695077028624",
+  "outcome": "not_found",
+  "note": "Liste en anglais coupée en bas (noix de cajou, amandes...), incomplète"
+ },
+ {
+  "barcode": "5900852927522",
+  "outcome": "found",
+  "ingredients_text": "40% carotte, 18% pomme de terre, 18% tomate, 12,6% haricots blancs, 10% bœuf, huile de colza. Sans gluten. Sans protéines de lait de vache.",
+  "additives": "",
+  "allergens": "",
+  "note": "Pot au feu carotte bœuf pour bébés; texte déformé par la courbure mais liste FR lisible"
+ },
+ {
+  "barcode": "8076809547956",
+  "outcome": "found",
+  "ingredients_text": "Semoule de blé dur, eau. Peut contenir des traces d'œuf.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'anglais"
+ },
+ {
+  "barcode": "3492390005555",
+  "outcome": "found",
+  "ingredients_text": "Mirabelle, sucres de fruits (concentrés de jus de raisin et de datte), gélifiant : pectine de fruits, jus de citron",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "8480017506603",
+  "outcome": "not_found",
+  "note": "Texte tronqué et flou, liste d'ingrédients illisible"
+ },
+ {
+  "barcode": "6934235481263",
+  "outcome": "not_found",
+  "note": "Seulement dates de production et de péremption"
+ },
+ {
+  "barcode": "3191220000110",
+  "outcome": "not_found",
+  "note": "Seulement coordonnées du fabricant"
+ },
+ {
+  "barcode": "8411414013692",
+  "outcome": "not_found",
+  "note": "Texte coupé en haut et sur les côtés, liste incomplète"
+ },
+ {
+  "barcode": "2000068002501",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache pasteurisé, sel, présure (agent de fermentation), colorant : carotène",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Traduit de l'arabe; fromage Edam tendre Frico; texte arabe seul. Colorant carotène (E160a probable, non écrit)"
+ },
+ {
+  "barcode": "8697439301215",
+  "outcome": "found",
+  "ingredients_text": "Crème au lait : [sucre, huile de noix de coco, lait entier en poudre, lait écrémé en poudre, sirop de glucose, lactosérum en poudre, dextrose, émulsifiant (lécithine de soja E-322), extrait de vanille Bourbon, arôme, sel]. Feuille de gaufrette : [farine de blé (contient du gluten), amidon, émulsifiant (lécithine de soja E-322), sel, agents levants (bicarbonate de sodium, bicarbonate d'ammonium), huile végétale (huile de palme), extrait de levure, extrait de malt]. Peut contenir des traces de noisettes, pistaches, amandes, arachides, noix, gluten de blé, sésame, œuf.",
+  "additives": "en:e322",
+  "allergens": "en:milk,en:soybeans,en:gluten",
+  "note": "Traduit du portugais/roumain/anglais; photo en partie illisible mais liste complète recoupée entre langues; NB: arômes/sel d'origine"
+ },
+ {
+  "barcode": "8711000357965",
+  "outcome": "not_found",
+  "note": "Pas de liste d'ingrédients (texte promotionnel)"
+ },
+ {
+  "barcode": "4017100248214",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, sucre, graisse végétale (palme, coco), beurre de cacao, pâte de cacao, lait entier en poudre (4,6%), sirop de glucose, lait écrémé en poudre (1,1%), produits de lactosérum, beurre clarifié, noisettes moulues, sel, émulsifiant : lécithines (soja), arôme (lait), poudres à lever : carbonates de sodium, diphosphates ; amidon (blé), acidifiant : acide citrique ; jaune d'œuf en poudre. Chocolat au lait (31%).",
+  "additives": "en:e322,en:e500,en:e450,en:e330",
+  "allergens": "en:gluten,en:milk,en:nuts,en:soybeans,en:eggs",
+  "note": "Traduit de l'anglais"
+ },
+ {
+  "barcode": "3228024006076",
+  "outcome": "not_found",
+  "note": "Liste d'ingrédients absente (seulement description du fromage)"
+ },
+ {
+  "barcode": "3560070195893",
+  "outcome": "found",
+  "ingredients_text": "Saumon atlantique (Salmo salar 97%), sel",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": "Fin de liste coupée au bord (sel); extrait lisible"
+ },
+ {
+  "barcode": "8712092007592",
+  "outcome": "found",
+  "ingredients_text": "Fromage (lait), eau, beurre (lait), lactosérum en poudre (lait), sels de fonte (E452, E450, E331), lait écrémé en poudre",
+  "additives": "en:e452,en:e450,en:e331",
+  "allergens": "en:milk",
+  "note": "Traduit de l'anglais; fromage à tartiner"
+ },
+ {
+  "barcode": "7622210834430",
+  "outcome": "found",
+  "ingredients_text": "Sucre, raisins secs (19%), beurre de cacao, lait écrémé en poudre (de vache), pâte de cacao, lactosérum en poudre (de lait), noisettes (5%), matière grasse du lait, émulsifiant (lécithine de soja), pâte de noisettes, arôme artificiel de vanilline. Le chocolat au lait contient : au moins 25 % de cacao. Peut contenir : blé, autres fruits à coque.",
+  "additives": "",
+  "allergens": "en:milk,en:nuts,en:soybeans",
+  "note": "Traduit de l'anglais/arabe"
+ },
+ {
+  "barcode": "8437008505640",
+  "outcome": "found",
+  "ingredients_text": "Pommes de terre, huile de tournesol et pommes de terre, arôme (oignon en poudre, lactose, lactosérum, sel, maltodextrine, épices, poudre de fromage), exhausteur de goût : E621 et régulateur d'acidité : E262ii. Contient du lait. Peut contenir des traces de gluten, soja.",
+  "additives": "en:e621,en:e262",
+  "allergens": "en:milk",
+  "note": "Ligne 2 coupée à droite; liste plausible mais début \"et pommes de terre\" peu clair"
+ },
+ {
+  "barcode": "8695077005083",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé (contient du gluten), huile végétale (palme), sucre blanc, sésame (11%), sirop de sucre inverti, sirop de glucose, poudres à lever (bicarbonate d'ammonium, bicarbonate de sodium, pyrophosphate acide de sodium), poudre de petit-lait (produit laitier), sel de qualité alimentaire, conservateur (métabisulfite de sodium). Peut contenir des traces de noisettes, œuf, pistaches, soja.",
+  "additives": "en:e450,en:e223,en:e500,en:e503",
+  "allergens": "en:gluten,en:sesame-seeds,en:milk,en:sulphur-dioxide-and-sulphites",
+  "note": "Traduit du turc/arabe (pack turc/arabe uniquement); métabisulfite = E223"
+ },
+ {
+  "barcode": "5412158009807",
+  "outcome": "found",
+  "ingredients_text": "Sucre de canne*, amandes* (23%), amidon de maïs*, œuf*, margarine* (graisse végétale (graisse de palme, graisse de coco), huile végétale (huile de tournesol), eau, antioxydant (acide citrique, lécithine de tournesol)), fécule*, farine de riz*, eau, beurre* (lait), lait écrémé en poudre*, farine de maïs*, épaississant (gomme de guar*), protéines en poudre*, vanille bourbon*, sel, agent de levain (carbonate de sodium), farine de lupin. *De l'agriculture biologique contrôlée. Peut contenir des traces d'œuf, de soja, de lait, de noix, de lupin et de sésame.",
+  "additives": "en:e330,en:e412,en:e500",
+  "allergens": "en:nuts,en:eggs,en:milk,en:lupin",
+  "note": "Biscuits aux noix sans gluten (amandes)"
+ },
+ {
+  "barcode": "8434165437326",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, huiles végétales (tournesol haut oléique et palme), édulcorants (maltitol, sirop de maltitol, sucralose), son de blé, sirop de fructo-oligosaccharides, poudres à lever (bicarbonates de sodium et d'ammonium), sel, antioxydants (E 304, E 306) et acidifiant (acide tartrique). Peut contenir œuf, lait et soja.",
+  "additives": "en:e304,en:e306,en:e500,en:e503,en:e334",
+  "allergens": "en:gluten",
+  "note": "Biscuit sans sucres ajoutés; une consommation excessive peut avoir des effets laxatifs"
+ },
+ {
+  "barcode": "8695077014160",
+  "outcome": "found",
+  "ingredients_text": "Chocolat au lait 52% [sucre, lait entier en poudre, beurre de cacao, pâte de cacao, émulsifiant (lécithine de soja), arôme (vanilline). Cacao : 30% minimum], chocolat blanc 35% [sucre, beurre de cacao, lait entier en poudre, lait écrémé en poudre, émulsifiant (lécithine de soja), arôme (vanilline)], blé soufflé 13% [farine de blé (contient du gluten), sucre, farine de riz, extrait de malt (contient du gluten), sel, gluten de blé, arôme (vanilline), poudre à lever (carbonate de calcium), arôme (caramel)], agent d'enrobage (gomme arabique). Peut contenir des traces de noisettes, pistaches et amandes.",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans,en:gluten",
+  "note": "Traduit de l'anglais/turc (le FR de la photo est une mauvaise traduction automatique); billes croustillantes chocolat"
+ },
+ {
+  "barcode": "8412674105172",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé 35,2%, crème parfum vanille 30% (huile végétale 9,2% (tournesol), édulcorant (maltitol), fibre végétale, lait écrémé en poudre, amidon de blé, arôme, émulsifiant (lécithines (tournesol))), édulcorant (maltitol), huile végétale 10,4% (tournesol), amidon de blé, cacao dégraissé en poudre 2,9%, poudres à lever (carbonate acide de sodium, carbonate acide d'ammonium), sel, émulsifiant (lécithines (tournesol)), arôme. Peut contenir des traces de soja, sulfites, fruits à coque.",
+  "additives": "",
+  "allergens": "en:gluten,en:milk",
+  "note": "Premier mot (\"Ingrédients\") coupé mais liste complète"
+ },
+ {
+  "barcode": "8711000429969",
+  "outcome": "not_found",
+  "note": "Pas de liste d'ingrédients (description du café en capsules)"
+ },
+ {
+  "barcode": "3263670516111",
+  "outcome": "found",
+  "ingredients_text": "Filets de sardines (Sardina pilchardus), huile d'olive vierge extra, sel",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": ""
+ },
+ {
+  "barcode": "0024300061301",
+  "outcome": "found",
+  "ingredients_text": "Sucre, sirop de maïs, eau, farine de blé enrichie, huiles de palme et de palmiste, dextrose, cacao en poudre, huile de soja, œuf entier séché (œuf entier séché, silicate d'aluminium et de sodium), amidon de maïs, lactosérum en poudre, sel, farine de soja, colorant, bicarbonate de sodium, monostéarate de sorbitane, acide sorbique, phosphate d'aluminium et de sodium, polysorbate 60, lécithine de soja, mono- et diglycérides, blanc d'œuf séché (blanc d'œuf séché, laurylsulfate de sodium), arômes naturels et artificiels, acide citrique. Contient blé, œuf, lait et soja. Peut contenir arachides et fruits à coque.",
+  "additives": "en:e500,en:e493,en:e200,en:e322,en:e471,en:e330,en:e435",
+  "allergens": "en:gluten,en:eggs,en:milk,en:soybeans",
+  "note": "Traduit de l'anglais (pack US, Little Debbie); additifs déduits de noms écrits"
+ },
+ {
+  "barcode": "6939945100183",
+  "outcome": "found",
+  "ingredients_text": "Eau, fèves de soja sélectionnées (non OGM), sel, caramel (E150), farine de blé, glutamate monosodique (E621), champignon, sorbate de potassium (E202). Allergènes : soja, blé.",
+  "additives": "en:e150,en:e621,en:e202",
+  "allergens": "en:soybeans,en:gluten",
+  "note": "Traduit de l'anglais"
+ },
+ {
+  "barcode": "8435483514423",
+  "outcome": "found",
+  "ingredients_text": "Mélange de protéines laitières, couverture de chocolat blanc (sucre, beurre de cacao, lait entier en poudre, lait écrémé en poudre, émulsifiant (lécithine de soja) et arôme), sirop de glucose et fructose, humectants (glycérine et sorbitol), huile de tournesol, lait écrémé en poudre, sucre, polydextrose, inuline, biscuit moulu (contient gluten, sulfites et lait), arômes, émulsifiant (lécithine de soja), acidifiant (acide citrique), conservateur (sorbate de potassium) et antioxydants (extrait riche en tocophérols et huile de tournesol). Peut contenir des traces de fruits à coque, œufs et graines de sésame.",
+  "additives": "en:e322,en:e422,en:e420,en:e330,en:e202",
+  "allergens": "en:milk,en:soybeans,en:gluten,en:sulphur-dioxide-and-sulphites",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "8990800000015",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel uniquement"
+ },
+ {
+  "barcode": "30118829",
+  "outcome": "found",
+  "ingredients_text": "Sucre, sirop de glucose, lait, sel, beurre, arômes, acidifiant : acide citrique. Peut contenir des traces de fruits à coque.",
+  "additives": "en:e330",
+  "allergens": "en:milk",
+  "note": "Bonbons Barnier caramel beurre salé citron"
+ },
+ {
+  "barcode": "40953892",
+  "outcome": "not_found",
+  "note": "Liste incomplète (seulement jus d'orange, fraise, antioxydants, très flou)"
+ },
+ {
+  "barcode": "8437007759839",
+  "outcome": "found",
+  "ingredients_text": "Sel marin, huiles végétales* (palme*, tournesol*), poudre de miso (22,4%) (soja*, orge*, sel marin), légumes* (2,9%) (poireau*, persil*), farine de riz*, épices* (coriandre*, poivre*, macis*, gingembre*). (*issu de l'agriculture biologique). Contient gluten et soja.",
+  "additives": "",
+  "allergens": "en:soybeans,en:gluten",
+  "note": "Traduit de l'anglais (bouillon miso végétal)"
+ },
+ {
+  "barcode": "8801045524672",
+  "outcome": "found",
+  "ingredients_text": "Nouilles (81%) : farine de blé, amidon modifié (1420), huile de palme, gluten de blé, sel, huile émulsifiée [oligosaccharide, huile de soja (antioxydant (307b))], émulsifiants (322 (soja), 471), extrait de levure, régulateurs d'acidité (450, 451, 500, 501), extrait de thé vert, colorant (101). Soupe en poudre : sel, assaisonnement à la levure en poudre (sel, dextrine, extrait de levure), poudre de sauce soja (soja, blé), glucose, protéines végétales hydrolysées (soja, blé), poudre d'assaisonnement piment rouge (sauce soja, extrait de levure, pâte de piment rouge, pâte de soja), poudre d'ail, sucre, poudre de légumes (ail, dextrine, oignon), poudre d'extrait de levure, farine de maïs, poudre de piment rouge, exhausteurs de goût (627, 631), poivre noir en poudre, émulsifiant (412), extrait de piment, acide malique, gingembre en poudre. Soupe au fromage en poudre (8,1%) : fromage en poudre (fromage, lactosérum, huile de palme, dextrine), crème de lait en poudre. Mélange de légumes déshydratés : carotte, chou, épinard, maïs séchés. Contient : blé, gluten, soja, lait. Peut contenir : œuf, poisson, mollusque, crustacé, arachide, sésame.",
+  "additives": "en:e1420,en:e307b,en:e322,en:e471,en:e450,en:e451,en:e500,en:e501,en:e101,en:e627,en:e631,en:e412",
+  "allergens": "en:gluten,en:soybeans,en:milk",
+  "note": "Traduit de l'anglais; E307b/E101 d'après numéros"
+ },
+ {
+  "barcode": "0076808007336",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, huile de tournesol, farine de pomme de terre, fécule de pomme de terre, amidon de maïs modifié, sirop de glucose, tomate déshydratée, sel marin, arôme naturel, sel, agent levant (carbonate acide d'ammonium), origan. Contient du blé. Peut contenir des traces de fruits à coque, lait, soja et œufs.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'anglais (pack US Barilla)"
+ },
+ {
+  "barcode": "3073781099379",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel uniquement"
+ },
+ {
+  "barcode": "8410111009571",
+  "outcome": "found",
+  "ingredients_text": "Thon 65 % et sauce tomate 35 % (eau, huile de soja, concentré de tomate (7%), glucose, sucre, sel et arôme)",
+  "additives": "",
+  "allergens": "en:fish,en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "8690146102342",
+  "outcome": "not_found",
+  "note": "Photo floue, illisible"
+ },
+ {
+  "barcode": "3017800152201",
+  "outcome": "found",
+  "ingredients_text": "Flageolets verts, eau, sel, affermissant : chlorure de calcium",
+  "additives": "en:e509",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "8695077006639",
+  "outcome": "found",
+  "ingredients_text": "Framboise, sucre, glucose, pectine (E440), acide citrique (E330). Pour 100 g de confiture : concentration de fruit 45 g.",
+  "additives": "en:e440,en:e330",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "8690562070515",
+  "outcome": "not_found",
+  "ingredients_text": "Farine de blé (contient du gluten), huile végétale (palme), sucre blanc, sel de qualité alimentaire, arômes (banane, vanille), émulsifiant (lécithine de soja), poudres à lever (bicarbonate de sodium, bicarbonate d'ammonium), correcteur d'acidité (acide citrique), colorant (bêta-carotène), poudre de banane (0,005%), lait écrémé en poudre.",
+  "additives": "en:e322,en:e500,en:e503,en:e330,en:e160a",
+  "allergens": "en:gluten,en:soybeans,en:milk",
+  "note": "Liste partiellement illisible (ligne coupée ou reflet), écartée par prudence. Traduit du turc/arabe; texte partiellement coupé en haut, début de liste (farine, huile...) déduit des mots lisibles; incertain pour la ligne de crème"
+ },
+ {
+  "barcode": "0077544001374",
+  "outcome": "found",
+  "ingredients_text": "Semoule de matzo (farine de blé) (72%), huile de palme, oignon et ail déshydratés, sel, extrait de levure, épices, maltodextrine, acide alimentaire (acide citrique). Pour les allergènes, voir les ingrédients en gras.",
+  "additives": "en:e330",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'anglais"
+ },
+ {
+  "barcode": "0728633106806",
+  "outcome": "found",
+  "ingredients_text": "Dextrose, concentré de protéines de lactosérum obtenu par ultrafiltration contenant des microparticules de lactalbumine, lactoglobuline, lactoferrine et fraction d'immunoglobuline, hydrolysat de protéine de blé, maltodextrine, arôme naturel et artificiel, aspartame, complexe de vitamines et minéraux : acide ascorbique, acétate de D alpha tocophérol, hydrochloride de thiamine, acide nicotinamide, riboflavine, nitrate de pyridoxine, acide folique, cyanocobalamine, biotine, pantothénate de calcium, gomme de xanthane.",
+  "additives": "en:e951,en:e415",
+  "allergens": "en:milk,en:gluten",
+  "note": "Complément protéiné en poudre (gainer); liste alimentaire, poudre à diluer"
+ },
+ {
+  "barcode": "8690524052122",
+  "outcome": "found",
+  "ingredients_text": "Gomme base, arôme, colorant (dioxyde de titane), antioxydants (BHT, BHA)",
+  "additives": "en:e171,en:e321,en:e320",
+  "allergens": "",
+  "note": "Traduit du turc; chewing-gum sans sucre fruits mélangés"
+ },
+ {
+  "barcode": "8695504167124",
+  "outcome": "found",
+  "ingredients_text": "Crème au chocolat (51%) [sucre, graisse végétale entièrement hydrogénée (huile de noix de coco), poudre de cacao, dextrose, poudre de lactosérum (produit laitier), chocolat noir (1%) (pâte de cacao, beurre de cacao, sucre, émulsifiants (E322) (tournesol), polyglycérol polyricinoléate), vanilline, émulsifiant (E322) (tournesol), arômes (chocolat, vanilline), sel], chocolat noir (32%) [pâte de cacao, poudre de cacao, beurre de cacao, sucre, matière grasse du lait, émulsifiant (E322) (tournesol), arôme (vanilline), sel], feuille de gaufrette (17%) [farine de blé (gluten), poudre de cacao, fécule de pomme de terre, émulsifiant (E322) (tournesol), graisse végétale entièrement hydrogénée (huile de noix de coco), poudre à lever (bicarbonate de sodium, bicarbonate d'ammonium), sel]",
+  "additives": "en:e322,en:e476,en:e500,en:e503",
+  "allergens": "en:milk,en:gluten",
+  "note": "Traduit de l'anglais; texte minuscule, risque d'erreurs mineures"
+ },
+ {
+  "barcode": "3600900021340",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé (gluten), sel, levure, épices (curcuma, paprika)",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Chapelure dorée; photo floue"
+ },
+ {
+  "barcode": "5014176005566",
+  "outcome": "not_found",
+  "note": "Texte promotionnel, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0032894015921",
+  "outcome": "found",
+  "ingredients_text": "Fèves premium, eau, sel, sucre, acide citrique (régulateur d'acidité), EDTA calcium disodique (E385) pour conserver la couleur",
+  "additives": "en:e330,en:e385",
+  "allergens": "",
+  "note": "Traduit de l'anglais/arabe (conserve égyptienne de ful medames)"
+ },
+ {
+  "barcode": "5053827181402",
+  "outcome": "found",
+  "ingredients_text": "Riz, lait entier concentré sucré (lait, sucre), sirop de glucose, huiles végétales (palme, palmiste, noix de coco), sucre inverti, sucre, amidon de maïs, lait écrémé en poudre, fructose, inuline, stabilisant (carbonate de calcium {E/SIN170}), humectant (glycérol {E/SIN422}, sorbitol {E/SIN420}), petit-lait en poudre, émulsifiant (lécithine de soja {E/SIN322}), sel, arôme naturel de vanille, farine de maïs, farine d'orge. Vitamine et minéraux : vitamine D, vitamine B6, calcium. Contient de l'orge (gluten), du soja et du lait. Peut contenir des oeufs et noix.",
+  "additives": "en:e170,en:e422,en:e420,en:e322",
+  "allergens": "en:milk,en:soybeans,en:gluten",
+  "note": "Produit différent du nom (céréales au lait type Nestlé/Kellogg's, pas Rice Krispies simples)"
+ },
+ {
+  "barcode": "8480000391339",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel uniquement"
+ },
+ {
+  "barcode": "80780588",
+  "outcome": "not_found",
+  "note": "Face avant du produit, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8413298901010",
+  "outcome": "found",
+  "ingredients_text": "Champignons (Agaricus bisporus), eau, sel, acidifiant : acide citrique E-330, antioxydant : E-300",
+  "additives": "en:e330,en:e300",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "5711953092374",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache aromatisé sucré stérilisé standardisé naturel demi-crème (1,5%) (75%), café (eau, extrait de café) (18,2%), sucre (6,5%), arôme caramel (contient du lait), régulateur d'acidité (carbonates de potassium). Matières solides dissoutes totales non inférieures à 15%. Teneur élevée en caféine (30 mg/100 ml).",
+  "additives": "en:e501",
+  "allergens": "en:milk",
+  "note": "Traduit de l'anglais"
+ },
+ {
+  "barcode": "4034900027801",
+  "outcome": "found",
+  "ingredients_text": "Babeurre, matière grasse végétale 15%, amidon modifié, émulsifiants E435, E472b, agent stabilisant : E331, épaississant : E415. Sans parfum ni colorant ou matière grasse hydrogénée.",
+  "additives": "en:e435,en:e472b,en:e331,en:e415",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "5400265031286",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huile de tournesol, pâte de noisettes (fruit à coque) 13%, cacao maigre en poudre 7,4%, poudre de lait écrémé 6,6%, beurre de cacao, huile de coco, lactosérum en poudre (lait), émulsifiant : lécithines (tournesol), arôme. Traces éventuelles d'amandes.",
+  "additives": "",
+  "allergens": "en:nuts,en:milk",
+  "note": "Photo = pâte à tartiner noisettes et cacao maigre, pas Hamlet Nutissimo"
+ },
+ {
+  "barcode": "8410261653013",
+  "outcome": "found",
+  "ingredients_text": "Purée de pêche (50%), eau, sucre, acidifiant : acide citrique, antioxydant : acide ascorbique",
+  "additives": "en:e330,en:e300",
+  "allergens": "",
+  "note": "Traduit de l'espagnol/anglais; nectar de pêche"
+ },
+ {
+  "barcode": "8410280203039",
+  "outcome": "found",
+  "ingredients_text": "Purée de pêche (50%), eau, sucre, acidulant : acide citrique et antioxydant : acide ascorbique",
+  "additives": "en:e330,en:e300",
+  "allergens": "",
+  "note": "Nectar de pêche (nom Cofrutos)"
+ },
+ {
+  "barcode": "8715675115158",
+  "outcome": "found",
+  "ingredients_text": "Sucre, beurre de cacao, lait entier en poudre, pépites de chocolat 6% (sucre, pâte de cacao, cacao maigre en poudre, émulsifiant (lécithine de colza)), lactose, 2,8% de riz soufflé (farine de riz), lactosérum en poudre, émulsifiant (lécithine de soja), matière grasse du lait, arôme (vanille). Ce produit peut contenir des traces de noisettes.",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans",
+  "note": "Chocolat blanc vanille et riz soufflé; pastille de chocolat selon nom"
+ },
+ {
+  "barcode": "7622210751928",
+  "outcome": "not_found",
+  "note": "Texte arabe de côté, partiellement coupé et illisible"
+ },
+ {
+  "barcode": "6953237400751",
+  "outcome": "not_found",
+  "note": "Seulement le nom (Thé vert de Chine), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8429359001759",
+  "outcome": "not_found",
+  "note": "Photo de la bouteille, pas de liste d'ingrédients lisible"
+ },
+ {
+  "barcode": "8001750325308",
+  "outcome": "found",
+  "ingredients_text": "Crème de lait de vache pasteurisé, correcteur d'acidité : acide citrique. Min. 80% de matière grasse sur extrait sec.",
+  "additives": "en:e330",
+  "allergens": "en:milk",
+  "note": "Fromage frais Mascarpone; version FR sur le pack"
+ },
+ {
+  "barcode": "8410128168803",
+  "outcome": "not_found",
+  "ingredients_text": "Lait partiellement écrémé pasteurisé (2,5% de matière grasse), sucre, amidon modifié (E-1422), gélatine, colorants : curcumine (E-100) et carmins (E-120), arômes et ferments lactiques",
+  "additives": "en:e1422,en:e100,en:e120",
+  "allergens": "en:milk",
+  "note": "Liste partiellement illisible (ligne coupée ou reflet), écartée par prudence. Yaourt pasteurisé après fermentation saveur fraise-banane; texte en partie masqué par un reflet"
+ },
+ {
+  "barcode": "9006900221133",
+  "outcome": "found",
+  "ingredients_text": "Eau, purée de mangue (20%), sucre, jus de maracuja (5%) à partir de concentré, acidifiant : acide citrique, vitamine C",
+  "additives": "en:e330",
+  "allergens": "",
+  "note": "Traduit de l'italien (pack italien); nectar mangue-maracuja"
+ },
+ {
+  "barcode": "3362600557269",
+  "outcome": "found",
+  "ingredients_text": "Glace : eau, sucre, sirop de glucose, préparation de poudre de lait écrémé reconstituée, graisse végétale, émulsifiant (E471), stabilisants (E412-E410-E407-E466-E433), colorant (E102), arôme vanille. Enrobage : graisse végétale, cacao, arachides hachées et grillées, lécithine de soja (E322), Biscuit : eau, sucre, farine de froment, matières grasses végétales, sel, poudre levante, arômes artificiels. Contient du lactose, gluten et d'arachides. Présence éventuelle d'œuf et d'autres fruits à coque.",
+  "additives": "en:e471,en:e412,en:e410,en:e407,en:e466,en:e433,en:e102,en:e322",
+  "allergens": "en:milk,en:peanuts,en:soybeans,en:gluten",
+  "note": "Glace vanille enrobée cacao/arachides; liste de la glace et enrobage tels qu'imprimés"
+ },
+ {
+  "barcode": "8410740912532",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel uniquement"
+ },
+ {
+  "barcode": "8003012003009",
+  "outcome": "not_found",
+  "note": "Texte sans liste d'ingrédients (café torréfié en grains, mode d'emploi)"
+ },
+ {
+  "barcode": "3362608000118",
+  "outcome": "not_found",
+  "note": "Valeurs nutritionnelles uniquement"
+ },
+ {
+  "barcode": "3292590819644",
+  "outcome": "not_found",
+  "note": "Valeurs nutritionnelles uniquement"
+ },
+ {
+  "barcode": "8437002460860",
+  "outcome": "not_found",
+  "note": "Composition chimique de l'eau uniquement"
+ },
+ {
+  "barcode": "5902388315668",
+  "outcome": "found",
+  "ingredients_text": "Cacahuètes (90%), sucre, huile végétale hydrogénée (fèves de soja), sel et émulsifiant (E471)",
+  "additives": "en:e471",
+  "allergens": "en:peanuts,en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "3341430510026",
+  "outcome": "found",
+  "ingredients_text": "Thon, huile végétale (soja), sel",
+  "additives": "",
+  "allergens": "en:fish,en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "2706556023279",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache pasteurisé, sel, ferment lactique, présure microbactériologique, colorant E160a. 40% de matière grasse sur matière sèche.",
+  "additives": "en:e160a",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "3073781116984",
+  "outcome": "not_found",
+  "note": "Face avant (UHT demi-écrémé), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8411859552114",
+  "outcome": "found",
+  "ingredients_text": "Pommes de terre, huile de tournesol (34,8%) et sel. Peut contenir de la protéine de lait.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'espagnol/anglais/arabe"
+ },
+ {
+  "barcode": "8436048960464",
+  "outcome": "not_found",
+  "note": "Texte minuscule sur l'emballage, illisible"
+ },
+ {
+  "barcode": "3362608000255",
+  "outcome": "found",
+  "ingredients_text": "Viande de volaille, eau, farine de blé, huile végétale de tournesol, protéines de soja, sirop de glucose, amidon modifié de maïs, sel, fibres végétales, arôme naturel (avec soja), tripolyphosphate de sodium (E-451i), protéine de blé, arôme de fumée, levure, colorants naturels (E-160c, E-100), anti agglomérant E-551. Contient : blé (gluten), soja.",
+  "additives": "en:e451i,en:e160c,en:e100,en:e551",
+  "allergens": "en:gluten,en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "3073781077032",
+  "outcome": "found",
+  "ingredients_text": "Fromage, lait écrémé, matière grasse laitière, protéines de lait, sels de fonte : E452, E450, E330, sel, arôme de fromage, conservateur : E202, colorant bêta-carotène",
+  "additives": "en:e452,en:e450,en:e330,en:e202,en:e160a",
+  "allergens": "en:milk",
+  "note": "Traduit de l'arabe (fromage fondu Le Bloc, Bel Maroc); 50% MG/extrait sec"
+ }
+]
