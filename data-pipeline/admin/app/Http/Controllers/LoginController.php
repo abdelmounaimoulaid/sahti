@@ -20,7 +20,8 @@ class LoginController extends Controller
             return back()->withErrors(['password' => 'Trop d\'essais. Réessaie dans '.RateLimiter::availableIn($key).' secondes.']);
         }
 
-        $hash = (string) config('app.admin_password_hash');
+        $file = storage_path(SetupPasswordController::HASH_FILE);
+        $hash = is_file($file) ? trim((string) file_get_contents($file)) : (string) config('app.admin_password_hash');
         $password = (string) $request->input('password', '');
 
         if ($hash === '' || ! Hash::check($password, $hash)) {

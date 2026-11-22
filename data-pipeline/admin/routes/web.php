@@ -9,7 +9,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/api/v1/products/{barcode}', [\App\Http\Controllers\ProductApiController::class, 'show'])
     ->middleware('throttle:120,1');
 
-Route::get('/login',[LoginController::class, 'show'])->name('login');
+Route::get('/setup-password/{token}', [\App\Http\Controllers\SetupPasswordController::class, 'show'])->middleware('throttle:10,1')->name('setup.show');
+Route::post('/setup-password/{token}', [\App\Http\Controllers\SetupPasswordController::class, 'store'])->middleware('throttle:10,1')->name('setup.store');
+
+Route::get('/login', [LoginController::class, 'show'])->name('login');
 Route::post('/login', [LoginController::class, 'login'])->name('login.post');
 Route::post('/logout', [LoginController::class, 'logout'])->name('logout');
 
