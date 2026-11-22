@@ -11,7 +11,8 @@ Ce dossier contient les outils qui construisent la base produits de Sahti, à pa
   - `find_ingredient_photos.py` et `import_agent_results.py` : lisent les photos d'étiquettes et enregistrent les listes d'ingrédients.
   - `filter_nonfood.py` et `fill_additives_from_names.py` : écartent les produits non alimentaires et traduisent les additifs en E-numbers.
   - `fill_names_off.py` : récupère les noms manquants.
-- `admin/` : une page Laravel où l'on valide ou corrige chaque fiche avant publication. Elle n'a pas encore d'authentification : il faut en ajouter une avant de la mettre en ligne.
+- `admin/` : une page Laravel où l'on valide ou corrige chaque fiche avant publication. Elle est protégée par un mot de passe, défini avec `php artisan admin:password`.
+- API publique en lecture seule pour l'app : `GET /api/v1/products/{code-barres}`. Elle renvoie le même format JSON qu'Open Food Facts. Seules les fiches complètes ou validées sont servies, et jamais les produits non alimentaires.
 - `data/AGENT_RULES.md` : les règles de lecture des étiquettes.
 - `data/agent_results/` : les listes d'ingrédients lues sur les photos.
 - `BILAN_lot1.md` : les résultats, les temps et les pièges rencontrés.
