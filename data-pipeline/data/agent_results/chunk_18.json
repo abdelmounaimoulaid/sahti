@@ -1,0 +1,573 @@
+[
+ {
+  "barcode": "8692624161803",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8690506523442",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0040189901163",
+  "outcome": "not_found",
+  "note": "Photo de face (Bounty Wafer Rolls), liste des ingrédients non visible"
+ },
+ {
+  "barcode": "02870793",
+  "outcome": "found",
+  "ingredients_text": "LAIT écrémé, LACTOSE, Protéine de lactosérum, Huiles végétales, Oléine de palme, Sels minéraux : Citrate de calcium, Citrate de potassium, Chlorure de potassium, Chlorure de magnésium, Phosphate de calcium, Chlorure de sodium, Sulfate ferreux, Sulfate de zinc, Sulfate de cuivre, Sulfate de manganèse, Iodure de potassium, Sélénate de sodium, Huile de POISSON, Émulsifiant : Lécithine de SOJA, L-phénylalanine, Vitamines, Taurine, L-histidine, Inositol, Nucléotides, L-carnitine, Culture de bifidus, 2'-Fucosyllactose. Contient du LAIT y compris du LACTOSE, du SOJA et du POISSON.",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans,en:fish",
+  "note": "Lait infantile"
+ },
+ {
+  "barcode": "8421952714005",
+  "outcome": "not_found",
+  "note": "Photo floue (miel), liste illisible"
+ },
+ {
+  "barcode": "4058172171826",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8588006040951",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8906012841681",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6221048403095",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5211742985363",
+  "outcome": "found",
+  "ingredients_text": "Céréales soufflées (farine de riz, sucre, sirop de glucose, cacao en poudre, extrait de malt, lécithine de soja, sel), sucre, graisse végétale hydrogénée, cacao en poudre, lait en poudre, lactosérum, sirop de glucose, émulsifiant : lécithine de soja, sorbitol, sel, vanille en poudre, vanilline, arômes autorisés. Contient : lait, soja, gluten. Peut contenir des arachides et la caroube.",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans,en:gluten",
+  "note": "Boules de céréales enrobées de cacao; bord de la liste FR coupé, complété avec les versions ES/EN visibles sur la même photo"
+ },
+ {
+  "barcode": "6291069751574",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6937926361035",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "9112050000808",
+  "outcome": "not_found",
+  "note": "Photo du dos du pot, pas de liste d'ingrédients visible"
+ },
+ {
+  "barcode": "6911523232073",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "16560114",
+  "outcome": "found",
+  "ingredients_text": "Dattes",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais (Dates)"
+ },
+ {
+  "barcode": "0667555248433",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0042546345948",
+  "outcome": "not_found",
+  "note": "Photo de face (limonade), liste non visible"
+ },
+ {
+  "barcode": "0178759334742",
+  "outcome": "not_found",
+  "note": "Texte flou et illisible"
+ },
+ {
+  "barcode": "0152152421575",
+  "outcome": "not_found",
+  "note": "Seulement la composition minérale, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0745110402466",
+  "outcome": "not_found",
+  "note": "Photo de face (thé vert), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "6975478472038",
+  "outcome": "found",
+  "ingredients_text": "Pomme de terre en poudre, fécule de pomme de terre, huile végétale, sel, sucre, émulsifiant E471, assaisonnement barbecue en poudre (ail en poudre, oignon en poudre, poivre en poudre, paprika en poudre, tomate en poudre, sauce soja en poudre, sucre, sel, maltodextrine, régulateur d'acidité E330, rouge de paprika naturel E160c, exhausteurs de goût : E621, E627, E631, édulcorant E951 (contient une source de phénylalanine)), agent anti-agglomérant E551. Contient du soja et du gluten.",
+  "additives": "en:e471,en:e330,en:e160c,en:e621,en:e627,en:e631,en:e951,en:e551",
+  "allergens": "en:soybeans,en:gluten",
+  "note": "Traduit de l'anglais (liste EN/AR seulement)"
+ },
+ {
+  "barcode": "0227652422008",
+  "outcome": "not_found",
+  "note": "Seulement la composition minérale, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0214403806552",
+  "outcome": "found",
+  "ingredients_text": "Flocons d'avoine (28%), chocolat noir (25%) [sucre, pâte de cacao, matière grasse végétale non hydrogénée (palme), huile de beurre (lait), beurre de cacao, émulsifiants (lécithine de soja, polyricinoléate de polyglycérol (végétal)), arôme naturel (vanille). Extrait sec de cacao : 39% minimum], farine de blé complet (16%), sucre, matière grasse végétale non hydrogénée (palme), sirop de sucre partiellement inverti, agents levants (bicarbonate d'ammonium, bicarbonate de sodium), sirop de glucose, sel. Contient du gluten, du lait et du soja. Peut contenir des oeufs et des noisettes.",
+  "additives": "",
+  "allergens": "en:gluten,en:milk,en:soybeans",
+  "note": "Traduit de l'anglais (liste EN/AR seulement)"
+ },
+ {
+  "barcode": "0760122790868",
+  "outcome": "not_found",
+  "note": "Seulement le tableau nutritionnel, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0147742103702",
+  "outcome": "not_found",
+  "note": "Face avant/valeurs nutritionnelles du lait UHT, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0776992060017",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, huile végétale (palme), sucre, sirop de glucose, sirop de fructose, agents levants (bicarbonate de sodium E500, bicarbonate d'ammonium), sel, régulateur d'acidité (phosphate acide de calcium E341), émulsifiant (lécithine de soja E322), antioxydant (métabisulfite de sodium E223). Contient du blé et du soja.",
+  "additives": "en:e500,en:e341,en:e322,en:e223",
+  "allergens": "en:gluten,en:soybeans",
+  "note": "Biscuit salé; photo froissée, liste reconstituée à partir des versions FR/EN/AR partiellement lisibles"
+ },
+ {
+  "barcode": "7520330080518",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel seulement, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8009432020589",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "00268114",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "9789954245194",
+  "outcome": "not_found",
+  "note": "Livre, produit non alimentaire"
+ },
+ {
+  "barcode": "6922829040323",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5111129000460",
+  "outcome": "not_found",
+  "note": "Seulement la composition minérale de l'eau, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "5111049754894",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel seulement, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "6970392253268",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0140600005712",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (médicament)"
+ },
+ {
+  "barcode": "5111496005396",
+  "outcome": "not_found",
+  "note": "Photo de face (margarine Lilia), liste non visible"
+ },
+ {
+  "barcode": "4410079031007",
+  "outcome": "not_found",
+  "note": "Coffret de deux bonbons différents (praliné noisette / crème blanche fruits des bois), listes mélangées et coupées"
+ },
+ {
+  "barcode": "4480004440389",
+  "outcome": "not_found",
+  "note": "Photo floue du code-barres, pas de liste"
+ },
+ {
+  "barcode": "8906033235384",
+  "outcome": "found",
+  "ingredients_text": "Riz basmati à grain extra long",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais (liste EN/AR seulement)"
+ },
+ {
+  "barcode": "3721122111111",
+  "outcome": "not_found",
+  "note": "Adresse du fabricant seulement, liste d'ingrédients non visible (graines de tournesol salées)"
+ },
+ {
+  "barcode": "5414145063670",
+  "outcome": "found",
+  "ingredients_text": "Eau gazéifiée, jus de raisin (à partir de concentré), sirop de sucre (sirop de glucose-fructose, sucre), correcteur d'acidité : acide citrique, colorant : caramel E150d, conservateur : E211, antioxydant : acide ascorbique.",
+  "additives": "en:e150d,en:e211",
+  "allergens": "",
+  "note": "Boisson pétillante au raisin rouge"
+ },
+ {
+  "barcode": "0245128444163",
+  "outcome": "not_found",
+  "note": "Seulement la composition minérale de l'eau, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "6976770390228",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "4711256280882",
+  "outcome": "not_found",
+  "note": "Pas de liste d'ingrédients visible (valeurs nutritionnelles seulement)"
+ },
+ {
+  "barcode": "8436008990562",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3441710192512",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (gel hydroalcoolique)"
+ },
+ {
+  "barcode": "6221048230202",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5111756472241",
+  "outcome": "not_found",
+  "note": "Liste partiellement coupée/floue (ketchup), incomplète"
+ },
+ {
+  "barcode": "8901371090015",
+  "outcome": "not_found",
+  "note": "Adresse du fabricant seulement, pas de liste d'ingrédients (sachet de henné/teinture)"
+ },
+ {
+  "barcode": "0021460000034",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "00931526",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0288742109308",
+  "outcome": "not_found",
+  "note": "Valeurs nutritionnelles seulement, pas de liste d'ingrédients (yaourt)"
+ },
+ {
+  "barcode": "8680801502297",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "3662361003365",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0222150474191",
+  "outcome": "not_found",
+  "note": "Valeurs nutritionnelles seulement, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0728811432512",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0611203007377",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé reconstitué, matière grasse laitière, fromages, huile de palme, sels de fonte (E452, E450, E341), sel, stabilisant : carraghénanes, conservateur : sorbate de potassium, vitamines A, D et E.",
+  "additives": "en:e452,en:e450,en:e341",
+  "allergens": "en:milk",
+  "note": "Fromage fondu; photo très petite (158 px), texte lisible une fois agrandi"
+ },
+ {
+  "barcode": "0858382002071",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6937372281819",
+  "outcome": "not_found",
+  "note": "Photo floue du code-barres/volume, pas de liste (produit probablement non alimentaire)"
+ },
+ {
+  "barcode": "2607412029018",
+  "outcome": "not_found",
+  "note": "Étiquette de prix seulement, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0152171522444",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huiles végétales non hydrogénées (palme, tournesol), cacao maigre en poudre (6%), pâte de noisette (2%), poudre de lactosérum, émulsifiant : lécithine de soja (E322), polyricinoléate de polyglycérol (E476), arômes noisette et vanille. Contient : noisette, soja et lait. Peut contenir des traces de gluten et de fruits à coque.",
+  "additives": "en:e322,en:e476",
+  "allergens": "en:nuts,en:soybeans,en:milk",
+  "note": "Pâte à tartiner noisettes-cacao; le code-barres visible sur la photo est 6111259344068 (différent du code du chunk)"
+ },
+ {
+  "barcode": "9789954126264",
+  "outcome": "not_found",
+  "note": "Livre, produit non alimentaire"
+ },
+ {
+  "barcode": "5111049722077",
+  "outcome": "not_found",
+  "note": "Liste d'ingrédients cachée par l'angle de la photo, seulement début lisible"
+ },
+ {
+  "barcode": "0490009001625",
+  "outcome": "not_found",
+  "note": "Seulement adresse/poids du fabricant (thé vert), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8003180908571",
+  "outcome": "not_found",
+  "note": "Photo de face (crème végétale Bravo Crem), liste non visible"
+ },
+ {
+  "barcode": "0207855130832",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0408080094924",
+  "outcome": "not_found",
+  "note": "Photo de face (flan Idéal), liste non visible"
+ },
+ {
+  "barcode": "0796554054070",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisses végétales, lactosérum, cacao en poudre, émulsifiants (lécithine E322), arôme vanille, arôme noisette. Peut contenir des traces de lactose.",
+  "additives": "en:e322",
+  "allergens": "en:milk",
+  "note": "Crème de cacao arôme noisette; lactosérum = lait. "
+ },
+ {
+  "barcode": "6926977400008",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "7066307341942",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "5059018276919",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6974103375089",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8410087521817",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel seulement, pas de liste d'ingrédients (biscuit)"
+ },
+ {
+  "barcode": "5111493023409",
+  "outcome": "not_found",
+  "note": "Photo de côté, texte trop petit et flou, liste non fiable (crème à tartiner)"
+ },
+ {
+  "barcode": "8651120807325",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "2002421360990",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0745110402923",
+  "outcome": "not_found",
+  "note": "Photo de face (thé vert), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "5111129000088",
+  "outcome": "not_found",
+  "note": "Seulement la composition minérale de l'eau, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0045900606952",
+  "outcome": "not_found",
+  "note": "Photo de face (eau Aïn Saïss), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "6224008527381",
+  "outcome": "found",
+  "ingredients_text": "Tomates, sel",
+  "additives": "",
+  "allergens": "",
+  "note": "Concentré de tomate, extrait sec 28-30%"
+ },
+ {
+  "barcode": "6291107929743",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6191323700099",
+  "outcome": "not_found",
+  "note": "Photo recadrée, liste coupée (\"arôme Barbecue...\" incomplet)"
+ },
+ {
+  "barcode": "6924833408656",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6924833402692",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0144405000231",
+  "outcome": "not_found",
+  "note": "Valeurs nutritionnelles seulement, pas de liste d'ingrédients (levure pâtissière)"
+ },
+ {
+  "barcode": "6981035003539",
+  "outcome": "not_found",
+  "note": "Photo de face (eau), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "5059018274243",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0140933060105",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé en poudre, matière grasse végétale, fromage, sels de fonte (E452, E450, E331, E339), stabilisants (E407, E410), sel, acide citrique, sorbate de potassium, vitamines A, D, E. Contient du lait et dérivés (lactose).",
+  "additives": "en:e452,en:e450,en:e331,en:e339,en:e407,en:e410",
+  "allergens": "en:milk",
+  "note": "Traduit de l'arabe (partie française de l'étiquette cachée); préparation alimentaire à base de produits laitiers"
+ },
+ {
+  "barcode": "6931978120152",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8964000114964",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0400632456396",
+  "outcome": "not_found",
+  "note": "Photo du dos avec infos nutritionnelles, la liste d'ingrédients n'est pas visible"
+ },
+ {
+  "barcode": "6928001841207",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0295302550753",
+  "outcome": "found",
+  "ingredients_text": "Sucre, cacahuètes, poudre de cacao, lait en poudre, lactosérum, graisse végétale, glucose, sorbitol, lécithine (E322), arômes alimentaires : vanille, chocolat, lait, crème (nata).",
+  "additives": "en:e322",
+  "allergens": "en:peanuts,en:milk",
+  "note": "Photo sombre avec reflet; liste FR partiellement masquée, complétée avec la version ES visible juste dessous (même liste)"
+ },
+ {
+  "barcode": "5111576006947",
+  "outcome": "not_found",
+  "note": "Valeurs nutritionnelles seulement, pas de liste d'ingrédients (jus)"
+ },
+ {
+  "barcode": "8719827009944",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "2192973463000",
+  "outcome": "not_found",
+  "note": "Liste multilingue pivotée, partiellement masquée/illisible (cookies aux pépites de chocolat)"
+ },
+ {
+  "barcode": "3051211520044",
+  "outcome": "found",
+  "ingredients_text": "100% cacahuètes grillées. Peut contenir d'autres fruits à coque.",
+  "additives": "",
+  "allergens": "en:peanuts",
+  "note": "Pâte de cacahuète croustillante"
+ },
+ {
+  "barcode": "9789920651332",
+  "outcome": "not_found",
+  "note": "Photo du code-barres seulement (code-barres différent de celui du chunk), pas de liste"
+ },
+ {
+  "barcode": "2581018002968",
+  "outcome": "not_found",
+  "note": "Pas de liste d'ingrédients (graines d'anis en pot, étiquette fabricant)"
+ },
+ {
+  "barcode": "0655720303599",
+  "outcome": "found",
+  "ingredients_text": "Eau, saccharose, pulpe cocktail naturelle (pas moins de 10%), acide citrique (E330), stabilisant alimentaire (E412) (E440), colorant alimentaire (E160a) (E160b) (E120), vitamine C, arôme identique à la normale, solides solubles totaux pas moins de 8%.",
+  "additives": "en:e330,en:e412,en:e440,en:e160a,en:e160b,en:e120",
+  "allergens": "",
+  "note": "Jus Kino"
+ },
+ {
+  "barcode": "0020520179864",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisse végétale (palme), noisettes (13%), lait écrémé en poudre (8,7%), cacao maigre en poudre (7,4%), émulsifiant : lécithines (soja) (0,43%), arôme : vanilline (0,02%).",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans,en:nuts",
+  "note": "Pâte à tartiner aux noisettes et au cacao"
+ },
+ {
+  "barcode": "8906068764842",
+  "outcome": "not_found",
+  "note": "Valeurs nutritionnelles seulement, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "6954211659554",
+  "outcome": "not_found",
+  "note": "Photo de face (thé vert), pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "5111863700176",
+  "outcome": "not_found",
+  "note": "Photo de face (panna cotta), liste non visible"
+ }
+]

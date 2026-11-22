@@ -1,0 +1,638 @@
+[
+ {
+  "barcode": "1110002231636",
+  "outcome": "found",
+  "ingredients_text": "Houmous (70 g) : pois chiches, tahini (pâte de SÉSAME), eau, poivron rouge rôti, régulateur d'acidité : acide citrique (E330), sel, gomme de guar, concentré de tomate (concentré de tomate, eau, sel), poivron doux (paprika), ail, coriandre en poudre, cumin, thym, poivre noir, basilic, romarin. Gressins (22 g) : farine de blé (GLUTEN), huile de colza non hydrogénée, eau, sel, romarin.",
+  "additives": "en:e330",
+  "allergens": "en:gluten,en:sesame-seeds",
+  "note": "Traduit de l'anglais"
+ },
+ {
+  "barcode": "0089894900108",
+  "outcome": "not_found",
+  "note": "Liste coupée (cachée par la main)"
+ },
+ {
+  "barcode": "0100128001191",
+  "outcome": "found",
+  "ingredients_text": "Eau minérale naturelle Aïn Saïss (95%), sucre (4,9%), exhausteur de goût : acide citrique, arômes naturels, conservateurs : benzoate de sodium, E242.",
+  "additives": "en:e242",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "0122070962412",
+  "outcome": "not_found",
+  "note": "Liste de l'emballage coupée et chevauchée par le texte anglais"
+ },
+ {
+  "barcode": "5111766232095",
+  "outcome": "not_found",
+  "note": "Liste arabe coupée/déchirée"
+ },
+ {
+  "barcode": "0796554055787",
+  "outcome": "found",
+  "ingredients_text": "Thon, huile végétale et sel.",
+  "additives": "",
+  "allergens": "en:fish",
+  "note": ""
+ },
+ {
+  "barcode": "0780627901507",
+  "outcome": "found",
+  "ingredients_text": "Cacahuète grillée, sucre, huile végétale comestible (huile de soja hydrogénée), émulsifiant (E471, mono- et diglycérides d'acides gras d'origine végétale), sel.",
+  "additives": "en:e471",
+  "allergens": "en:peanuts,en:soybeans",
+  "note": "Traduit de l'anglais"
+ },
+ {
+  "barcode": "0155030460031",
+  "outcome": "found",
+  "ingredients_text": "Miel d'abeilles pur naturel.",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "8690131111458",
+  "outcome": "not_found",
+  "note": "Photo floue, aucune liste lisible"
+ },
+ {
+  "barcode": "4262394780586",
+  "outcome": "found",
+  "ingredients_text": "Huile de colza (59%), concentré de tomates (5,9%), moutarde (eau, graines de moutarde, vinaigre, sel, épices), vinaigre, sucre, eau, jaune d'œufs, extraits (clou de girofle, chili, céleri, cerfeuil), oignon en poudre, paprika en poudre, câpres (câpres, eau, sel), acidifiant (acide citrique), colorant (bêta-carotène), antioxydant (calcium disodium EDTA).",
+  "additives": "en:e330,en:e160a,en:e385",
+  "allergens": "en:mustard,en:eggs,en:celery",
+  "note": ""
+ },
+ {
+  "barcode": "0011103500058",
+  "outcome": "not_found",
+  "note": "Photo d'un code-barres, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0659806636953",
+  "outcome": "not_found",
+  "note": "Photo d'un code-barres, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "4114443093331",
+  "outcome": "found",
+  "ingredients_text": "Lait entier, 30 g/l de matières grasses.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Traduit de l'arabe"
+ },
+ {
+  "barcode": "7622202349577",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huiles végétales non hydrogénées (palme, palmiste, soja), farine de blé, œuf, sirop de sucre inverti, sirop de glucose, humectants (E422, E420), cacao maigre en poudre, perméat de lactosérum (de lait), amidon de maïs, émulsifiants de source végétale (E471, E322 - lécithine de soja), poudres à lever (E450, E500), correcteur d'acidité (E330), conservateurs (E202, E200), sel, arôme artificiel (chocolat), épaississant (E415), colorant (E141). Contient : œuf, lait, blé (gluten), soja.",
+  "additives": "en:e422,en:e420,en:e471,en:e322,en:e450,en:e500,en:e330,en:e202,en:e200,en:e415,en:e141",
+  "allergens": "en:eggs,en:milk,en:gluten,en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "8904049650610",
+  "outcome": "not_found",
+  "note": "Tableau nutritionnel et cuisson seulement, pas de liste"
+ },
+ {
+  "barcode": "8436037969140",
+  "outcome": "not_found",
+  "note": "Liste coupée / illisible en partie"
+ },
+ {
+  "barcode": "8436532594113",
+  "outcome": "found",
+  "ingredients_text": "Tomate (170 g de tomate naturelle pour 100 g de produit), sirop de glucose et fructose, sucre, vinaigre, amidon de maïs modifié, sel et mélange d'épices.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "8006540956342",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0281842372993",
+  "outcome": "not_found",
+  "note": "Photo trop petite, liste illisible"
+ },
+ {
+  "barcode": "5903140690528",
+  "outcome": "found",
+  "ingredients_text": "Monohydrate de créatine, taurine, vitamine B6, arômes, acide citrique, support d'arôme : maltodextrine, anti-agglomérant : dioxyde de silicium, édulcorant : sucralose ; chlorhydrate de pyridoxine, colorant : rouge cochenille.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais ; complément en poudre"
+ },
+ {
+  "barcode": "1446400050112",
+  "outcome": "found",
+  "ingredients_text": "Lait entier, 30 g/l de matières grasses.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": "Traduit de l'arabe"
+ },
+ {
+  "barcode": "0883788372282",
+  "outcome": "found",
+  "ingredients_text": "Amidon de maïs, farine de blé, sel, graisse végétale, maltodextrine, arôme fromage, noix de muscade.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": ""
+ },
+ {
+  "barcode": "8720039762381",
+  "outcome": "found",
+  "ingredients_text": "Eau, sirop de glucose-fructose, malt d'orge, houblon, extrait de houblon, dioxyde de carbone, régulateur d'acidité : acide citrique (E330), arôme de pomme identique au naturel, colorant : E150c.",
+  "additives": "en:e330,en:e150c",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'arabe/anglais"
+ },
+ {
+  "barcode": "6936097434920",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8682214720763",
+  "outcome": "found",
+  "ingredients_text": "Café torréfié et moulu.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit du turc"
+ },
+ {
+  "barcode": "0417410700992",
+  "outcome": "not_found",
+  "note": "Pas de liste d'ingrédients sur la photo (valeurs nutritionnelles seulement)"
+ },
+ {
+  "barcode": "0095120002119",
+  "outcome": "found",
+  "ingredients_text": "Abricot, sucre, gélifiant : pectine, acidifiant : acide citrique.",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "13675000",
+  "outcome": "found",
+  "ingredients_text": "Eau, vinaigre de table, piment rouge piquant mariné (piment rouge, sel, vinaigre de table), sel, arôme, épices, épaississant : amidon modifié, sucre, ail mariné, stabilisant : E415, régulateurs d'acidité (E300, E334), extrait de capsicum, conservateurs (E202, E211), colorants (E150c, E120).",
+  "additives": "en:e415,en:e300,en:e334,en:e202,en:e211,en:e150c,en:e120",
+  "allergens": "",
+  "note": "Traduit de l'arabe"
+ },
+ {
+  "barcode": "8906068764057",
+  "outcome": "not_found",
+  "note": "Pas de liste d'ingrédients sur la photo (face avant)"
+ },
+ {
+  "barcode": "7613036377553",
+  "outcome": "not_found",
+  "note": "Liste coupée / partiellement visible"
+ },
+ {
+  "barcode": "6223001056386",
+  "outcome": "found",
+  "ingredients_text": "Fraise, sucre, acide citrique, pectine.",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "0140000202117",
+  "outcome": "not_found",
+  "note": "Pas de liste d'ingrédients sur la photo (valeurs nutritionnelles seulement)"
+ },
+ {
+  "barcode": "5912456060857",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, eau, huile végétale (colza et palme), humectant (glycérol), sel, émulsifiant (mono- et diglycérides d'acides gras), régulateur d'acidité (acide citrique, acide lactique), stabilisant (gomme de xanthane), poudre à lever (diphosphates, carbonates de sodium), conservateurs (propionate de calcium, acide sorbique).",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": ""
+ },
+ {
+  "barcode": "7622202359248",
+  "outcome": "found",
+  "ingredients_text": "Sucre, farine de blé, huile végétale non hydrogénée (palme), cacao maigre en poudre, amidon de maïs, sirop de glucose, arômes naturels et artificiels (cannelle, vanilline), poudres à lever (E501, E500, E503), sel, émulsifiant (lécithine de soja - E322). Contient : blé (gluten), soja. Peut contenir : lait.",
+  "additives": "en:e501,en:e500,en:e503,en:e322",
+  "allergens": "en:gluten,en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "6941812791240",
+  "outcome": "not_found",
+  "note": "Photo de plantes, pas un emballage"
+ },
+ {
+  "barcode": "8437022182650",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, édulcorant (maltitol), huile de tournesol à haute teneur oléique, fibre végétale (oligofructose), poudres à lever (carbonates d'ammonium, carbonates de sodium), poudre de lactosérum (lait), sel, antioxydant (métabisulfite de sodium), émulsifiant (lécithine de tournesol), arômes (lait). Peut contenir des traces de soja et de moutarde.",
+  "additives": "",
+  "allergens": "en:gluten,en:milk,en:sulphur-dioxide-and-sulphites",
+  "note": ""
+ },
+ {
+  "barcode": "8427754043183",
+  "outcome": "not_found",
+  "note": "Liste cachée, seule la face avant est visible"
+ },
+ {
+  "barcode": "4260487728125",
+  "outcome": "not_found",
+  "note": "Face avant seulement, pas de liste"
+ },
+ {
+  "barcode": "0243001527088",
+  "outcome": "found",
+  "ingredients_text": "Eau, abricot, sucre, épaississants alimentaires, colorant naturel, caramel, acide citrique, acide ascorbique, sorbate de potassium.",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "4007096137241",
+  "outcome": "found",
+  "ingredients_text": "Semoule de blé dur.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": ""
+ },
+ {
+  "barcode": "5350665004833",
+  "outcome": "found",
+  "ingredients_text": "Lait de [vache (50%), brebis (20%) et chèvre (15%)] pasteurisé, sel, présure non animale et ferments lactiques. Contient conservateurs (E-202 et E-235) et colorant (E-172) dans la croûte non comestible.",
+  "additives": "en:e202,en:e235,en:e172",
+  "allergens": "en:milk",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "0015167712314",
+  "outcome": "found",
+  "ingredients_text": "Sucre (43%), graisse végétale de palmiste hydrogénée, lait en poudre (12%), cacao en poudre, farine de blé, lactosérum en poudre, graisse végétale de palme, émulsifiant (lécithine de soja et de tournesol), sirop de glucose-fructose, sel, agent levant (carbonate de sodium et d'ammonium), protéine de lait, arôme (vanille), antioxydant (métabisulfite de sodium). Cacao minimum 8%. Peut contenir des traces d'autres fruits à coque, arachides et moutarde.",
+  "additives": "",
+  "allergens": "en:milk,en:gluten,en:soybeans,en:sulphur-dioxide-and-sulphites",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "5084259300000",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache entier pasteurisé, ferments lactiques, présure, sel.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "3760269771482",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "0312950472760",
+  "outcome": "found",
+  "ingredients_text": "Eau, jus d'orange à base de concentré 10%, sucre, acidifiants : acide citrique, vitamine C, texturant : pectine, carboxyméthylcellulose, arômes, colorant naturel : provitamine A, conservateurs : benzoate de sodium et sorbate de potassium.",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "8697439309860",
+  "outcome": "not_found",
+  "note": "Seulement avertissement allergènes, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8480201373257",
+  "outcome": "found",
+  "ingredients_text": "Sucre en poudre, pâte de noisette, graisse végétale, poudre de lactosérum, lait écrémé en poudre, lécithine, émulsifiant et vanilline.",
+  "additives": "",
+  "allergens": "en:milk,en:nuts",
+  "note": ""
+ },
+ {
+  "barcode": "0769503577791",
+  "outcome": "not_found",
+  "note": "Liste coupée sur la photo"
+ },
+ {
+  "barcode": "9783817452200",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (livre)"
+ },
+ {
+  "barcode": "0510199627648",
+  "outcome": "found",
+  "ingredients_text": "Lait frais entier, poudre de lait écrémé, crème fraîche, sucre, épaississant : amidon, arôme, ferments lactiques. Matière grasse : 3,0%.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "8721161368267",
+  "outcome": "found",
+  "ingredients_text": "Sucre, huile végétale totalement hydrogénée (huile de palme), lactosérum en poudre déminéralisée (issu du lait), poudre de cacao (2,14%), émulsifiants (lécithine de soja, E476), lait écrémé en poudre, arômes, purée de noisette (0,12%). Peut contenir du gluten de blé, des arachides, des amandes et des pistaches.",
+  "additives": "en:e476",
+  "allergens": "en:milk,en:soybeans,en:nuts",
+  "note": ""
+ },
+ {
+  "barcode": "0245066962712",
+  "outcome": "found",
+  "ingredients_text": "Lait frais partiellement écrémé, sucre, préparation de pulpe de fruits (ananas, mangue, pêche, abricot), texturant : amidon, correcteur d'acidité : acide citrique, arômes, ferments lactiques sélectionnés, colorant naturel (provitamine A-E161a). Matière grasse : 1,2%.",
+  "additives": "en:e161a",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "9788404462112",
+  "outcome": "found",
+  "ingredients_text": "Eau, huile végétale, stabilisants (E1422, E407), fromage, arôme naturel de fromage, émulsifiants (E452), sel, conservateurs (E202, E234), régulateur d'acidité (E330), colorant (E160b).",
+  "additives": "en:e1422,en:e407,en:e452,en:e202,en:e234,en:e330,en:e160b",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "0244499000695",
+  "outcome": "found",
+  "ingredients_text": "Huiles végétales (soja), vitamine A, vitamine D3.",
+  "additives": "",
+  "allergens": "en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "0015903007513",
+  "outcome": "found",
+  "ingredients_text": "Corps gras végétal, eau, sucre, sel, émulsifiant : mono-diglycérides végétaux, lécithine de soja, calcium, amidon, conservateur : sorbate de potassium, antioxydant : E321, acidifiant : acide citrique, arôme beurre, colorant : bêta-carotène, 7 vitamines : A, B6, B2, B1, E, D et B12. Peut contenir des traces de dérivés du lait.",
+  "additives": "en:e321",
+  "allergens": "en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "0000723220447",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "6311242108992",
+  "outcome": "found",
+  "ingredients_text": "Lait écrémé, crème, sucre, ferments lactiques. Matière grasse : 3%.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "6685634068103",
+  "outcome": "found",
+  "ingredients_text": "Miel, extrait de poudre de ginseng rouge, extrait d'épimède, extrait de tribulus terrestris, écorce de cannelle, extrait de gelée royale, extrait de poudre de caroube, racine de férule.",
+  "additives": "",
+  "allergens": "",
+  "note": "Traduit de l'anglais ; pâte à base de miel et d'herbes (sachets)"
+ },
+ {
+  "barcode": "0152146721964",
+  "outcome": "found",
+  "ingredients_text": "Cream cheese produit à partir de lait de vache pasteurisé, protéines nutritives de lait de vache, matière grasse végétale de soja, épaississant, sorbate de potassium, sel.",
+  "additives": "",
+  "allergens": "en:milk,en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "8410707009350",
+  "outcome": "found",
+  "ingredients_text": "Eau, jus de grenade à base de concentré (20%), sucre, régulateur d'acidité : acide citrique, extrait de groseille et de carotte et arômes.",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "6911871523731",
+  "outcome": "found",
+  "ingredients_text": "Riz blanc, sel de l'Himalaya, multi-céréales.",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "0155013780040",
+  "outcome": "not_found",
+  "note": "Seulement composition minérale de l'eau, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "6974103370596",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8710912142461",
+  "outcome": "found",
+  "ingredients_text": "Eau, matière grasse végétale (huile de palme non hydrogénée), lait écrémé en poudre, protéines de lait, fromage, amidon de maïs modifié (E1422), sels de fonte (E450, E452, E331, E339), sel, conservateur : sorbate de potassium (E202).",
+  "additives": "en:e1422,en:e450,en:e452,en:e331,en:e339,en:e202",
+  "allergens": "en:milk",
+  "note": "Traduit de l'arabe"
+ },
+ {
+  "barcode": "8976423109113",
+  "outcome": "found",
+  "ingredients_text": "Farine de blé, farine de maïs, huile végétale, sel, sucre, arôme de ketchup : (maltodextrine E621, ail, capsicum 6% E621, E635, E330). Contient soja, gluten.",
+  "additives": "en:e621,en:e635,en:e330",
+  "allergens": "en:gluten,en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "00004690",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (complément en gélules)"
+ },
+ {
+  "barcode": "0904934230000",
+  "outcome": "not_found",
+  "note": "Photo floue/coupée, liste illisible"
+ },
+ {
+  "barcode": "6224008527244",
+  "outcome": "not_found",
+  "note": "Photo trop floue, liste illisible"
+ },
+ {
+  "barcode": "8435527221119",
+  "outcome": "not_found",
+  "note": "Valeurs nutritionnelles seulement, pas de liste"
+ },
+ {
+  "barcode": "0769503567051",
+  "outcome": "not_found",
+  "note": "Code-barres seulement, pas de liste"
+ },
+ {
+  "barcode": "0609137452579",
+  "outcome": "not_found",
+  "note": "Face avant seulement, pas de liste"
+ },
+ {
+  "barcode": "6223004371523",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire"
+ },
+ {
+  "barcode": "8410510091016",
+  "outcome": "not_found",
+  "note": "Pas de liste visible, face avec code-barres seulement"
+ },
+ {
+  "barcode": "0056191660707",
+  "outcome": "found",
+  "ingredients_text": "Arachides, sucre, huile de soya hydrogénée, sel, mono- et diglycérides d'acides gras. Contient des arachides et du soya.",
+  "additives": "",
+  "allergens": "en:peanuts,en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "3664538000139",
+  "outcome": "found",
+  "ingredients_text": "100% racines de yacon. Peut contenir des traces de fruits à coque.",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "4335619075054",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisses végétales (coco, karité, tournesol), 13,3% pâte de noisette, beurre de cacao, 9,3% lait écrémé en poudre, 6,8% lait entier en poudre, pâte de cacao, 3% biscuit (farine de blé, sucre, graisse de palme durable certifiée, sirop de glucose et fructose, lactosérum en poudre, agents levants : carbonates d'ammonium, carbonates de sodium ; sel, émulsifiant : lécithines [soja, tournesol] ; agent de traitement de la farine : métabisulfite de sodium ; arôme), émulsifiant : lécithines (soja, tournesol) ; arômes. Cacao : 35% minimum dans le chocolat au lait. Peut contenir des traces d'arachides, œuf et autres fruits à coque.",
+  "additives": "",
+  "allergens": "en:nuts,en:milk,en:gluten,en:soybeans,en:sulphur-dioxide-and-sulphites",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "0144052761318",
+  "outcome": "found",
+  "ingredients_text": "Lait frais entier, poudre de lait écrémé, texturant : amidon, ferments lactiques sélectionnés. Matière grasse : 3,3%.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "87298178",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache pasteurisé, sel, présure (végétarienne), ferments lactiques. Fromage 40% M.G.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "16111099000947",
+  "outcome": "not_found",
+  "note": "Photo d'une bouteille d'huile sans étiquette"
+ },
+ {
+  "barcode": "3492103380023",
+  "outcome": "not_found",
+  "note": "Seulement composition minérale de l'eau, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "0395032339526",
+  "outcome": "not_found",
+  "note": "Face avant seulement, pas de liste"
+ },
+ {
+  "barcode": "3053004690354",
+  "outcome": "found",
+  "ingredients_text": "Oignon (pour la production de 100 g d'oignon frit, 220 g d'oignon sont utilisés), huile végétale de palme, farine de blé (gluten) et sel.",
+  "additives": "",
+  "allergens": "en:gluten",
+  "note": "Traduit de l'espagnol"
+ },
+ {
+  "barcode": "1147933024730",
+  "outcome": "found",
+  "ingredients_text": "Sucre, graisse végétale, poudre de cacao, poudre de lactosérum, émulsifiants (lécithine de soja E322), vanilline identique à la saveur vanille naturelle, arôme noisettes. Peut contenir des traces de lactose, lécithine de soja, fruits à coque.",
+  "additives": "en:e322",
+  "allergens": "en:milk,en:soybeans",
+  "note": ""
+ },
+ {
+  "barcode": "0115435003035",
+  "outcome": "not_found",
+  "note": "Seulement composition minérale de l'eau, pas de liste d'ingrédients"
+ },
+ {
+  "barcode": "8436537528458",
+  "outcome": "not_found",
+  "note": "Face avant seulement, pas de liste"
+ },
+ {
+  "barcode": "3151290550595",
+  "outcome": "not_found",
+  "note": "Valeurs nutritionnelles seulement, pas de liste"
+ },
+ {
+  "barcode": "6976466621933",
+  "outcome": "not_found",
+  "note": "Produit non alimentaire (vape)"
+ },
+ {
+  "barcode": "5283003214628",
+  "outcome": "found",
+  "ingredients_text": "100% graines de sésame de qualité supérieure, rôties et moulues.",
+  "additives": "",
+  "allergens": "en:sesame-seeds",
+  "note": ""
+ },
+ {
+  "barcode": "3518073212079",
+  "outcome": "not_found",
+  "note": "Photo d'une chaussure, pas un emballage"
+ },
+ {
+  "barcode": "8422114641719",
+  "outcome": "not_found",
+  "note": "Valeurs nutritionnelles seulement, pas de liste"
+ },
+ {
+  "barcode": "6212508331317",
+  "outcome": "found",
+  "ingredients_text": "Champignons, eau, sel, acide citrique.",
+  "additives": "en:e330",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "5111466001328",
+  "outcome": "found",
+  "ingredients_text": "100% verveine.",
+  "additives": "",
+  "allergens": "",
+  "note": ""
+ },
+ {
+  "barcode": "9080925012112",
+  "outcome": "found",
+  "ingredients_text": "Lait de vache pasteurisé, crème pasteurisée, ferments lactiques, présure, sel.",
+  "additives": "",
+  "allergens": "en:milk",
+  "note": ""
+ },
+ {
+  "barcode": "0454066713921",
+  "outcome": "not_found",
+  "note": "Photo floue, liste illisible"
+ },
+ {
+  "barcode": "6224002270948",
+  "outcome": "not_found",
+  "note": "Liste partiellement illisible (traduction arabe/anglais incohérente)"
+ },
+ {
+  "barcode": "01952650",
+  "outcome": "found",
+  "ingredients_text": "Lait frais partiellement écrémé, sucre, texturant : amidon, préparation muesli : raisins secs, noisettes, noix, amandes, orge, avoine, blé, arômes, colorant naturel, ferments lactiques. Matière grasse : 1,2%.",
+  "additives": "",
+  "allergens": "en:milk,en:nuts,en:gluten",
+  "note": ""
+ }
+]

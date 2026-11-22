@@ -1,0 +1,5 @@
+.env
+data/photos/
+data/off_export/
+data/off_pages/
+__pycache__/
