@@ -18,8 +18,73 @@ class OffApi {
   final http.Client _client;
   OffApi([http.Client? client]) : _client = client ?? http.Client();
 
-  /// Retourne le produit, ou null s'il n'existe pas dans la base.
+  // Base Sahti (produits marocains vérifiés). Modifiable au build :
+  // --dart-define=SAHTI_API=https://...
+  static const _sahtiBase = String.fromEnvironment('SAHTI_API',
+      defaultValue: 'https://noted-orange-otter-67.hostingersite.com');
+
+  /// Retourne le produit, ou null s'il n'existe pas.
+  /// Cherche d'abord dans la base Sahti (fiches marocaines vérifiées),
+  /// puis sur Open Food Facts. Si la fiche Sahti n'a pas de nom ou d'image,
+  /// ils sont complétés depuis Open Food Facts.
   Future<Product?> fetch(String barcode) async {
+    final sahti = await _fetchSahti(barcode);
+    if (sahti != null &&
+        _str(sahti['product_name']).isNotEmpty &&
+        _str(sahti['image_front_url']).isNotEmpty) {
+      return Product.fromOff(barcode, sahti);
+    }
+    Map<String, dynamic>? off;
+    try {
+      off = await _fetchOff(barcode);
+    } catch (_) {
+      if (sahti == null) rethrow;
+    }
+    if (sahti == null) {
+      return off == null ? null : Product.fromOff(barcode, off);
+    }
+    final merged = Map<String, dynamic>.from(sahti);
+    if (off != null) {
+      for (final k in const [
+        'product_name',
+        'product_name_fr',
+        'product_name_ar',
+        'product_name_en',
+        'brands',
+        'image_front_url',
+        'image_url',
+        'labels_tags',
+      ]) {
+        final v = merged[k];
+        final empty = v == null || (v is String && v.trim().isEmpty) ||
+            (v is List && v.isEmpty);
+        if (empty && off[k] != null) merged[k] = off[k];
+      }
+    }
+    return Product.fromOff(barcode, merged);
+  }
+
+  static String _str(Object? v) => v is String ? v.trim() : '';
+
+  /// Fiche de la base Sahti, ou null (absente, erreur réseau, délai dépassé).
+  Future<Map<String, dynamic>?> _fetchSahti(String barcode) async {
+    try {
+      final res = await _client
+          .get(Uri.parse('$_sahtiBase/api/v1/products/$barcode'),
+              headers: {'User-Agent': _ua, 'Accept': 'application/json'})
+          .timeout(const Duration(seconds: 4));
+      if (res.statusCode != 200) return null;
+      final body = jsonDecode(utf8.decode(res.bodyBytes));
+      if (body is! Map || body['status'] != 1 || body['product'] is! Map) {
+        return null;
+      }
+      return Map<String, dynamic>.from(body['product'] as Map);
+    } catch (_) {
+      return null;
+    }
+  }
+
+  Future<Map<String, dynamic>?> _fetchOff(String barcode) async {
     final uri = Uri.parse('$_base/api/v2/product/$barcode.json'
         '?lc=fr&fields=code,product_name,product_name_fr,product_name_ar,'
         'product_name_en,brands,image_front_url,image_url,nutriscore_grade,'
@@ -33,7 +98,7 @@ class OffApi {
     }
     final body = jsonDecode(res.body) as Map<String, dynamic>;
     if (body['status'] != 1 || body['product'] == null) return null;
-    return Product.fromOff(barcode, body['product'] as Map<String, dynamic>);
+    return body['product'] as Map<String, dynamic>;
   }
 
   /// Crée ou complète un produit sur Open Food Facts avec ses photos.

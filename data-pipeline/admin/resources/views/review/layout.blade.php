@@ -43,7 +43,9 @@
 </style>
 </head>
 <body>
-<header><a class="brand" href="{{ route('review.index') }}">Sahti · validation</a><span class="muted">Admin local</span></header>
+<header><a class="brand" href="{{ route('review.index') }}">Sahti · validation</a><span class="muted">Admin</span>
+@if (session('sahti_admin'))<form method="post" action="{{ route('logout') }}" style="margin-left:auto">@csrf<button type="submit" style="background:none;border:1px solid var(--line)">Se déconnecter</button></form>@endif
+</header>
 <main>
   @if (session('ok'))<div class="ok">{{ session('ok') }}</div>@endif
   @yield('content')
